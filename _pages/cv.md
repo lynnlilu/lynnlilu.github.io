@@ -16,24 +16,48 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2018-present: Visiting Student
+  * Rutgers, The State University of New Jersey
+  * Duties included: Conduct research under the supervision of Porf. Yingying Chen. The joint Ph.D. training program is supported by China Scholarship Council. Currently, I am working on mmWave radar and relative application based on the radar sensor.
+  * Supervisor: Professor Yingying Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug. 2015-present: Research Assistant
+  * Shanghai Jiao Tong University
+  * Duties included: My previous research interest is cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
+  * Supervisor: Professor Jiadi Yu, Professor Minglu Li
+
+* Mar. 2018-Jul. 2018: Teaching Assistant
+  * Shanghai Jiao Tong University
+  * Duties included: TDA
+  * Supervisor: Professor Jiadi Yu
+
+* Sep. 2016-Jan. 2017: Teaching Assistant
+  * Shanghai Jiao Tong University
+  * Duties included: TDA
+  * Supervisor: Professor Jiadi Yu
+
+* Sep. 2015-Jan. 2016: Teaching Assistant
+  * Shanghai Jiao Tong University
+  * Duties included: TDA
+  * Supervisor: Professor Jiadi Yu
+
+* Jul. 2014-Aug. 2014: Research Assistant
+  * Zhejiang University
+  * Duties included: Under the supervision of Prof. Gang Pan. Mainly work on Biocomputing (implement a PCA algorithm for ECG signals).
+  * Supervisor: Professor Gan Pan
+
+* Jul. 2013-Aug. 2013: Research Assistant
+  * Xi'an Jiaotong University
+  * Duties included: Under the supervision of Prof. Yinliang Zhao.
+  * Supervisor: Professor Yinliang Zhao
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research
+* Python
+  * Pycharm
+* Matlab
 
 Publications
 ======
