@@ -2,7 +2,7 @@
 title: "LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones"
 collection: talks
 type: "Talk"
-permalink: /talks/2018-04-01-talk-infocom18
+permalink: /talks/2018-04-talk-infocom18
 venue: "Sensing, Recognition and Tracking 1"
 date: 2018-04-18
 location: "Honolulu, HI, USA"
