@@ -86,8 +86,9 @@ author:
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   googlescholar    : "https://scholar.google.com/citations?user=mQSqGYAAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Li_Lu87"
+  email            : "luli_jtu@sjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Li_Lu87"
+  orcid            : "https://orcid.org/0000-0001-5230-3749"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,10 +102,9 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5230-3749"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # 
   steam            :
   tumblr           :
   twitter          : 
