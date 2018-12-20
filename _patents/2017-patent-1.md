@@ -10,5 +10,3 @@ citation: 'Jiadi Yu, Li Lu. &quot; 基于智能终端的声音装置进行唇读
 ---
 
 
-[View the full patent](http://)
-
