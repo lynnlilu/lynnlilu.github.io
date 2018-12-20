@@ -82,3 +82,4 @@ Talks
 Professional Service
 ======
 * Reviewer: IEEE ICC 2017
+* Student Member: China Computer Federation (CCF)
