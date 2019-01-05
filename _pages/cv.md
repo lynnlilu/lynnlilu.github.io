@@ -41,12 +41,12 @@ Work experience
   * Duties included: TDA
   * Supervisor: Professor Jiadi Yu
 
-* Jul. 2014-Aug. 2014: Research Assistant
+* Jul. 2014-Aug. 2014: Summer Internship
   * Zhejiang University
   * Duties included: Under the supervision of Prof. Gang Pan. Mainly work on Biocomputing (implement a PCA algorithm for ECG signals).
   * Supervisor: Professor Gan Pan
 
-* Jul. 2013-Aug. 2013: Research Assistant
+* Jul. 2013-Aug. 2013: Summer Internship
   * Xi'an Jiaotong University
   * Duties included: Under the supervision of Prof. Yinliang Zhao.
   * Supervisor: Professor Yinliang Zhao
