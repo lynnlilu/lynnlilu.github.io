@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Computer Science and Technology, Xi'an Jiaotong University, 2015
-* Ph.D in Computer Science and Technology, Shanghai Jiao Tong University, 2020 (expected)
+* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2020 (expected)
 
 Work experience
 ======
