@@ -26,7 +26,7 @@ Work experience
   * Duties included: My previous research interest is cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
   * Supervisor: Professor Jiadi Yu, Professor Minglu Li
 
-* Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Spe. 2015-Jan. 2016: Teaching Assistant
+* Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
   * Shanghai Jiao Tong University
   * Duties included: TA for undergraduate course Software Engineering
   * Supervisor: Professor Jiadi Yu
