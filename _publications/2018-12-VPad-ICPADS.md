@@ -9,7 +9,7 @@ venue: 'The 24th International Conference on Parallel and Distributed Systems (I
 citation: 'Li Lu, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Minglu Li. (2018). &quot; VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals.&quot; <i>IEEE ICPADS 2018</i>.'
 ---
 
-To appear
+IEEE ICPADS is a CCF-C conference.
 
 [To appear](http://lynnlilu.github.io/files/VPad.pdf)
 
