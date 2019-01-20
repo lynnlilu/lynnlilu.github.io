@@ -9,5 +9,7 @@ venue: 'IEEE International Conference on Computer Communications (IEEE INFOCOM 2
 citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. (2019). &quot;KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals.&quot; <i>IEEE INFOCOM 2019</i>.'
 ---
 
+IEEE International Conference on Computer Communications is the top-level international conference in computer networking and communication. IEEE INFOCOM is also a CCF-A conference.
+
 [To appear](http://lynnlilu.github.io/files/no.pdf)
 
