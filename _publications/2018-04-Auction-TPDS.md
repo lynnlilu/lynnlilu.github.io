@@ -6,10 +6,12 @@ permalink: /publication/2018-04-Auction-TPDS
 date: 2018-04-01
 venue: 'IEEE Transactions on Parallel and Distributed Systems'
 #paperurl: 'http://lynnlilu.github.io/files/08170253.pdf'
-citation: 'Li Lu, Jiadi Yu, Yanmin Zhu, Minglu Li. (2018). &quot;A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets.&quot; <i>IEEE TPDS</i>. 29(4).'
+citation: 'Li Lu, Jiadi Yu, Yanmin Zhu, Minglu Li. (2018). &quot;A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets.&quot; <i>IEEE Transactions on Parallel and Distributed Systems</i>. 29(4).'
 ---
 
-Double auction-based pricing model is an efficient pricing model to balance users and providers' benefits. Existing double auction mechanisms usually require both users and providers to bid with the unit price and the number of VMs. However, in practice users seldom know the exact number of VMs that meets their task requirements, which leads to users task requirements inconsistent with providers resource. In this paper, we propose a truthful double auction mechanism, including a matching process as well as a pricing and VM allocation scheme, to bridge users' task requirements and providers resources in two-sided cloud markets. 
+IEEE TPDS is a CCF-A journal.
+
+Abstract: Double auction-based pricing model is an efficient pricing model to balance users and providers' benefits. Existing double auction mechanisms usually require both users and providers to bid with the unit price and the number of VMs. However, in practice users seldom know the exact number of VMs that meets their task requirements, which leads to users task requirements inconsistent with providers resource. In this paper, we propose a truthful double auction mechanism, including a matching process as well as a pricing and VM allocation scheme, to bridge users' task requirements and providers resources in two-sided cloud markets. 
 
 [View the full paper](http://lynnlilu.github.io/files/08170253.pdf)
 

@@ -9,5 +9,7 @@ venue: 'IEEE/ACM Transactions on Networking'
 citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. (2019). &quot;Lip Reading-based User Authentication through Acoustic Sensing on Smartphones.&quot; <i>IEEE/ACM Transactions on Networking</i>.'
 ---
 
+IEEE/ACM ToN is a CCF-A journal.
+
 To appear
 
