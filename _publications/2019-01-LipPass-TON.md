@@ -6,7 +6,7 @@ permalink: /publication/2019-01-LipPass-TON
 date: 2019-01-23
 venue: 'IEEE/ACM Transactions on Networking'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. (2019). &quot;Lip Reading-based User Authentication through Acoustic Sensing on Smartphones.&quot; <i>IEEE/ACM Transactions on Networking</i>.28(1)'
+citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. (2019). &quot;Lip Reading-based User Authentication through Acoustic Sensing on Smartphones.&quot; <i>IEEE/ACM Transactions on Networking</i>. 28(1)'
 ---
 
 IEEE/ACM Transactions on Networking is a top-level journal on computer networking and communications, which is co-sponsored by IEEE ComSoc, IEEE CS and ACM with SIGCOMM. IEEE/ACM ToN is a CCF-A journal.
