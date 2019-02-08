@@ -11,5 +11,8 @@ Li Lu is currently a Ph.D. Candidate of Department of Computer Science and Engin
 
 His research interest is on mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
 
-
-
+---
+excerpt: "News"
+---
+\[Feb., 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum]{https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips}.
+\[Nov. 2018\] I received the National Scholarship for Doctoral Student (30,000 RMB). Thanks to Prof. Jiadi Yu for his guidance and efforts. 
