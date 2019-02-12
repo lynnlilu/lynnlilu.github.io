@@ -62,6 +62,7 @@ Nov. 2014  National Encouragement Scholarship (国家励志奖学金)
 Nov. 2013  Excellent Undergraduate Student (优秀学生)
 Nov. 2013  Lu Shidi 2nd Scholarship (陆诗娣二等奖学金)
 Nov. 2012  Excellent Undergraduate Student (优秀学生)
+Nov. 2012  National Encouragement Scholarship (国家励志奖学金)
 
 Skills
 ======
