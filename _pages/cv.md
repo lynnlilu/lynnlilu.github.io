@@ -41,6 +41,27 @@ Work experience
   * Duties included: Under the supervision of Prof. Yinliang Zhao.
   * Supervisor: Prof. Yinliang Zhao
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Patents
+======
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Rewards
+======
+Nov. 2018  National Scholarship for Doctoral Students (博士研究生国家奖学金)
+Apr. 2015  Outstanding Graduate (优秀毕业生)
+Nov. 2014  Excellent Undergraduate Student (优秀学生)
+Nov. 2014  National Encouragement Scholarship (国家励志奖学金)
+Nov. 2013  Excellent Undergraduate Student (优秀学生)
+Nov. 2013  Lu Shidi 2nd Scholarship (陆诗娣二等奖学金)
+Nov. 2012  Excellent Undergraduate Student (优秀学生)
 
 Skills
 ======
@@ -55,19 +76,6 @@ Skills
   * Matlab
   * Android Developing
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Patents
-======
-  <ul>{% for post in site.patents %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
