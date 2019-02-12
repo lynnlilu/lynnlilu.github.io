@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /BingSiteAuth.xml
 title: "BingAuth"
 excerpt: "BingAuth"
 author_profile: true
