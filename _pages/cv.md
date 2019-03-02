@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science and Technology, Xi'an Jiaotong University, 2015
 * Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2020 (expected)
+* B.E. in Computer Science and Technology, Xi'an Jiaotong University, 2015
 
-Work experience
+Research experience
 ======
 * Oct. 2018-present: Visiting Research Student
   * Rutgers, The State University of New Jersey
