@@ -14,6 +14,7 @@ His research interest is on mobile and ubiquitous computing, cyber security and 
 
 News
 =====
+\[Mar. 2019\] One paper is accepted by ACM MobiHoc 2019. Congratulations!
 \[Feb. 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
 \[Nov. 2018\] I received the National Scholarship for Doctoral Student (30,000 RMB). Thanks to my advisor Prof. Jiadi Yu for his guidance and efforts. 
