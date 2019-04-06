@@ -6,7 +6,7 @@ permalink: /publication/2018-PARCOM
 date: 2018-12-15
 venue: 'Parallel Computing'
 #paperurl: 'http://lynnlilu.github.io/files/PARCOM18.pdf'
-citation: 'Yanhua Cao, Li Lu, Jiadi Yu, Shiyou Qian, Yanmin Zhu,, Minglu Li. (2018). &quot; Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds.&quot; <i>Parallel Computing</i>.'
+citation: 'Yanhua Cao, Li Lu, Jiadi Yu, Shiyou Qian, Yanmin Zhu,, Minglu Li. (2018). &quot; Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds.&quot; <i>Parallel Computing</i>. 81(1). pp. 85-103. doi: 10.1016/j.parco.2018.12.003.'
 ---
 
 PARCOM is a CCF-B journal.

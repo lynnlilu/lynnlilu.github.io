@@ -6,7 +6,7 @@ permalink: /publication/2019-04-KeyListener-infocom
 date: 2019-04-01
 venue: 'IEEE International Conference on Computer Communications (IEEE INFOCOM 2019)'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. (2019). &quot;KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals.&quot; <i>IEEE INFOCOM 2019</i>.'
+citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. (2019). &quot;KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals.&quot; <i>IEEE INFOCOM 2019</i>. Paris, France.'
 ---
 
 IEEE International Conference on Computer Communications is the top-level international conference in computer networking and communication. IEEE INFOCOM is also a CCF-A conference.
