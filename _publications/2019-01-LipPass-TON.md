@@ -11,7 +11,7 @@ citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, 
 
 This work was first reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips) on Feburary, 2019. 
 
-Following this news, many media also reprint the new to report our work. Parts of them are listed in the following.
+Following this news, many media reprint the news to report our work. Parts of them are listed as follows.
 
 1.	搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
 
