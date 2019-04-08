@@ -9,4 +9,4 @@ date: 2018-10-26
 citation: 'Jiadi Yu, Li Lu. &quot; 基于智能终端的声音装置进行唇读的用户认证方法及系统.&quot; <i>ZL201710952236.9</i>. 2018. P.R.China.'
 ---
 
-
+I am the first student inventor of this patent.

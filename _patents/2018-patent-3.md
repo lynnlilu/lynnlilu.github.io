@@ -7,4 +7,5 @@ date: 2018-05-08
 citation: 'Jiadi Yu, Li Lu. &quot;基于滑动式交互操作的推荐系统及方法.&quot; <i>ZL201710315487.6</i>. 2018. P.R.China.'
 ---
 
+I am the first student inventor of this patent.
 
