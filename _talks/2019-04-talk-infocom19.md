@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-04-talk-infocom19
 venue: "4-D: Crowdsensing"
-date: 2018-05-01
+date: 2019-05-01
 location: "Paris, France"
 ---
 
