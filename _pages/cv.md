@@ -64,18 +64,6 @@ Rewards
 * Nov. 2012  Excellent Undergraduate Student (优秀学生)
 * Nov. 2012  National Encouragement Scholarship (国家励志奖学金)
 
-Skills
-======
-* Research
-  * Mobile Computing
-  * Cyber Security and Privacy
-  * Human-Computer Interaction
-  * Cloud Computing
-  * Network Economic
-* Programming
-  * Python
-  * Matlab
-  * Android Developing
 
 Talks
 ======
