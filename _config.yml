@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Lu's Homepage"
+title                    : "Li Lu(卢立)'s Homepage"
 title_separator          : "-"
 name                     : &name "Li Lu"
 description              : &description "Ph.D. Candidate @Shanghai Jiao Tong University"
