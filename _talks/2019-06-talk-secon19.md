@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-06-talk-secon19
 venue: "A2: Localization and tracking"
-date: 2019-06-01
+date: 2019-06-11
 location: "Boston, MA, USA"
 ---
 
