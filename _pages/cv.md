@@ -19,27 +19,27 @@ Research experience
 * Oct. 2018-present: Visiting Research Student
   * Rutgers, The State University of New Jersey
   * Duties included: Conduct research under the supervision of Porf. Yingying Chen. The joint Ph.D. training program is supported by China Scholarship Council. Currently, I am working on mmWave radar and relative application based on the radar sensor.
-  * Supervisor: Prof. Yingying Chen
+  * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/)
 
 * Aug. 2015-present: Research Assistant
   * Shanghai Jiao Tong University
   * Duties included: My previous research interest is cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
-  * Supervisor: Prof. Jiadi Yu, Prof. Minglu Li
+  * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. Minglu Li
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
   * Shanghai Jiao Tong University
   * Duties included: TA for undergraduate course Software Engineering
-  * Supervisor: Prof. Jiadi Yu
+  * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
 
 * Jul. 2014-Aug. 2014: Summer Internship
   * Zhejiang University
   * Duties included: Under the supervision of Prof. Gang Pan. Mainly work on Biocomputing (implement a PCA algorithm for ECG signals).
-  * Supervisor: Prof. Gan Pan
+  * Supervisor: Prof. [Gan Pan](https://person.zju.edu.cn/gpan)
 
 * Jul. 2013-Aug. 2013: Summer Internship
   * Xi'an Jiaotong University
   * Duties included: Under the supervision of Prof. Yinliang Zhao.
-  * Supervisor: Prof. Yinliang Zhao
+  * Supervisor: Prof. [Yinliang Zhao](http://gr.xjtu.edu.cn/web/zhaoy)
 
 Publications
 ======
@@ -75,4 +75,4 @@ Talks
 Professional Service
 ======
 * Reviewer: IEEE ICC 2017
-* Student Member: China Computer Federation (CCF)
+* Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
