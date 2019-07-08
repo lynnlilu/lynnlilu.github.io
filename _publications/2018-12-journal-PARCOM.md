@@ -1,7 +1,7 @@
 ---
 title: "Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds"
 collection: publications
-permalink: /publication/2018-journal-PARCOM
+permalink: /publication/2018-12-journal-PARCOM
 #excerpt: ''
 date: 2018-12-15
 venue: 'Parallel Computing'

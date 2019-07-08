@@ -1,7 +1,7 @@
 ---
 title: "Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting"
 collection: publications
-permalink: /publication/2017-conference-WISE
+permalink: /publication/2017-10-conference-WISE
 #excerpt: ''
 date: 2017-10-04
 venue: 'International Conference on Web Information Systems Engineering (WISE 2017)'
