@@ -174,10 +174,7 @@ kramdown:
 collections:
   publications:
     output: true
-    permalink: /:collection/:path/conference
-  publications_journal:
-    output: true
-    permalink: /:collection/:path/journal
+    permalink: /:collection/:path/
   patents:
     output: true
     permalink: /:collection/:path/
@@ -195,15 +192,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications/conference
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-  # _publications/journal
+  # _publications
   - scope:
       path: ""
       type: publications
