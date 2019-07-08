@@ -1,6 +1,8 @@
 ---
 title: "Poster: Inaudible High-throughput Communication Through Acoustic Signals"
 collection: publications
+catogories: 
+    - poster
 permalink: /publication/2019-10-poster-BatComm_poster-mobicom
 #excerpt: ''
 date: 2019-10-01

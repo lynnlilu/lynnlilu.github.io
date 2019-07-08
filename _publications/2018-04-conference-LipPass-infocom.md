@@ -1,6 +1,8 @@
 ---
 title: "LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones"
 collection: publications
+catogories: 
+    - conference
 permalink: /publication/2018-04-conference-LipPass-infocom
 #excerpt: ''
 date: 2018-04-18

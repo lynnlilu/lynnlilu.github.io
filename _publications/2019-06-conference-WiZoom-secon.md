@@ -1,6 +1,8 @@
 ---
 title: "WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth"
 collection: publications
+catogories: 
+    - conference
 permalink: /publication/2019-06-conference-WiZoom-secon
 #excerpt: ''
 date: 2019-06-01

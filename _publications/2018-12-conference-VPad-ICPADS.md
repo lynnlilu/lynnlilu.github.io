@@ -1,6 +1,8 @@
 ---
 title: "VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals"
 collection: publications
+catogories: 
+    - conference
 permalink: /publication/2018-12-conference-VPad-ICPADS
 #excerpt: ''
 date: 2018-12-12

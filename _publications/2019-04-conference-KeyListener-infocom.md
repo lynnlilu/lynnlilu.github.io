@@ -1,6 +1,8 @@
 ---
 title: "KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals"
 collection: publications
+catogories: 
+    - conference
 permalink: /publication/2019-04-conference-KeyListener-infocom
 #excerpt: ''
 date: 2019-04-01

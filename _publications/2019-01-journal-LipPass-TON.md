@@ -1,6 +1,8 @@
 ---
 title: "Lip Reading-based User Authentication through Acoustic Sensing on Smartphones"
 collection: publications
+catogories: 
+    - journal
 permalink: /publication/2019-01-journal-LipPass-TON
 #excerpt: ''
 date: 2019-02-15

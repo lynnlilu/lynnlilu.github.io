@@ -1,6 +1,8 @@
 ---
 title: "Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting"
 collection: publications
+catogories: 
+    - conference
 permalink: /publication/2017-10-conference-WISE
 #excerpt: ''
 date: 2017-10-04
