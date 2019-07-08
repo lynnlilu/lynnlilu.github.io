@@ -1,5 +1,5 @@
 ---
-layout: category-archive
+layout: categories
 title: "Publications"
 permalink: /publications/
 author_profile: true
