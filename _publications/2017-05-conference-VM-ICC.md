@@ -1,7 +1,7 @@
 ---
 title: "Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy"
 collection: publications
-permalink: /publication/2017-05-VM-ICC
+permalink: /publication/2017-05-conference-VM-ICC
 #excerpt: 'This paper is about VM configuration algorithm.'
 date: 2017-05-24
 venue: 'IEEE International Conference on Communications (IEEE ICC 2017)'

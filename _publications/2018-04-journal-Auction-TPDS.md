@@ -1,7 +1,7 @@
 ---
 title: "A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets"
 collection: publications
-permalink: /publication/2018-04-Auction-TPDS
+permalink: /publication/2018-04-journal-Auction-TPDS
 #excerpt: 'This paper is about a double auction mechanism.'
 date: 2018-04-01
 venue: 'IEEE Transactions on Parallel and Distributed Systems'

@@ -1,18 +1,11 @@
 ---
-layout: archive
+layout: category-archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-Conference Papers
-======
-{% for post in site.publications/conference reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Journal Papers
-======
-{% for post in site.publications/journal reversed %}
-  {% include archive-single.html %}
-{% endfor %}

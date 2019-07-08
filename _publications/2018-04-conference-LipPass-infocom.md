@@ -1,7 +1,7 @@
 ---
 title: "LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones"
 collection: publications
-permalink: /publication/2018-04-LipPass-infocom
+permalink: /publication/2018-04-conference-LipPass-infocom
 #excerpt: ''
 date: 2018-04-18
 venue: 'IEEE International Conference on Computer Communications (IEEE INFOCOM 2018)'

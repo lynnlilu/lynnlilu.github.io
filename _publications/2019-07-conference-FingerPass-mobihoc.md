@@ -1,7 +1,7 @@
 ---
 title: "FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi"
 collection: publications
-permalink: /publication/2019-07-FingerPass-mobihoc
+permalink: /publication/2019-07-conference-FingerPass-mobihoc
 #excerpt: ''
 date: 2019-07-01
 venue: 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (ACM MobiHoc 2019)'

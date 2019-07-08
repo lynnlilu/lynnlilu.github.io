@@ -1,7 +1,7 @@
 ---
 title: "VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals"
 collection: publications
-permalink: /publication/2018-12-VPad-ICPADS
+permalink: /publication/2018-12-conference-VPad-ICPADS
 #excerpt: ''
 date: 2018-12-12
 venue: 'The 24th International Conference on Parallel and Distributed Systems (IEEE ICPADS 2018)'

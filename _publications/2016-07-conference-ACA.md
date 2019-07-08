@@ -1,7 +1,7 @@
 ---
 title: "An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters"
 collection: publications
-permalink: /publication/2016-07-ACA
+permalink: /publication/2016-07-conference-ACA
 #excerpt: ''
 date: 2016-08-09
 venue: 'Conference on Advanced Computer Architecture (ACA 2016)'

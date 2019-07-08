@@ -1,7 +1,7 @@
 ---
 title: "Lip Reading-based User Authentication through Acoustic Sensing on Smartphones"
 collection: publications
-permalink: /publication/2019-01-LipPass-TON
+permalink: /publication/2019-01-journal-LipPass-TON
 #excerpt: ''
 date: 2019-02-15
 venue: 'IEEE/ACM Transactions on Networking'
@@ -9,7 +9,7 @@ venue: 'IEEE/ACM Transactions on Networking'
 citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. (2019). &quot;Lip Reading-based User Authentication through Acoustic Sensing on Smartphones.&quot; <i>IEEE/ACM Transactions on Networking</i>. 27(1). pp. 447-460. doi: 10.1109/TNET.2019.2891733'
 ---
 
-This work was first reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips) on Feburary, 2019. 
+This work was reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips) on Feburary, 2019. 
 
 Following this news, many media reprint the news to report our work. Parts of them are listed as follows.
 
