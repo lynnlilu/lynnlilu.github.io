@@ -14,6 +14,8 @@ His research interest is on mobile and ubiquitous computing, cyber security and 
 
 News
 =====
+\[Jul. 2019] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
+
 \[Mar. 2019\] One paper is accepted by ACM MobiHoc 2019, which is collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
 
 \[Feb. 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
