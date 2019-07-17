@@ -38,7 +38,7 @@ Research experience
 
 * Jul. 2013-Aug. 2013: Summer Internship
   * Xi'an Jiaotong University
-  * Duties included: Under the supervision of Prof. Yinliang Zhao.
+  * Duties included: Under the supervision of Prof. Yinliang Zhao. Mainly work on the code reverse engineering of ARM-based program.
   * Supervisor: Prof. [Yinliang Zhao](http://gr.xjtu.edu.cn/web/zhaoy)
 
 Publications
