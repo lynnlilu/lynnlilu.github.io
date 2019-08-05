@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am expected to graduate in June 2020. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
+
 Li Lu is currently a Ph.D. Candidate of Department of Computer Science and Enginneering at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the bechalor of engineering majoring in Computer Science and Technology at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018, he visits [Rutgers, The State University of New Jersey](http://www.rutgers.edu) for 1 year, under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/), with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
 
 His research interest is on mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
@@ -14,7 +16,7 @@ His research interest is on mobile and ubiquitous computing, cyber security and 
 
 News
 =====
-\[Jul. 2019] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
+\[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
 
 \[Mar. 2019\] One paper is accepted by ACM MobiHoc 2019, which is collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
 
