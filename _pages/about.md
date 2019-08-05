@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am expected to graduate in June 2020. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
 
+Brief Biography
+=====
 Li Lu is currently a Ph.D. Candidate of Department of Computer Science and Enginneering at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the bechalor of engineering majoring in Computer Science and Technology at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018, he visits [Rutgers, The State University of New Jersey](http://www.rutgers.edu) for 1 year, under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/), with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
 
 His research interest is on mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
