@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Latest Update
+=====
 I am expected to graduate in June 2020. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
 
 Brief Biography
