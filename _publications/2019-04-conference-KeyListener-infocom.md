@@ -13,5 +13,5 @@ citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue,
 
 IEEE International Conference on Computer Communications is the top-level international conference in computer networking and communication. IEEE INFOCOM is also a CCF-A conference.
 
-[Full paper](https://ieeexplore.ieee.org/document/8737591)
+[View the full paper](https://ieeexplore.ieee.org/document/8737591)
 

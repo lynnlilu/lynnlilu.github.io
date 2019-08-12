@@ -13,5 +13,5 @@ citation: 'Hao Kong, Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Mi
 
 I am the co-first author of this paper. ACM International Symposium on Mobile Ad Hoc Networking and Computing is the top-level international conference in mobile networking and computing. ACM MobiHoc is also a CCF-B conference.
 
-[Full paper](https://dl.acm.org/citation.cfm?doid=3323679.3326518)
+[View the full paper](https://dl.acm.org/citation.cfm?doid=3323679.3326518)
 
