@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Full CV](http://lynnlilu.github.io/files/cv-luli.pdf)
 
 Education
 ======
