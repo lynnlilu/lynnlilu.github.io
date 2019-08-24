@@ -19,7 +19,7 @@ Research experience
 ======
 * Oct. 2018-present: Visiting Research Student
   * Rutgers, The State University of New Jersey
-  * Duties included: Conduct research under the supervision of Porf. Yingying Chen. The joint Ph.D. training program is supported by China Scholarship Council. Currently, I am working on mmWave radar and relative application based on the radar sensor.
+  * Duties included: Conduct research under the supervision of Porf. Yingying Chen at WINLAB and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. Currently, I am working on mmWave radar and relative application based on the radar sensor.
   * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/)
 
 * Aug. 2015-present: Research Assistant
@@ -29,7 +29,7 @@ Research experience
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
   * Shanghai Jiao Tong University
-  * Duties included: TA for undergraduate course Software Engineering
+  * Duties included: TA for undergraduate course Software Engineering.
   * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
 
 * Jul. 2014-Aug. 2014: Summer Internship
@@ -75,5 +75,5 @@ Talks
 
 Professional Service
 ======
-* Reviewer: IEEE ICC 2017
+* Reviewer: IEEE ICC 2017, ACM AIIPCC 2019.
 * Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
