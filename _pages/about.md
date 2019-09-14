@@ -20,7 +20,7 @@ His research interest is on mobile and ubiquitous computing, cyber security and 
 
 News
 =====
-\[Sep. 2019] I am nominated as the candidate raanking 1st for the National Scholarship for Doctoral Student in 2019. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
+\[Sep. 2019] I am nominated as the candidate raanking 1st for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
 
 \[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
 
@@ -28,4 +28,4 @@ News
 
 \[Feb. 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
-\[Nov. 2018\] I received the National Scholarship for Doctoral Student (30,000 RMB). Thanks to my advisor Prof. Jiadi Yu for his guidance and efforts. 
+\[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. Thanks to my advisor Prof. Jiadi Yu for his guidance and efforts. 
