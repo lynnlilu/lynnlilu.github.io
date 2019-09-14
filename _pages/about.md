@@ -20,7 +20,7 @@ His research interest is on mobile and ubiquitous computing, cyber security and 
 
 News
 =====
-\[Sep. 2019] I am nominated as the candidate raanking 1st for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
+\[Sep. 2019] I am nominated as the candidate ranking 1st for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
 
 \[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
 
