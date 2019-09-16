@@ -72,8 +72,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-
-Professional Service
-======
-* Reviewer: IEEE ICC 2017, ACM AIIPCC 2019.
-* Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
