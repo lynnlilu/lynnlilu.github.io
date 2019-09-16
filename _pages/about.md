@@ -15,12 +15,19 @@ Brief Biography
 =====
 Li Lu is currently a Ph.D. Candidate of Department of Computer Science and Enginneering at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the bechalor of engineering majoring in Computer Science and Technology at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018, he visits [Rutgers, The State University of New Jersey](http://www.rutgers.edu) for 1 year, under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/), with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
 
-His research interest is on mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
+Research Interests
+======
+His research interests include mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications. Previously, I also conduct researches on network economics and cloud computing.
 
+Professional Services
+======
+* Technical Program Committee: IEEE ICPADS 2019.
+* Reviewer: IEEE ICC 2017, ACM AIIPCC 2019.
+* Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
 
 News
 =====
-\[Sep. 2019] I am nominated as the candidate ranking 1st for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
+\[Sep. 2019] I am nominated as the candidate ranking 1st in the Dept. CSE of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15583.htm)
 
 \[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
 
