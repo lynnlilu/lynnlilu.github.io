@@ -17,7 +17,7 @@ Li Lu is currently a Ph.D. Candidate of Department of Computer Science and Engin
 
 Research Interests
 ======
-His research interests include mobile and ubiquitous computing, cyber security and privacy. The main work is to adopt signal processing and machine learning techniques in mobile network and applications. Previously, I also conduct researches on network economics and cloud computing.
+His research interests include mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications. Previously, he also conducted researches on network economics and cloud computing.
 
 Professional Services
 ======
