@@ -17,14 +17,14 @@ Education
 
 Research & Teaching Experience
 ======
-* Oct. 2018-present: Visiting Research Student
+* Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey
-  * Duties included: Conduct research under the supervision of Porf. Yingying Chen at WINLAB and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. Currently, I am working on mmWave radar and relative application based on the radar sensor.
+  * Duties included: Conducted research under the supervision of Porf. Yingying Chen at WINLAB and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. During the period, I mainly worked on acoustic-based communication system and mmWave radar-based sensing applications.
   * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/)
 
 * Aug. 2015-present: Research Assistant
   * Shanghai Jiao Tong University
-  * Duties included: My previous research interest is cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
+  * Duties included: My previous research interest was cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
   * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. Minglu Li
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
@@ -34,12 +34,12 @@ Research & Teaching Experience
 
 * Jul. 2014-Aug. 2014: Summer Internship
   * Zhejiang University
-  * Duties included: Under the supervision of Prof. Gang Pan. Mainly work on Biocomputing (implement a PCA algorithm for ECG signals).
+  * Duties included: Under the supervision of Prof. Gang Pan. Mainly worked on Biocomputing (implement a PCA algorithm for ECG signals).
   * Supervisor: Prof. [Gan Pan](https://person.zju.edu.cn/gpan)
 
 * Jul. 2013-Aug. 2013: Summer Internship
   * Xi'an Jiaotong University
-  * Duties included: Under the supervision of Prof. Yinliang Zhao. Mainly work on the code reverse engineering of ARM-based program.
+  * Duties included: Under the supervision of Prof. Yinliang Zhao. Mainly worked on the code reverse engineering of ARM-based program.
   * Supervisor: Prof. [Yinliang Zhao](http://gr.xjtu.edu.cn/web/zhaoy)
 
 Publications
