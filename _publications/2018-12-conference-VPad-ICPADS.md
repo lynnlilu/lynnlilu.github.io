@@ -13,5 +13,5 @@ citation: 'Li Lu, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Min
 
 IEEE ICPADS is a CCF-C conference.
 
-[View the full paper](http://lynnlilu.github.io/files/VPad.pdf)
+[View the full paper](https://ieeexplore.ieee.org/document/8644615)
 
