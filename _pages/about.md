@@ -27,7 +27,9 @@ Professional Services
 
 News
 =====
-\[Sep. 2019] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+\[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
+
+\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
 
 \[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
 
