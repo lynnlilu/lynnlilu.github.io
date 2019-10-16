@@ -11,7 +11,7 @@ venue: 'IEEE Transactions on Mobile Computing'
 citation: 'Jiadi Yu, Li Lu, Yingying Chen, Yanmin Zhu, Linghe Kong. (2019). &quot;An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing.&quot; <i>IEEE Transactions on Mobile Computing</i>. to appear.'
 ---
 
-IEEE Transactions on Mobile Computing is a top-level journal on mobile computing and communication. IEEE TMC is a CCF-A journal.
+I am the first student author of this paper. IEEE Transactions on Mobile Computing is a top-level journal on mobile computing and communication. IEEE TMC is a CCF-A journal. 
 
 
 [To appear](https://ieeexplore.ieee.org/document/no)
