@@ -27,6 +27,8 @@ Professional Services
 
 News
 =====
+\[Oct. 2019\] We received the best poster award in ACM MobiCom 2019, which is collaborated with Prof. Yingying Chen's group. Congratulations!
+
 \[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
 
 \[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
