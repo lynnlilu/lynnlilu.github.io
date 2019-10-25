@@ -27,7 +27,7 @@ Professional Services
 
 News
 =====
-\[Oct. 2019\] We received the best poster award in ACM MobiCom 2019, which is collaborated with Prof. Yingying Chen's group. Congratulations!
+\[Oct. 2019\] We received the best runner-up poster award in ACM MobiCom 2019, which is collaborated with Prof. Yingying Chen's group. Congratulations!
 
 \[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
 
