@@ -13,5 +13,7 @@ citation: 'Li Lu, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Min
 
 IEEE ICPADS is a CCF-C conference.
 
+Abstract: Human-computer interaction based on touch screens plays an increasing role in our daily lives. Besides smartphones and tablets, laptops are the most popular mobile devices used in both work and leisure. To satisfy requirements of many emerging applications, it becomes desirable to equip both writing and drawing functions directly on laptop screens. In this paper, we design a virtual writing tablet system, VPad, for traditional laptops without touch screens. VPad leverages two speakers and one microphone, which are available in most commodity laptops, for trajectory tracking without additional hardware. It employs acoustic signals to accurately track hand movements and recognize characters user writes in the air.
+
 [View the full paper](https://ieeexplore.ieee.org/document/8644615)
 

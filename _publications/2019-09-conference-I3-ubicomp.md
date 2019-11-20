@@ -13,5 +13,7 @@ citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. (2
 
 Proceedings of ACM Interaction Mobile Wearable Ubiquitous Technology is the top-level international journal in ubiquitous computing, which is previously the top-level international conference ACM Ubicomp. This paper was also presented in ACM Ubicomp 2019. ACM Ubicomp is a CCF-A conference. 
 
+Abstract: The scrolling interaction is a pervasive human-computer interaction on smartphones, which can reflect intrinsic characteristics during dynamic browsings. Different from extrinsic statistical measures like frequency of visits and dwell time, intrinsic features underlying scrolling interactions reveal fine-grained implicit feedbacks about user interests. Toward this end, we explore user interest inference by extracting efficient browsing features from scrolling human-computer interactions on smartphones. In this paper, we first analyze browsing traces of 40 volunteers, and find two intrinsic browsing features underlying scrolling interactions, i.e., browsing velocity stability and browsing velocity sequence, which are tightly related to user interests. Inspired by the observation, we propose an Intelligent Interest Inference system, I3, which infers user interests through sensing scrolling interactions during browsings.
+
 [View the full paper](https://dl.acm.org/citation.cfm?id=3351255)
 

@@ -13,5 +13,7 @@ citation: 'Li Lu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue,
 
 IEEE International Conference on Computer Communications is the top-level international conference in computer networking and communication. IEEE INFOCOM is also a CCF-A conference.
 
+Abstract: This paper demonstrates the feasibility of a side-channel attack to infer keystrokes on touch screen leveraging an off-the-shelf smartphone. Although there exist some studies on keystroke eavesdropping attacks on touch screen, they are mainly direct eavesdropping attacks, i.e., require the device of victims compromised to provide side-channel information for the adversary, which are hardly launched in practical scenarios. In this work, we show the practicability of an indirect eavesdropping attack, KeyListener, which infers keystrokes on QWERTY keyboards of touch screen leveraging audio devices on a smartphone.
+
 [View the full paper](https://ieeexplore.ieee.org/document/8737591)
 
