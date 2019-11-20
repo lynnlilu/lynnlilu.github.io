@@ -27,13 +27,15 @@ Professional Services
 
 News
 =====
-\[Oct. 2019\] We received the best runner-up poster award in ACM MobiCom 2019, which is collaborated with Prof. Yingying Chen's group. Congratulations!
+\[Nov. 2019\] I received the student travel grant from the Global Young Scientists Summit Singapore 2020.
+
+\[Oct. 2019\] We received the best runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
 
 \[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
 
 \[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
 
-\[Jul. 2019\] One paper is accepted by ACM IMWUT, which will be presented in Ubicomp 2019.
+\[Jul. 2019\] One paper is accepted by ACM IMWUT, which is presented in Ubicomp 2019.
 
 \[Mar. 2019\] One paper is accepted by ACM MobiHoc 2019, which is collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
 
