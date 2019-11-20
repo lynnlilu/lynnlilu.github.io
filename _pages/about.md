@@ -13,11 +13,11 @@ I am expected to graduate in June 2020. Now I am seeking for the fulltime opport
 
 Brief Biography
 =====
-Li Lu is currently a Ph.D. Candidate in [Department of Computer Science and Enginneering](http://www.cs.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the B.E. majoring in Computer Science and Technology and B.Admin in Business Administration at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018 to Sep. 2019, he visits [Rutgers, The State University of New Jersey](http://www.rutgers.edu) for 1 year, under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) at [WINLAB](http://winlab.rutgers.edu/) and [Dept. Electrical and Computer Engineering](https://www.ece.rutgers.edu/), with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
+Li Lu is currently a Ph.D. Candidate in [Department of Computer Science and Enginneering](http://www.cs.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the B.E. majoring in Computer Science and Technology and B.Admin in Business Administration at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018 to Sep. 2019, he visits [WINLAB](http://winlab.rutgers.edu/) and [Dept. Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers, The State University of New Jersey](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
 
 Research Interests
 ======
-His research interests include mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications. Previously, he also conducted researches on network economics and cloud computing.
+His research interests include mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to employ signal processing and machine learning techniques in mobile sensing and communications to realize interesting and futuristic applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
 
 Professional Services
 ======
