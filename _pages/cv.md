@@ -25,7 +25,7 @@ Research & Teaching Experience
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey
   * Duties included: Conducted research under the supervision of Prof. Yingying Chen at WINLAB and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. During the period, I mainly worked on acoustic-based communication system and mmWave radar-based sensing applications.
-  * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/)
+  * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow)
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
   * Shanghai Jiao Tong University
