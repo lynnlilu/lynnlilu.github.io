@@ -57,7 +57,7 @@ Patents
 Awards
 ======
 * Nov. 2019 Student Travel Grant of Global Young Scientists Summit (GYSS) 2020
-* Oct. 2019 Best Runner-up Poster Award of ACM MobiCom 2019
+* Oct. 2019 First Runner-up Poster Award of ACM MobiCom 2019
 * Nov. 2018 National Scholarship for Doctoral Students (博士研究生国家奖学金)
 * Apr. 2015 Outstanding Graduate (优秀毕业生)
 * Nov. 2014 Excellent Undergraduate Student (优秀学生)

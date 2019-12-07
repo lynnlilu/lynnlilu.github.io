@@ -27,7 +27,7 @@ Professional Services
 
 News
 =====
-\[Nov. 2019\] My advisor during the visiting to U.S. Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations!
+\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations!
 
 \[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhangjiang University of Technology.
 
