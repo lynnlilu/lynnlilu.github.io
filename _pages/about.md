@@ -35,7 +35,7 @@ News
 
 \[Nov. 2019\] I received the student travel grant from the Global Young Scientists Summit Singapore 2020.
 
-\[Oct. 2019\] We received the best runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
+\[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
 
 \[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
 
