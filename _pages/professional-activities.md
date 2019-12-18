@@ -4,8 +4,9 @@ title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
 ---
+I have served for many professional activities.
 
-Technical Program Committee
+Technical Program Committee Member
 ======
 * [IEEE ICPADS 2019](http://www.icpads2019.cn/)
 
@@ -22,15 +23,17 @@ Co-reviewer
 * Journal
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Parallel and Distributed Systems
+  * IEEE Transactions on Industrial Informatics
+  * Journal of Computer Security
 
-* International Conferences
-  * IEEE INFOCOM
-  * ACM MobiSys
-  * ACM CCS
-  * IEEE ICPADS
-  * IEEE DySpan
+* International Conference
+  * IEEE International Conference on Computer Communications (IEEE INFOCOM)
+  * ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)
+  * ACM International Conference on Computer and Communications Security (ACM CCS)
+  * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS)
+  * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
 
-Academic Organization
+Academic Organization Member
 ======
 * Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
   
