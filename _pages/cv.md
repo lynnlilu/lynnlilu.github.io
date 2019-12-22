@@ -35,7 +35,7 @@ Research & Teaching Experience
 * Jul. 2014-Aug. 2014: Summer Internship
   * Zhejiang University
   * Duties included: Under the supervision of Prof. Gang Pan. Mainly worked on Biocomputing (implement a PCA algorithm for ECG signals).
-  * Supervisor: Prof. [Gan Pan](https://person.zju.edu.cn/gpan)
+  * Supervisor: Prof. [Gang Pan](https://person.zju.edu.cn/gpan)
 
 * Jul. 2013-Aug. 2013: Summer Internship
   * Xi'an Jiaotong University
