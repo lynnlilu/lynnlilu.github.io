@@ -13,7 +13,7 @@ I am expected to graduate in June 2020. Now I am seeking for the fulltime opport
 
 Brief Biography
 =====
-Li Lu is currently a Ph.D. Candidate in [Department of Computer Science and Enginneering](http://www.cs.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the B.E. majoring in Computer Science and Technology and B.Admin in Business Administration at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018 to Sep. 2019, he visits [WINLAB](http://winlab.rutgers.edu/) and [Dept. Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers, The State University of New Jersey](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow) with the sponsorship of [China Scholarship Council (CSC)](https://www.csc.edu.cn).
+Li Lu is currently a Ph.D. Candidate in [Department of Computer Science and Enginneering](http://www.cs.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), under the supervision of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93). He received the B.E. majoring in Computer Science and Technology and B.Admin in Business Administration at [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. From Oct. 2018 to Sep. 2019, he visits Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Dept. Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers, The State University of New Jersey](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow) with the sponsorship of China Scholarship Council ([CSC](https://www.csc.edu.cn)).
 
 Research Interests
 ======
@@ -23,11 +23,11 @@ Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
 * Reviewer: IEEE ICC 2017, ACM AIIPCC 2019, Journal of Cloud Computing.
-* Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
+* Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
 
 News
 =====
-\[Dec. 2018\] I received the National Scholarship for Doctoral Student at the 2019 academic year. Thanks to my advisor Prof. Jiadi Yu for his guidance. 
+\[Dec. 2018\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
 
 \[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations!
 
@@ -47,4 +47,4 @@ News
 
 \[Feb. 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
-\[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. Thanks to my advisor Prof. Jiadi Yu for his guidance and efforts. 
+\[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. 

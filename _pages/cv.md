@@ -24,7 +24,7 @@ Research & Teaching Experience
 
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey
-  * Duties included: Conducted research under the supervision of Prof. Yingying Chen at WINLAB and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. During the period, I mainly worked on acoustic-based communication system and mmWave radar-based sensing applications.
+  * Duties included: Conducted research under the supervision of Prof. Yingying Chen at Wireless Information Network Laboratory (WINLAB) and Department of Electrical and Computer Engineering. The joint Ph.D. training program is supported by China Scholarship Council. During the period, I mainly worked on acoustic-based communication system and mmWave radar-based sensing applications.
   * Supervisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow)
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
@@ -57,7 +57,7 @@ Patents
 Awards
 ======
 * Dec. 2019 National Scholarship for Doctoral Students (博士研究生国家奖学金)
-* Nov. 2019 Student Travel Grant of Global Young Scientists Summit (GYSS) 2020
+* Nov. 2019 Student Travel Grant of Global Young Scientists Summit (GYSS) Singapore 2020
 * Oct. 2019 First Runner-up Poster Award of ACM MobiCom 2019
 * Nov. 2018 National Scholarship for Doctoral Students (博士研究生国家奖学金)
 * Apr. 2015 Outstanding Graduate (优秀毕业生)
@@ -100,7 +100,7 @@ Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
 * Reviewer: IEEE ICC 2017, ACM AIIPCC 2019, Journal of Cloud Computing.
-* Student Member: [China Computer Federation (CCF)](https://www.ccf.org.cn/) 
+* Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
 
 Talks
 ======
