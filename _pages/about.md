@@ -29,7 +29,7 @@ News
 =====
 \[Dec. 2018\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
 
-\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations!
+\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
 
 \[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhangjiang University of Technology.
 
