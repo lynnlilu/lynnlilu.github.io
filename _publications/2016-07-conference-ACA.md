@@ -15,5 +15,5 @@ Annual Conference on Adbanced Computer Architecture of China is the premier conf
 
 Abstract: In cloud datacenters, virtual machine (VM) allocation in a power efficient way remains a critical research problem. There are a number of algorithms for allocating the workload among different machines. However, existing works do not consider more than one energy efficient host, thus they are not efficient for large scale cloud datacenters. In this paper, we propose a VM allocation algorithm to achieve higher energy efficiency in large scale cloud datacenters. Simulation result shows that, compared with BRS, RR and MPD algorithms, our algorithms can achieve 23 %, 23 % and 9 % more power efficiency in large scale cloud environment.
 
-[View the full paper](http://lynnlilu.github.io/files/ACA16.pdf)
+[View the full paper](https://doi.org/10.1007/978-981-10-2209-8_6)
 
