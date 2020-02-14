@@ -27,7 +27,9 @@ Professional Services
 
 News
 =====
-\[Dec. 2018\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
+\[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
+
+\[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
 
 \[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
 
@@ -37,14 +39,14 @@ News
 
 \[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
 
-\[Oct. 2019\] One paper is accepted by IEEE Transactions on Mobile Computing.
+\[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
 \[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
 
-\[Jul. 2019\] One paper is accepted by ACM IMWUT, which is presented in Ubicomp 2019.
+\[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
-\[Mar. 2019\] One paper is accepted by ACM MobiHoc 2019, which is collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
+\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
 
-\[Feb. 2019\] Our work on 'Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
+\[Feb. 2019\] Our work on `Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
 \[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. 
