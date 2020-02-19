@@ -8,7 +8,7 @@ permalink: /publication/2016-07-conference-ACA
 date: 2016-08-09
 venue: 'Conference on Advanced Computer Architecture (ACA 2016)'
 #paperurl: 'http://lynnlilu.github.io/files/ACA16.pdf'
-citation: 'Ahmad Ali, Li Lu, Yanmin Zhu, Jiadi Yu. (2016). &quotAn Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters.&quot; <i>CCF ACA 2016</i>. Weihai, Shandong, China. pp. 61-72. doi: 10.1007/978-981-10-2209-8_6.'
+citation: 'Ahmad Ali, Li Lu, Yanmin Zhu, Jiadi Yu. (2016). &quotAn Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters.&quot; <i>CCF ACA 2016</i>. Weihai, Shandong, China. pp. 61-72. doi: [10.1007/978-981-10-2209-8_6](https://doi.org/10.1007/978-981-10-2209-8_6).'
 ---
 
 Annual Conference on Adbanced Computer Architecture of China is the premier conference of computer system architecture in China.
