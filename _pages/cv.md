@@ -32,16 +32,6 @@ Research & Teaching Experience
   * Duties included: TA for undergraduate course Software Engineering.
   * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
 
-* Jul. 2014-Aug. 2014: Summer Internship
-  * Zhejiang University
-  * Duties included: Under the supervision of Prof. Gang Pan. Mainly worked on Biocomputing (implement a PCA algorithm for ECG signals).
-  * Supervisor: Prof. [Gang Pan](https://person.zju.edu.cn/gpan)
-
-* Jul. 2013-Aug. 2013: Summer Internship
-  * Xi'an Jiaotong University
-  * Duties included: Under the supervision of Prof. Yinliang Zhao. Mainly worked on the code reverse engineering of ARM-based program.
-  * Supervisor: Prof. [Yinliang Zhao](http://gr.xjtu.edu.cn/web/zhaoy)
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
