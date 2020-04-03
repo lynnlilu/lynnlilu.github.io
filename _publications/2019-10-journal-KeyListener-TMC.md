@@ -5,7 +5,7 @@ catogories:
     - journal
 permalink: /publication/2019-10-journal-KeyListener-TMC
 #excerpt: ''
-date: 2019-10-30
+date: 2019-10-15
 venue: 'IEEE Transactions on Mobile Computing'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
 citation: 'Jiadi Yu, Li Lu, Yingying Chen, Yanmin Zhu, Linghe Kong. (2019). &quot;An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing.&quot; <i>IEEE Transactions on Mobile Computing</i>. Early Access. doi: 10.1109/TMC.2019.2947468.'
