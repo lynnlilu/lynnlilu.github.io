@@ -27,6 +27,8 @@ Professional Services
 
 News
 =====
+\[Apr. 2020\] I was nominated as the candidate of Excellent Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
+
 \[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
 
 \[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
@@ -41,7 +43,7 @@ News
 
 \[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
-\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU for the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
 
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
