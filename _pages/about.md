@@ -27,7 +27,7 @@ Professional Services
 
 News
 =====
-\[Apr. 2020\] I was nominated as the candidate of Excellent Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
+\[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
 
 \[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
 
