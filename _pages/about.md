@@ -33,9 +33,9 @@ News
 
 \[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year. 
 
-\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elected as IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
+\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
 
-\[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhangjiang University of Technology.
+\[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.
 
 \[Nov. 2019\] I received the student travel grant from the Global Young Scientists Summit Singapore 2020.
 
@@ -43,7 +43,7 @@ News
 
 \[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
-\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+# (\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm))
 
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
