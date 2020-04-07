@@ -22,7 +22,7 @@ His research interests include mobile and ubiquitous computing, cyber security a
 Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
-* Reviewer: IEEE ICC 2017, ACM AIIPCC 2019, Journal of Cloud Computing.
+* Reviewer: Journal of Cloud Computing, IEEE ICC 2017, ACM AIIPCC 2019.
 * Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
 
 News
@@ -37,7 +37,7 @@ News
 
 \[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.
 
-\[Nov. 2019\] I received the student travel grant from the Global Young Scientists Summit Singapore 2020.
+\[Nov. 2019\] I received the travel grant from the Global Young Scientists Summit Singapore 2020.
 
 \[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
 
@@ -47,7 +47,7 @@ News
 
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
-\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors for this work. Congratulations!
+\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!
 
 \[Feb. 2019\] Our work on `Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
