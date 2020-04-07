@@ -8,7 +8,7 @@ I have served for many professional activities.
 
 Technical Program Committee Member
 ======
-* [IEEE ICPADS 2019](http://www.icpads2019.cn/)
+* The 25th IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019)
 
 Reviewer
 ======
