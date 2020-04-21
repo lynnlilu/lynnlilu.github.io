@@ -13,6 +13,7 @@ Technical Program Committee Member
 Reviewer
 ======
 * Journal
+  * IEEE Transactions on Mobile Computing
   * Journal of Cloud Computing
 
 * International Conference
@@ -21,7 +22,6 @@ Reviewer
 Co-reviewer
 ======
 * Journal
-  * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Parallel and Distributed Systems
   * IEEE Transactions on Industrial Informatics
   * Journal of Computer Security
