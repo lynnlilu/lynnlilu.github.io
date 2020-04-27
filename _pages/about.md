@@ -22,7 +22,7 @@ His research interests include mobile and ubiquitous computing, cyber security a
 Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
-* Reviewer: IEEE Transactions on Mobile Computing, Journal of Cloud Computing, IEEE ICC 2017.
+* Reviewer: IEEE Transactions on Mobile Computing, Journal of Cloud Computing, IEEE ICC.
 * Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
 
 News
