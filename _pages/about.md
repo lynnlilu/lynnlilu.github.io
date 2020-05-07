@@ -27,6 +27,8 @@ Professional Services
 
 News
 =====
+\[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
+
 \[Apr. 2020\] One paper was accepted by ACM IMWUT, which will be presented in ACM UbiComp 2020.
 
 \[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
