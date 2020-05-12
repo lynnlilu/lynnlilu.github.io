@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I am expected to graduate in June 2020. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
+I have successfully defended my thesis this May! Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
 
 Brief Biography
 =====
@@ -27,6 +27,8 @@ Professional Services
 
 News
 =====
+\[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!
+
 \[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
 \[Apr. 2020\] One paper was accepted by ACM IMWUT, which will be presented in ACM UbiComp 2020.
