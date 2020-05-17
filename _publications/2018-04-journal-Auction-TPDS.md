@@ -8,7 +8,7 @@ permalink: /publication/2018-04-journal-Auction-TPDS
 date: 2017-12-08
 venue: 'IEEE Transactions on Parallel and Distributed Systems'
 #paperurl: 'http://lynnlilu.github.io/files/TPDS.pdf'
-citation: 'Li Lu, Jiadi Yu, Yanmin Zhu, Minglu Li. (2018). &quot;A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets.&quot; <i>IEEE Transactions on Parallel and Distributed Systems</i>. 29(4). pp. 720-733. doi: 10.1109/TPDS.2017.2781236.'
+citation: '<b>Li Lu</b>, Jiadi Yu, Yanmin Zhu, Minglu Li. (2018). &quot;A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets.&quot; <i>IEEE Transactions on Parallel and Distributed Systems</i>. 29(4). pp. 720-733. doi: 10.1109/TPDS.2017.2781236.'
 ---
 
 IEEE TPDS is a CCF-A journal.

@@ -8,7 +8,7 @@ permalink: /publication/2018-04-conference-LipPass-infocom
 date: 2018-10-11
 venue: 'IEEE International Conference on Computer Communications (IEEE INFOCOM 2018)'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: 'Li Lu, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. (2018). &quot;LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones.&quot; <i>IEEE INFOCOM 2018</i>. Honolulu, HI, USA. pp. 1466-1474. doi: 10.1109/INFOCOM.2018.8486283.'
+citation: '<b>Li Lu</b>, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. (2018). &quot;LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones.&quot; <i>IEEE INFOCOM 2018</i>. Honolulu, HI, USA. pp. 1466-1474. doi: 10.1109/INFOCOM.2018.8486283.'
 ---
 
 IEEE International Conference on Computer Communications is a top ranked international conference in computer networking and communication. IEEE INFOCOM is also a CCF-A conference.
