@@ -55,6 +55,6 @@ News
 
 \[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!
 
-\[Feb. 2019\] Our work on `Lip Reading-based User authentication through Acoustic Sensing on Smartphones' has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
+\[Feb. 2019\] Our work on &quot;Lip Reading-based User authentication through Acoustic Sensing on Smartphones&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
 \[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. 
