@@ -27,6 +27,8 @@ Professional Services
 
 News
 =====
+\[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.
+
 \[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!
 
 \[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
