@@ -24,6 +24,8 @@ Co-reviewer
 * Journal
   * IEEE Transactions on Parallel and Distributed Systems
   * IEEE Transactions on Industrial Informatics
+  * ACM Transactions on Privacy and Security
+  * IEEE Transactions on Network and Service Management
   * Journal of Computer Security
 
 * International Conference
