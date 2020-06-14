@@ -14,6 +14,7 @@ Reviewer
 ======
 * Journal
   * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Services Computing
   * Journal of Cloud Computing
 
 * International Conference

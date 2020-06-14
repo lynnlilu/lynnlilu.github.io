@@ -91,7 +91,7 @@ Media Coverage
 Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
-* Reviewer: IEEE Transactions on Mobile Computing, Journal of Cloud Computing, IEEE ICC 2017, ACM AIIPCC 2019.
+* Reviewer: IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, Journal of Cloud Computing, IEEE ICC 2017, ACM AIIPCC 2019.
 * Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
 
 Talks
