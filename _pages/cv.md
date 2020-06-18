@@ -66,6 +66,8 @@ Media Coverage
 
 * 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
 
+* 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
+
 * 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
 
 * EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
