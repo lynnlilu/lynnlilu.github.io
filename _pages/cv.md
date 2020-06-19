@@ -32,8 +32,7 @@ Research & Teaching Experience
   * Duties included: TA for undergraduate course Software Engineering.
   * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
 
-Publications
-======
+# Publications
 ## Conference Papers
 1. **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320). _[CCF-A]_
 2. **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255). _[CCF-A]_
