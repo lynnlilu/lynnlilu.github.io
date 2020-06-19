@@ -19,12 +19,6 @@ Research Interests
 ======
 His research interests include cyber security and privacy, mobile and ubiquitous computing, human-computer interactions. The main work is to employ signal processing and machine learning techniques in mobile sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
 
-Professional Services
-======
-* Technical Program Committee: IEEE ICPADS 2019.
-* Reviewer: IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, Journal of Cloud Computing, IEEE ICC.
-* Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
-
 News
 =====
 \[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.
@@ -60,3 +54,19 @@ News
 \[Feb. 2019\] Our work on &quot;Lip Reading-based User authentication through Acoustic Sensing on Smartphones&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
 \[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year. 
+
+Selected Publications
+======
+1. **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1). pp. 447-460. 2019. _[CCF-A]_
+2. **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4). pp. 720-733. 2018. _[CCF-A]_
+3. **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. Accepted. 2020. _[CCF-A Chinese Technical Journal]_
+4. **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. _[CCF-A]_
+5. **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019. _[CCF-A]_
+6. **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). Proceedings of IEEE INFOCOM. Paris, France. pp. 775-783. 2019. _[CCF-A]_
+7. **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018. _[CCF-A]_
+
+Professional Services
+======
+* Technical Program Committee: IEEE ICPADS 2019.
+* Reviewer: IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, Journal of Cloud Computing, IEEE ICC.
+* Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
