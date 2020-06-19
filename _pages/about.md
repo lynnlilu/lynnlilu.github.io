@@ -22,20 +22,33 @@ His research interests include cyber security and privacy, mobile and ubiquitous
 News
 =====
 \[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.
+
 \[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!
 \[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
+
 \[Apr. 2020\] One paper was accepted by ACM IMWUT, which will be presented in ACM UbiComp 2020.
+
 \[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
+
 \[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
+
 \[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+
 \[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
+
 \[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.
+
 \[Nov. 2019\] I received the travel grant from the Global Young Scientists Summit Singapore 2020.
+
 \[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
+
 \[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
+
 [//]: # (\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm))
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
+
 \[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!
+
 \[Feb. 2019\] Our work on &quot;Lip Reading-based User authentication through Acoustic Sensing on Smartphones&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 [//]: # (\[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year.)
 
