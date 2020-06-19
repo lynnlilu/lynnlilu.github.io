@@ -34,7 +34,6 @@ Research & Teaching Experience
 
 Publications
 ======
-I have published 19 papers on journals and conferences.
 ## Conference Papers
 1. <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320).
 2. <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255).
@@ -47,7 +46,6 @@ I have published 19 papers on journals and conferences.
 9. Yanhua Cao, <b>Li Lu</b>, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, Zhong Wang, Juan Li, Guangtao Xue.[Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting](https://lynnlilu.github.io/publication/2017-10-conference-WISE). Proceedings of WISE. Moscow, Russia. pp. 259-274. 2017. doi: [10.1007/978-3-319-68783-4_18](https://www.doi.org/10.1007/978-3-319-68783-4_18).
 10. Qiang Wu, Jiadi Yu, <b>Li Lu</b>, Shiyou Qian, Guangtao Xue. [Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee](https://lynnlilu.github.io/publication/2019-12-conference-ICPADS). Proceedings of IEEE ICPADS. Tianjin, China. pp. 193-200. 2019. doi: [10.1109/ICPADS47876.2019.00037](https://www.doi.org/10.1109/ICPADS47876.2019.00037).
 11. Ahmad Ali, <b>Li Lu</b>, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
-
 ## Journal Papers
 1. <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1). pp. 447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733).
 2. <b>Li Lu</b>, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4). pp. 720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236).
@@ -56,7 +54,6 @@ I have published 19 papers on journals and conferences.
 5. Jiadi Yu, <b>Li Lu</b>, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing. Early Access. 2019. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468).
 6. Hao Kong, <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Feilong Tang. [Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi](https://lynnlilu.github.io/publication/2020-05-journal-FingerPass-TMC). IEEE Transactions on Mobile Computing. Early Access. 2019. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955).
 7. Yanhua Cao, <b>Li Lu</b>, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. [Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds](https://lynnlilu.github.io/publication/2018-12-journal-PARCOM). Parallel Computing. 81(1). pp. 85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003).
-
 ## Posters
 1. Yang Bai, Jian Liu, Yingying Chen, <b>Li Lu</b>, Jiadi Yu. [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://lynnlilu.github.io/publication/2019-10-poster-BatComm_poster-mobicom). Proceedings of ACM MobiCom. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405).
 
