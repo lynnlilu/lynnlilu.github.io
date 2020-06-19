@@ -81,9 +81,21 @@ Posters
 
 Patents
 ======
-  <ul>{% for post in site.patents reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Jiadi Yu, <b>Li Lu</b>. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
+
+2. Jiadi Yu, <b>Li Lu</b>. [远距离用户触控屏上全键盘输入获取方法](https://lynnlilu.github.io/patents/2019-patent-1). ZL201810410015.3. 2019.
+
+3. Jiadi Yu, <b>Li Lu</b>. [基于智能终端的声音装置进行唇读的用户认证方法及系统](https://lynnlilu.github.io/patents/2018-patent-1). ZL201710952236.9. 2018.
+
+4. Jiadi Yu, <b>Li Lu</b>. [基于滑动式交互操作的推荐系统及方法](https://lynnlilu.github.io/patents/2018-patent-3). ZL201710315487.6. 2018.
+
+5. Guangtao Xue, <b>Li Lu</b>, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
+
+6. Jiadi Yu, Hao Kong, <b>Li Lu</b>. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). to appear. 2020.
+
+7. Jiadi Yu, Hao Kong, <b>Li Lu</b>. [基于细粒度手指姿态的智能家居连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-1). ZL201811206918.6. 2020.  
+
+8. Jiadi Yu, Guancheng Liang, <b>Li Lu</b>, Xiangyu Xu. [用于手部可穿戴设备的基于直拳动作检测的用户认证方法](https://lynnlilu.github.io/patents/2018-patent-2). ZL201710328296.3. 2018.
 
 Awards
 ======
