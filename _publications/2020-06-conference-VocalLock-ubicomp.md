@@ -14,5 +14,5 @@ citation: '<b>Li Lu</b>, Jiadi Yu, Yingying Chen, Yan Wang. &quot;VocalLock: Sen
 Proceedings of ACM Interaction Mobile Wearable Ubiquitous Technology is the premier international journal in ubiquitous computing, which is previously the top ranked international conference ACM Ubicomp. This paper was also presented in ACM Ubicomp 2020. ACM Ubicomp is a CCF-A conference. 
 
 
-[To appear](https://dl.acm.org/citation.cfm?id=3397320)
+[View the full paper](https://dl.acm.org/citation.cfm?id=3397320)
 
