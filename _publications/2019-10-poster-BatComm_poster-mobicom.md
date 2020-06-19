@@ -8,7 +8,7 @@ permalink: /publication/2019-10-poster-BatComm_poster-mobicom
 date: 2019-10-21
 venue: 'ACM Annual International Conference on Mobile Computing and Networking (ACM MobiCom 2019)'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Yang Bai, Jian Liu, Yingying Chen, <b>Li Lu</b>, Jiadi Yu. (2019). &quot;Poster: Inaudible High-throughput Communication Through Acoustic Signals.&quot; <i>ACM MobiCom 2019</i>. Los Cabos, Mexico. pp. 79:1-79:3. doi: 10.1145/3300061.3343405.'
+citation: 'Yang Bai, Jian Liu, Yingying Chen, <b>Li Lu</b>, Jiadi Yu. &quot;Poster: Inaudible High-throughput Communication Through Acoustic Signals.&quot; <i>Proceedings of ACM Annual International Conference on Mobile Computing and Networking (ACM MobiCom)</i>. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: 10.1145/3300061.3343405.'
 ---
 
 This work received the first runner-up poster award of ACM MobiCom 2019.

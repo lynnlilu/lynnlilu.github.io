@@ -8,7 +8,7 @@ permalink: /publication/2019-12-conference-ICPADS
 date: 2020-01-30
 venue: 'The 25th International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019)'
 #paperurl: 'http://lynnlilu.github.io/files/VPad.pdf'
-citation: 'Qiang Wu, Jiadi Yu, <b>Li Lu</b>, Shiyou Qian, Guangtao Xue. (2019). &quot; Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee.&quot; <i>IEEE ICPADS 2019</i>. Tianjin, China. pp. 193-200. doi: 10.1109/ICPADS47876.2019.00037.'
+citation: 'Qiang Wu, Jiadi Yu, <b>Li Lu</b>, Shiyou Qian, Guangtao Xue. &quot; Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee.&quot; <i>Proceedings of International Conference on Parallel and Distributed Systems (IEEE ICPADS)</i>. Tianjin, China. pp. 193-200. 2019. doi: 10.1109/ICPADS47876.2019.00037.'
 ---
 
 IEEE ICPADS is a CCF-C conference.

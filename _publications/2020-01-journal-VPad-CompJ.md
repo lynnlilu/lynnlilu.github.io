@@ -8,7 +8,7 @@ permalink: /publication/2020-01-journal-VPad-CompJ
 date: 2020-1-10
 venue: 'The Computer Journal'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: '<b>Li Lu</b>, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. (2019). &quot;Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals.&quot; <i>The Computer Journal</i>. doi: 10.1093/comjnl/bxz153.'
+citation: '<b>Li Lu</b>, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. &quot;Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals.&quot; <i>The Computer Journal</i>. Advanced Article. 2019. doi: 10.1093/comjnl/bxz153.'
 ---
 
 The Computer Journal is a CCF-B journal. 

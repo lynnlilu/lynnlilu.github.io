@@ -8,7 +8,7 @@ permalink: /publication/2017-05-conference-VM-ICC
 date: 2017-07-31
 venue: 'IEEE International Conference on Communications (IEEE ICC 2017)'
 #paperurl: 'http://lynnlilu.github.io/files/07997241.pdf'
-citation: '<b>Li Lu</b>, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. (2017). &quot;Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy.&quot; <i>IEEE ICC 2017</i>. Paris, France. pp. 1-6. doi: 10.1109/ICC.2017.7997241.'
+citation: '<b>Li Lu</b>, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. &quot;Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy.&quot; <i>Proceedings of IEEE International Conference on Communications (IEEE ICC)</i>. Paris, France. pp. 1-6. 2017. doi: 10.1109/ICC.2017.7997241.'
 ---
 
 IEEE International Conference on Communications is the flagship conference of IEEE Communication Society (IEEE ComSoc). ICC is also a CCF-C conference.

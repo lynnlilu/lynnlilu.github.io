@@ -8,7 +8,7 @@ permalink: /publication/2017-10-conference-WISE
 date: 2017-10-04
 venue: 'International Conference on Web Information Systems Engineering (WISE 2017)'
 #paperurl: 'http://lynnlilu.github.io/files/WISE17.pdf'
-citation: 'Yanhua Cao, <b>Li Lu</b>, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, Zhong Wang, Juan Li, Guangtao Xue. (2017). &quot;Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting.&quot; <i>WISE 2017</i>. Moscow, Russia. pp. 259-274. doi: 10.1007/978-3-319-68783-4_18.'
+citation: 'Yanhua Cao, <b>Li Lu</b>, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, Zhong Wang, Juan Li, Guangtao Xue. &quot;Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting.&quot; <i>Proceedings of International Conference on Web Information Systems Engineering (WISE)</i>. Moscow, Russia. pp. 259-274. 2017. doi: 10.1007/978-3-319-68783-4_18.'
 ---
 
 WISE is a CCF-C conference.
