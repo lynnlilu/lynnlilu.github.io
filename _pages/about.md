@@ -45,6 +45,7 @@ News
 \[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
 [//]: # (\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm))
+
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
 \[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!
