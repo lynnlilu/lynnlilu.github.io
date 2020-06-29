@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I have successfully defended my thesis this May! Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
+I have received the Ph.D. degree in Computer Science from Shanghai Jiao Tong University. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
 
 Brief Biography
 =====
