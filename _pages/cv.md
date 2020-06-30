@@ -73,7 +73,7 @@ Patents
 
 Awards
 ======
-* May 2020 Outstanding Graduate of Shanghai (上海市优秀毕业生)
+* Jun. 2020 Outstanding Graduate of Shanghai (上海市优秀毕业生)
 * Dec. 2019 National Scholarship for Doctoral Students (博士研究生国家奖学金)
 * Nov. 2019 Travel Grant of Global Young Scientists Summit (GYSS) Singapore 2020
 * Oct. 2019 First Runner-up Poster Award of ACM MobiCom 2019
