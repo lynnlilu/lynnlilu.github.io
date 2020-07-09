@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I have received the Ph.D. degree in Computer Science from Shanghai Jiao Tong University. Now I am seeking for the fulltime opportunity of research in academia or industry. Any invitation is welcome!
+I will be joining Zhejiang University as an Assistant Professor in July, and I am looking for self-motivated students to join us for conducting researches on mobile and IoT security. 
 
 Brief Biography
 =====
@@ -21,6 +21,8 @@ His research interests include cyber security and privacy, mobile and ubiquitous
 
 News
 =====
+\[Jul. 2020\] I will be joining Zhejiang University as an Assistant Professor.
+
 \[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.
 
 \[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!
