@@ -13,7 +13,7 @@ I will be joining Zhejiang University as an Assistant Professor in July, and I a
 
 Brief Biography
 =====
-Li Lu received the Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li. He received the B.E. majoring in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. He has also visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Dept. Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
+Li Lu received the Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and the B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
 
 Research Interests
 ======
@@ -35,7 +35,7 @@ News
 
 \[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
 
-\[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+\[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year (rank: 1/200). [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
 
 \[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
 
