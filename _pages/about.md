@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I will be joining Zhejiang University as an Assistant Professor in July, and I am looking for self-motivated students to join us for conducting researches on mobile and IoT security. 
+I will be joining Zhejiang University as a Research Professor in July, and I am looking for self-motivated students to join us for conducting researches on mobile and IoT security. 
 
 Brief Biography
 =====
@@ -21,7 +21,7 @@ His research interests include cyber security and privacy, mobile and ubiquitous
 
 News
 =====
-\[Jul. 2020\] I will be joining Zhejiang University as an Assistant Professor.
+\[Jul. 2020\] I will be joining Zhejiang University as a tenure-track Research Professor (特聘研究员).
 
 \[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.
 
