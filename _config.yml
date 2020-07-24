@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Lu(卢立)'s Homepage"
+title                    : "Dr. Li Lu(卢立)'s Homepage"
 title_separator          : "-"
 name                     : &name "Li Lu"
-description              : &description "Ph.D @Shanghai Jiao Tong University"
+description              : &description "Research Professor @ Zhejiang University"
 url                      : https://lynnlilu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lynnlilu.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Li Lu (卢立)"
   avatar           : "profile.png"
-  bio              : "Ph.D"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "Research Professor"
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Zhejiang University"
   googlescholar    : "https://scholar.google.com/citations?user=mQSqGYAAAAAJ&hl=en"
   email            : "luli_jtu@sjtu.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Li_Lu87"
