@@ -10,14 +10,13 @@ redirect_from:
 {% include base_path %}
 [Full CV](http://lynnlilu.github.io/files/cv-luli.pdf)
 
-Education Background
-======
-* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2020
-* B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, 2015
-
 Research & Teaching Experience
 ======
-* Aug. 2015-present: Research Assistant
+* Jul. 2020-present: Research Professor
+  * Zhejiang University
+  * Duties included: I am a tenure-track Research Professor of School of Cyber Science and Technology at Zhejiang University. My research interests include mobile security, IoT security, ubiquitous sensing, human-computer interactions.
+
+* Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
   * Duties included: My previous research interest was cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
   * Advisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93)
@@ -31,6 +30,11 @@ Research & Teaching Experience
   * Shanghai Jiao Tong University
   * Duties included: TA for undergraduate course Software Engineering.
   * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
+
+Education Background
+======
+* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2020
+* B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, 2015
 
 Publications
 ======
