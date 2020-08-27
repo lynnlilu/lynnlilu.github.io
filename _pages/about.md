@@ -71,4 +71,4 @@ Professional Services
 ======
 * Technical Program Committee: IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, Journal of Cloud Computing, IEEE ICC.
-* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
+* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/))
