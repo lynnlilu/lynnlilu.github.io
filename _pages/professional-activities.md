@@ -15,6 +15,7 @@ Reviewer
 * Journal
   * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Services Computing
   * Smart Health
   * Journal of Cloud Computing
