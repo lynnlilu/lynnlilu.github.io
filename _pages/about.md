@@ -13,7 +13,7 @@ I am looking for self-motivated students to join us for conducting researches on
 
 Brief Biography
 =====
-Li Lu is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received the Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and the B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received the Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and the B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
 
 Research Interests
 ======
@@ -21,6 +21,8 @@ His research interests include cyber security and privacy, mobile and ubiquitous
 
 News
 =====
+\[Sep. 2020\] One paper was conditionally accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
+
 [//]: # (\[Jul. 2020\] I will be joining Zhejiang University as a tenure-track Research Professor (特聘研究员).)
 
 [//]: # (\[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.)
