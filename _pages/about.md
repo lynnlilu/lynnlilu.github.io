@@ -13,11 +13,13 @@ I am looking for students that are willing to **LISTEN** and interested in **exp
 
 Brief Biography
 =====
-[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and his B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and his B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow). 
 
 Research Interests
 ======
 His research interests include cyber security and privacy, mobile and ubiquitous computing, human-computer interactions. The main work is to employ signal processing and machine learning techniques in mobile sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
+
+Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), which not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. (Also could be the anime LoveLive! ^_^)
 
 News
 =====
