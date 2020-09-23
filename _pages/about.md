@@ -9,11 +9,11 @@ redirect_from:
 ---
 Latest Update
 =====
-I am looking for self-motivated students to join us for conducting researches on mobile and IoT security. 
+I am looking for students that are willing to **LISTEN** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of IoT and mobile security. Students that intend to pursue Ph.D. and master degrees are both welcome!
 
 Brief Biography
 =====
-[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received the Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and the B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and his B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow).
 
 Research Interests
 ======
