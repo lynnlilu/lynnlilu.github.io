@@ -41,25 +41,42 @@ Publications
 I have published 20 papers on conferences and journals
 ## Conference Papers
 [**C1, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320). 
+
 [**C2, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255). 
+
 [**C3, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). Proceedings of IEEE INFOCOM. Paris, France. pp. 775-783. 2019. doi: [10.1109/INFOCOM.2019.8737591](https://www.doi.org/10.1109/INFOCOM.2019.8737591). 
+
 [**C4, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018. doi: [10.1109/INFOCOM.2018.8486283](https://www.doi.org/10.1109/INFOCOM.2018.8486283). 
+
 [**C5, ICC, CCF-C**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. [Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy](https://lynnlilu.github.io/publication/2017-05-conference-VM-ICC). Proceedings of IEEE ICC. Paris, France. pp. 1-6. 2017. doi: [10.1109/ICC.2017.7997241](https://www.doi.org/10.1109/ICC.2017.7997241). 
+
 [**C6, ICPADS, CCF-C**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Minglu Li. [VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2018-12-conference-VPad-ICPADS). Proceedings of IEEE ICPADS. Sentosa, Singapore. pp. 244-251. 2018. doi: [10.1109/PADSW.2018.8644615](https://www.doi.org/10.1109/PADSW.2018.8644615). 
+
 [**C7, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi](https://lynnlilu.github.io/publication/2019-07-conference-FingerPass-mobihoc). Proceedings of ACM MobiHoc. Catania, Italy. pp. 201-210. 2019. doi: [10.1145/3323679.3326518](https://www.doi.org/10.1145/3323679.3326518). 
+
 [**C8, SECON, CCF-B**] Hua Xue, Jiadi Yu, Yanmin Zhu, **Li Lu**, Shiyou Qian, Minglu Li. [WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth](https://lynnlilu.github.io/publication/2019-06-conference-WiZoom-secon). Proceedings of IEEE SECON. Boston, MA, USA. pp. 1-9. 2019. doi: [10.1109/SAHCN.2019.8824859](https://www.doi.org/10.1109/SAHCN.2019.8824859).
+
 [**C9, WISE, CCF-C**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, et al. [Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting](https://lynnlilu.github.io/publication/2017-10-conference-WISE). Proceedings of WISE. Moscow, Russia. pp. 259-274. 2017. doi: [10.1007/978-3-319-68783-4_18](https://www.doi.org/10.1007/978-3-319-68783-4_18).
+
 [**C10, ICPADS, CCF-C**] Qiang Wu, Jiadi Yu, **Li Lu**, Shiyou Qian, Guangtao Xue. [Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee](https://lynnlilu.github.io/publication/2019-12-conference-ICPADS). Proceedings of IEEE ICPADS. Tianjin, China. pp. 193-200. 2019. doi: [10.1109/ICPADS47876.2019.00037](https://www.doi.org/10.1109/ICPADS47876.2019.00037). 
+
 [**C11, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
 [**J1, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1). pp. 447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
+
 [**J2, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4). pp. 720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
+
 [**J3, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal. Advanced Article. 2019. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
+
 [**J4, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10). pp. 2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
+
 [**J5, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing. Early Access. 2019. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
+
 [**J6, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. [Acoustic-based Sensing and Applications: A Survey](https://lynnlilu.github.io/publication/2020-08-journal-survey-COMNET). Computer Networks. Early Access. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447). 
+
 [**J7, TMC, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Feilong Tang. [Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi](https://lynnlilu.github.io/publication/2020-05-journal-FingerPass-TMC). IEEE Transactions on Mobile Computing. Early Access. 2019. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955). 
+
 [**J8, PARCOM, CCF-B**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. [Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds](https://lynnlilu.github.io/publication/2018-12-journal-PARCOM). Parallel Computing. 81(1). pp. 85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003). 
 
 ## Posters
@@ -68,12 +85,19 @@ I have published 20 papers on conferences and journals
 Patents
 ======
 [**P1**] Jiadi Yu, **Li Lu**. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
+
 [**P2**] Jiadi Yu, **Li Lu**. [远距离用户触控屏上全键盘输入获取方法](https://lynnlilu.github.io/patents/2019-patent-1). ZL201810410015.3. 2019.
+
 [**P3**] Jiadi Yu, **Li Lu**. [基于智能终端的声音装置进行唇读的用户认证方法及系统](https://lynnlilu.github.io/patents/2018-patent-1). ZL201710952236.9. 2018.
+
 [**P4**] Jiadi Yu, **Li Lu**. [基于滑动式交互操作的推荐系统及方法](https://lynnlilu.github.io/patents/2018-patent-3). ZL201710315487.6. 2018.
+
 [**P5**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
+
 [**P6**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). to appear. 2020.
+
 [**P7**] Jiadi Yu, Hao Kong, **Li Lu**. [基于细粒度手指姿态的智能家居连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-1). ZL201811206918.6. 2020.  
+
 [**P8**] Jiadi Yu, Guancheng Liang, **Li Lu**, Xiangyu Xu. [用于手部可穿戴设备的基于直拳动作检测的用户认证方法](https://lynnlilu.github.io/patents/2018-patent-2). ZL201710328296.3. 2018.
 
 Awards
