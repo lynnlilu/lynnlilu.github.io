@@ -14,7 +14,7 @@ Research & Teaching Experience
 ======
 * Jul. 2020-present: Research Professor
   * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor of School of Cyber Science and Technology at Zhejiang University. My research interests include mobile security, IoT security, ubiquitous sensing, human-computer interactions.
+  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University My research interests include mobile security, IoT security, ubiquitous sensing, human-computer interactions.
 
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
@@ -85,11 +85,8 @@ Awards
 * Nov. 2018 National Scholarship for Doctoral Students (博士研究生国家奖学金)
 * Jun. 2018 Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助)
 * Apr. 2015 Outstanding Graduate (优秀毕业生)
-* Nov. 2014 Excellent Undergraduate Student (优秀学生)
 * Nov. 2014 National Encouragement Scholarship (国家励志奖学金)
-* Nov. 2013 Excellent Undergraduate Student (优秀学生)
 * Nov. 2013 Lu Shidi 2nd Scholarship (陆诗娣二等奖学金)
-* Nov. 2012 Excellent Undergraduate Student (优秀学生)
 * Nov. 2012 National Encouragement Scholarship (国家励志奖学金)
 
 Media Coverage
