@@ -23,7 +23,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Sep. 2020\] One paper was conditionally accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
+\[Oct. 2020\] One paper was accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
 
 [//]: # (\[Jul. 2020\] I will be joining Zhejiang University as a tenure-track Research Professor (特聘研究员).)
 
