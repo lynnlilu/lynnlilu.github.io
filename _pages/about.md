@@ -25,6 +25,8 @@ News
 =====
 \[Oct. 2020\] One paper was accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
 
+\[Sep. 2020\] One paper was accepted by ACM IMWUT, which was presented in ACM UbiComp 2020.
+
 [//]: # (\[Jul. 2020\] I will be joining Zhejiang University as a tenure-track Research Professor (特聘研究员).)
 
 [//]: # (\[May 2020\] I was invited to give the talk about ubiquitous sensing and computing on mobile and IoT security at Zhejiang University.)
@@ -32,8 +34,6 @@ News
 \[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!
 
 \[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
-
-\[Apr. 2020\] One paper was accepted by ACM IMWUT, which will be presented in ACM UbiComp 2020.
 
 \[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
 
