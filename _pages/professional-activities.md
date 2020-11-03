@@ -17,6 +17,7 @@ Reviewer
   * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Services Computing
+  * IEEE Transactions on Multimedia
   * Smart Health
   * Journal of Cloud Computing
 
