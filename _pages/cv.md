@@ -38,7 +38,7 @@ Education Background
 
 Publications
 ======
-I have published 20 papers on conferences and journals
+I have published 21 papers on conferences and journals
 ## Conference Papers
 [**C1, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320). 
 
