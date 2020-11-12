@@ -37,6 +37,7 @@ Co-reviewer
   * IEEE International Conference on Computer Communications (IEEE INFOCOM)
   * ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)
   * ACM International Conference on Computer and Communications Security (ACM CCS)
+  * IEEE International Conference on Pervasive Computing and Communications (IEEE PerCom)
   * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS)
   * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
 
