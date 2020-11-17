@@ -54,8 +54,7 @@ I have published 21 papers on conferences and journals
 
 [**C7, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi](https://lynnlilu.github.io/publication/2019-07-conference-FingerPass-mobihoc). Proceedings of ACM MobiHoc. Catania, Italy. pp. 201-210. 2019. doi: [10.1145/3323679.3326518](https://www.doi.org/10.1145/3323679.3326518). 
 
-[**C8, SenSys, CCF-B**] Yang Bai, Jian Liu, **Li Lu**, Yilin Yang, Yingying Chen, Jiadi Yu. [BatComm: Enabling Inaudible Acoustic Communication with High-throughput for Mobile Devices](https://lynnlilu.github.io/publication/2020-10-conference-BatComm-sensys). Proceedings of ACM SenSys. Yokohama, Japan. 2020. doi: to appear.
-
+[**C8, SenSys, CCF-B**] Yang Bai, Jian Liu, **Li Lu**, Yilin Yang, Yingying Chen, Jiadi Yu. [BatComm: Enabling Inaudible Acoustic Communication with High-throughput for Mobile Devices](https://lynnlilu.github.io/publication/2020-10-conference-BatComm-sensys). Proceedings of ACM SenSys. Yokohama, Japan. 2020. doi: [10.1145/3384419.3430773](https://www.doi.org/10.1145/3384419.3430773).
 
 [**C9, SECON, CCF-B**] Hua Xue, Jiadi Yu, Yanmin Zhu, **Li Lu**, Shiyou Qian, Minglu Li. [WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth](https://lynnlilu.github.io/publication/2019-06-conference-WiZoom-secon). Proceedings of IEEE SECON. Boston, MA, USA. pp. 1-9. 2019. doi: [10.1109/SAHCN.2019.8824859](https://www.doi.org/10.1109/SAHCN.2019.8824859).
 
