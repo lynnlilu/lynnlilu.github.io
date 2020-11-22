@@ -12,3 +12,5 @@ Recent years have witnessed the surge of biometric-based user authentication for
 
 [View presentation slide](http://lynnlilu.github.io/files/UbiComp20.pdf)
 
+[View presentation video](https://www.youtube.com/playlist?list=PLqhXYFYmZ-VeUV5yu_5I-uQwatk1-iHit)
+
