@@ -13,5 +13,5 @@ citation: 'Yang Bai, Jian Liu, <b>Li Lu</b>, Yilin Yang, Yingying Chen, Jiadi Yu
 
 ACM Conference on Embedded Networked Sensor Systems is the premier international conference in embedded sensing and networking systems. ACM SenSys is also a CCF-B conference.
 
-[To appear](https://www.doi.org/10.1145/3384419.3430773)
+[View the full paper](https://dl.acm.org/doi/10.1145/3384419.3430773)
 
