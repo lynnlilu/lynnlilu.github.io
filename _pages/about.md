@@ -23,6 +23,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Nov. 2020\] I received the 2020 ACM China SIGAPP Doctoral Dissertation Award.
+
 \[Oct. 2020\] One paper was accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
 
 \[Sep. 2020\] One paper was accepted by ACM IMWUT, which was presented in ACM UbiComp 2020.
