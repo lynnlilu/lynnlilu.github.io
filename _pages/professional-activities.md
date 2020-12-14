@@ -44,6 +44,6 @@ Co-reviewer
 
 Academic Organization Member
 ======
-* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/))
+* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
 * Student Member: Association of Computing Machinery ([ACM](https://www.acm.org/))
   
