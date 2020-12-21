@@ -104,6 +104,7 @@ Patents
 
 Awards
 ======
+* Dec. 2020 Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖)
 * Oct. 2020 ACM China SIGAPP Doctoral Dissertation Award
 * Jun. 2020 Outstanding Graduate of Shanghai (上海市优秀毕业生)
 * Dec. 2019 National Scholarship for Doctoral Students (博士研究生国家奖学金)
