@@ -96,7 +96,7 @@ Patents
 
 [**P4**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
 
-[**P3**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). to appear. 2020.
+[**P3**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). ZL201911140817.8. 2020.
 
 [**P2**] Jiadi Yu, Hao Kong, **Li Lu**. [基于细粒度手指姿态的智能家居连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-1). ZL201811206918.6. 2020.  
 
