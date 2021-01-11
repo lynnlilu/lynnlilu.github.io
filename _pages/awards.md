@@ -21,6 +21,8 @@ Awards
 
 ![Travel Grant of GYSS Singapore](../images/awards/GYSS.jpg#pic_center){:height="25%" width="25%"}
 * Oct. 2019 First Runner-up Poster Award of ACM MobiCom 2019
+
+![First Runner-up Poster Award of ACM MobiCom](../images/awards/FRuPA.jpg#pic_center){:height="40%" width="40%"}
 * Nov. 2018 National Scholarship for Doctoral Students (博士研究生国家奖学金)
 * Jun. 2018 Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助)
 * Apr. 2015 Outstanding Graduate (优秀毕业生)
