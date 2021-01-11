@@ -6,17 +6,17 @@ main:
   - title: "Patents"
     url: /patents/
     
-  - title: "Talks"
-    url: /talks/    
+  - title: "Awards"
+    url: /awards/ 
 
   - title: "Professional Activities"
     url: /professional-activities/ 
 
+  - title: "Talks"
+    url: /talks/ 
+
   - title: "Students"
     url: /students/ 
-
-    - title: "Awards"
-    url: /awards/ 
 
     # - title: "Teaching"
     #url: /teaching/    
