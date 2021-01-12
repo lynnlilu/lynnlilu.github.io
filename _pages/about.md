@@ -15,6 +15,8 @@ Brief Biography
 =====
 [Li Lu](https://person.zju.edu.cn/lynnluli) is currently a Research Professor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) in 2020, with the advisors of Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/) and Prof. Minglu Li; and his B.E. degree in Computer Science and Technology and B.Admin in Business Administration from [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](http://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](http://www.rutgers.edu) under the supervision of Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow). 
 
+More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf).
+
 Research Interests
 ======
 His research interests include cyber security and privacy, mobile and ubiquitous computing, human-computer interactions. The main work is to employ signal processing and machine learning techniques in mobile sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
