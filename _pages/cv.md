@@ -73,7 +73,7 @@ I have published 21 papers on conferences and journals
 
 [**J5, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10). pp. 2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
 
-[**J4, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing. Early Access. 2019. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
+[**J4, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing. 20(2). pp. 337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
 
 [**J3, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. [Acoustic-based Sensing and Applications: A Survey](https://lynnlilu.github.io/publication/2020-08-journal-survey-COMNET). Computer Networks. 181. pp. 107447:1-107447:19. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447). 
 
