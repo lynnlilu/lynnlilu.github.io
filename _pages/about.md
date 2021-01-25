@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jan. 2021\] One paper was accepted by IEEE ICC 2021.
+
 \[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638)
 
 \[Nov. 2020\] I received the 2020 ACM China SIGAPP Doctoral Dissertation Award.
