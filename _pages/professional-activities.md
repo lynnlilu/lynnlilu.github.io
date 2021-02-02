@@ -8,6 +8,7 @@ I have served for many professional activities.
 
 Technical Program Committee Member
 ======
+* IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021)
 * The 25th IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019)
 
 Reviewer
