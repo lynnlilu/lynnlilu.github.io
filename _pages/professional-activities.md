@@ -19,6 +19,7 @@ Reviewer
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Services Computing
   * IEEE Transactions on Multimedia
+  * Knowledge-based Systems
   * Sensors
   * Smart Health
   * Journal of Cloud Computing
