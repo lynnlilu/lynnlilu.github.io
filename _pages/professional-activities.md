@@ -13,19 +13,16 @@ Technical Program Committee Member
 
 Reviewer
 ======
-* Journal
-  * IEEE Transactions on Dependable and Secure Computing
-  * IEEE Transactions on Mobile Computing
-  * IEEE Transactions on Vehicular Technology
-  * IEEE Transactions on Services Computing
-  * IEEE Transactions on Multimedia
-  * Knowledge-based Systems
-  * Sensors
-  * Smart Health
-  * Journal of Cloud Computing
-
-* International Conference
-  * IEEE ICC 2017, ACM AIIPCC 2019
+* IEEE Transactions on Dependable and Secure Computing
+* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Services Computing
+* IEEE Transactions on Multimedia
+* Knowledge-based Systems
+* Smart Health
+* Journal of Cloud Computing
+* Sensors
+* Journal of Cybersecurity and Privacy
 
 Co-reviewer
 ======
