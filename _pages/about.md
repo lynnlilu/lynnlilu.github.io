@@ -25,6 +25,10 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Apr. 2021\] I served as a TPC member of IEEE INFOCOM 2022.
+
+\[Feb. 2021\] I served as a TPC member of IEEE/ACM IWQoS 2021.
+
 \[Jan. 2021\] One paper was accepted by IEEE ICC 2021.
 
 \[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638)
@@ -87,6 +91,6 @@ Selected Publications
 
 Professional Services
 ======
-* Technical Program Committee: IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
+* Technical Program Committee: IEEE INFOCOM 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, IEEE ICC, etc.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
