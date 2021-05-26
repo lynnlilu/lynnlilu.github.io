@@ -17,8 +17,10 @@ Reviewer
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Vehicular Technology
+* ACM Transactions on Sensor Network
 * IEEE Transactions on Services Computing
 * IEEE Transactions on Multimedia
+* IEEE Internet of Things Journal
 * Knowledge-based Systems
 * Smart Health
 * Journal of Cloud Computing
