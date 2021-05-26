@@ -24,8 +24,6 @@ Reviewer
 * Knowledge-based Systems
 * Smart Health
 * Journal of Cloud Computing
-* Sensors
-* Journal of Cybersecurity and Privacy
 
 Co-reviewer
 ======
@@ -40,7 +38,6 @@ Co-reviewer
   * ACM International Conference on Computer and Communications Security (ACM CCS)
   * ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)
   * IEEE International Conference on Pervasive Computing and Communications (IEEE PerCom)
-  * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS)
   * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
 
 Academic Organization Member
