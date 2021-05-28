@@ -35,7 +35,7 @@ News
 
 \[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638)
 
-\[Nov. 2020\] I received the 2020 ACM China SIGAPP Doctoral Dissertation Award.
+\[Nov. 2020\] I received the 2020 ACM China SIGAPP Doctoral Dissertation Award. [Link](http://www.acmturc.com/2021/cn/doctoral_thesis_award.html)
 
 \[Oct. 2020\] One paper was accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
 
