@@ -5,6 +5,15 @@ permalink: /students/
 author_profile: true
 ---
 
+Ph.D. Students
+======
+* Meng Chen (陈锰)
+  * Duration: 2021-present
+  * Research Interests: Attack and Defense on Voice Assistant
+* Kun Wang (王琨)
+  * Duration: 2021-present
+  * Research Interests: Voiceprint Authentication
+
 Master Students
 ======
 * Qianniu Chen (陈钱牛)
@@ -15,11 +24,8 @@ Master Students
   * Duration: 2020-present
   * Co-advised with Prof. Kui Ren
   * Research Interests: Attack and Defense on Speaker System
+* Junhao Wang (王俊皓)
+  * Duration: 2021-present
+  * Research Interests: Voice Security
 
-Undergraduate Students
-======
-* Meng Chen (陈锰)
-  * Duration: 2020-present
-  * Prospective Ph.D. student in 2021
-  * Research Interests: Attack and Defense on Voice Assistant
   
