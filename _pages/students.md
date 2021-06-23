@@ -28,4 +28,14 @@ Master Students
   * Duration: 2021-present
   * Research Interests: Voice Security
 
+Undergraduate Students
+======
+* Jinlu Zhang (张金露)
+  * Duration: The class of 2022
+  * Major: Computer Science
+  * Research Interests: Enhancement of Speaker Recognition
+* Shunzheng Tang (唐顺政)
+  * Duration: The class of 2022
+  * Major: Cyber Science
+  * Research Interests: Anti-spoofing of Speaker Recognition
   
