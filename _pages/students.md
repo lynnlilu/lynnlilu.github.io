@@ -26,6 +26,9 @@ Master Students
   * Research Interests: Attack and Defense on Speaker System
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
+  * Research Interests: Voice Liveness Detection
+* Kang Fu (傅康)
+  * Duration: 2021-present
   * Research Interests: Voice Security
 
 Undergraduate Students
