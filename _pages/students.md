@@ -12,7 +12,7 @@ Ph.D. Students
   * Research Interests: Attack and Defense on Voice Assistant
 * Kun Wang (王琨)
   * Duration: 2021-present
-  * Research Interests: Voiceprint Authentication
+  * Research Interests: Signal Augmentation and Voiceprint Authentication
 
 Master Students
 ======
@@ -29,7 +29,7 @@ Master Students
   * Research Interests: Voice Liveness Detection
 * Kang Fu (傅康)
   * Duration: 2021-present
-  * Research Interests: Voice Security
+  * Research Interests: Audio Adversarial Example Attacks
 
 Undergraduate Students
 ======
