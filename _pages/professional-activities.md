@@ -45,4 +45,5 @@ Academic Organization Member
 * China Computer Federation ([CCF](https://www.ccf.org.cn/))
 * Association of Computing Machinery ([ACM](https://www.acm.org/))
 * Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
+* Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn))
   
