@@ -33,6 +33,11 @@ Master Students
 
 Undergraduate Students
 ======
+* Zhehan Gu (顾哲涵)
+  * Duration： 2021-present
+  * Prospective Master student
+  * Research Interests: Voice Conversion
+
 * Shunzheng Tang (唐顺政)
   * Duration: The class of 2022
   * Major: Cyber Science
