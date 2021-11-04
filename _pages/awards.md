@@ -10,7 +10,7 @@ author_profile: true
 
 ![Shanghai Computer Society Doctoral Dissertaion Award Nominations](../images/awards/SCS-dda.jpeg){:height="40%" width="40%"}
 ![Shanghai Computer Society Doctoral Dissertaion Award Photo](../images/awards/SCS-dda-pic.jpg){:height="40%" width="40%"}
-* ACM China SIGAPP Doctoral Dissertation Award
+* ACM China SIGAPP Chapter Doctoral Dissertation Award
 
 ![ACM China SIGAPP Chapter Doctoral Dissertation Award](../images/awards/ACM-SIGAPP-dda.jpg){:height="25%" width="25%"}
 * Outstanding Graduate of Shanghai (上海市优秀毕业生)
