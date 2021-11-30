@@ -34,7 +34,7 @@ Master Students
 Undergraduate Students
 ======
 * Zhehan Gu (顾哲涵)
-  * Duration： 2021-present
+  * Duration: 2021-present
   * Prospective Master student
   * Research Interests: Voice Conversion
 
