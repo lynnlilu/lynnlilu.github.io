@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!
+
 \[May 2021\] One paper was accepted by ACM MobiHoc 2021.
 
 \[Apr. 2021\] I served as a TPC member of IEEE INFOCOM 2022.
