@@ -8,7 +8,7 @@ permalink: /publication/2021-11-journal-mPose-smarthealth
 date: 2021-11-25
 venue: 'Smart Health'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: 'Cong Shi, <b>Li Lu</b>, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. &quot;mPose: Environment- and subject-agnostic 3D skeleton posture reconstruction leveraging a single mmWave device.&quot; <i>Smart Health</i>. 2021. doi: 10.1016/j.smhl.2021.100228.'
+citation: 'Cong Shi, <b>Li Lu</b>, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. &quot;mPose: Environment- and subject-agnostic 3D skeleton posture reconstruction leveraging a single mmWave device.&quot; <i>Smart Health</i>. vol. 23, pp. 100228:1-100228:14, 2022. doi: 10.1016/j.smhl.2021.100228.'
 ---
 
 This paper is an invited paper of IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (IEEE/ACM CHASE 2021), and was presented in the conference.
