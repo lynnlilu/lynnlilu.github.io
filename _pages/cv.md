@@ -123,33 +123,57 @@ Teaching
 Awards
 ======
 [**A12**] Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖), Dec. 2020
+
 [**A11**] ACM China SIGAPP Chapter Doctoral Dissertation Award, Oct. 2020 
+
 [**A10**] Outstanding Graduate of Shanghai (上海市优秀毕业生), Jun. 2020 
+
 [**A9**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Dec. 2019 
+
 [**A8**] Travel Grant of Global Young Scientists Summit (GYSS) Singapore 2020, Nov. 2019 
+
 [**A7**] First Runner-up Poster Award of ACM MobiCom 2019, Oct. 2019 
+
 [**A6**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Nov. 2018 
+
 [**A5**] Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助), Jun. 2018 
+
 [**A4**] Outstanding Graduate (优秀毕业生), Apr. 2015 
+
 [**A3**] National Encouragement Scholarship (国家励志奖学金), Nov. 2014 
+
 [**A2**] Lu Shidi 2nd Scholarship (陆诗娣二等奖学金), Nov. 2013 
+
 [**A1**] National Encouragement Scholarship (国家励志奖学金), Nov. 2012 
 
 Media Coverage
 ======
 [**M14**] IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
+
 [**M13**] 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
+
 [**M12**] 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
+
 [**M11**] 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
+
 [**M10**] EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
+
 [**M9**] 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
+
 [**M8**] 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
+
 [**M7**] 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
+
 [**M6**] ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
+
 [**M5**] BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
+
 [**M4**] TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
+
 [**M3**] The Block，[“LipPass will read your lips to keep your phone and wallet secure”](https://www.theblockcrypto.com/tiny/lippass-will-read-your-lips-to-keep-your-phone-and-wallet-secure/)
+
 [**M2**] BitcoinExchangeGuide，[“Lip Reading User ID Authentication System LipPass to Help Secure Phone and Wallet”](https://bitcoinexchangeguide.com/lip-reading-user-id-authentication-system-lippass-to-help-secure-phone-and-wallet/)
+
 [**M1**] BoingBoing，[“Your locked phone could verify it's you by listening to your lips move”](https://boingboing.net/2019/02/08/your-locked-phone-could-verify.html)
 
 Professional Services
