@@ -92,15 +92,17 @@ I have published 24 papers on conferences and journals
 
 Patents
 ======
-[**P8**] Jiadi Yu, **Li Lu**. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
+[**P9**] Jiadi Yu, **Li Lu**. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
 
-[**P7**] Jiadi Yu, **Li Lu**. [远距离用户触控屏上全键盘输入获取方法](https://lynnlilu.github.io/patents/2019-patent-1). ZL201810410015.3. 2019.
+[**P8**] Jiadi Yu, **Li Lu**. [远距离用户触控屏上全键盘输入获取方法](https://lynnlilu.github.io/patents/2019-patent-1). ZL201810410015.3. 2019.
 
-[**P6**] Jiadi Yu, **Li Lu**. [基于智能终端的声音装置进行唇读的用户认证方法及系统](https://lynnlilu.github.io/patents/2018-patent-1). ZL201710952236.9. 2018.
+[**P7**] Jiadi Yu, **Li Lu**. [基于智能终端的声音装置进行唇读的用户认证方法及系统](https://lynnlilu.github.io/patents/2018-patent-1). ZL201710952236.9. 2018.
 
-[**P5**] Jiadi Yu, **Li Lu**. [基于滑动式交互操作的推荐系统及方法](https://lynnlilu.github.io/patents/2018-patent-3). ZL201710315487.6. 2018.
+[**P6**] Jiadi Yu, **Li Lu**. [基于滑动式交互操作的推荐系统及方法](https://lynnlilu.github.io/patents/2018-patent-3). ZL201710315487.6. 2018.
 
-[**P4**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
+[**P5**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
+
+[**P4**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行多人用户认证方法及系统](https://lynnlilu.github.io/patents/2021-patent-1). ZL202011081529.2. 2021.
 
 [**P3**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). ZL201911140817.8. 2020.
 
