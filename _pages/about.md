@@ -97,5 +97,5 @@ Professional Services
 ======
 * Technical Program Committee: IEEE INFOCOM 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, IEEE ICC, etc.
-* Executive Committee Member: Pervasive Computing Technical Committee of CCF.
+* Executive Committee Member: CCF Technical Committee on Pervasive Computing.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).

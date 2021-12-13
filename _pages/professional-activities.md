@@ -8,7 +8,7 @@ I have served for many professional activities.
 
 Academic Organization Member
 ======
-* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Executive Committee Member of Pervasive Computing Technical Committee, Member
+* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Executive Committee Member of Technical Committee on Pervasive Computing (TCPC), Member
 * Association of Computing Machinery ([ACM](https://www.acm.org/)): Member
 * Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)): Member
 * Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)): Member
@@ -31,20 +31,3 @@ Reviewer
 * Knowledge-based Systems
 * Smart Health
 * Journal of Cloud Computing
-
-Co-reviewer
-======
-* Journal
-  * IEEE Transactions on Parallel and Distributed Systems
-  * IEEE Transactions on Industrial Informatics
-  * ACM Transactions on Privacy and Security
-  * IEEE Transactions on Network and Service Management
-  * Journal of Computer Security
-
-* International Conference
-  * ACM International Conference on Computer and Communications Security (ACM CCS)
-  * ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)
-  * IEEE International Conference on Pervasive Computing and Communications (IEEE PerCom)
-  * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
-
-
