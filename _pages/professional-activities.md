@@ -6,6 +6,13 @@ author_profile: true
 ---
 I have served for many professional activities.
 
+Academic Organization Member
+======
+* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Executive Committee Member of Pervasive Computing Technical Committee, Member
+* Association of Computing Machinery ([ACM](https://www.acm.org/)): Member
+* Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)): Member
+* Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)): Member
+
 Technical Program Committee Member
 ======
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022)
@@ -40,10 +47,4 @@ Co-reviewer
   * IEEE International Conference on Pervasive Computing and Communications (IEEE PerCom)
   * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
 
-Academic Organization Member
-======
-* China Computer Federation ([CCF](https://www.ccf.org.cn/))
-* Association of Computing Machinery ([ACM](https://www.acm.org/))
-* Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
-* Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn))
-  
+
