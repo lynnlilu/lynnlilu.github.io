@@ -3,7 +3,7 @@ title: "LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signa
 collection: talks
 type: "Talk"
 permalink: /talks/2018-04-talk-infocom18
-venue: "Sensing, Recognition and Tracking 1"
+venue: "Sensing, Recognition and Tracking 1, IEEE INFOCOM 2018"
 date: 2018-04-18
 location: "Honolulu, HI, USA"
 ---

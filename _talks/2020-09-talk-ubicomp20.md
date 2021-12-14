@@ -3,7 +3,7 @@ title: "VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentic
 collection: talks
 type: "Talk"
 permalink: /talks/2020-09-talk-ubicomp20
-venue: "Session 1A: Security, Privacy, and Acceptance"
+venue: "Session 1A: Security, Privacy, and Acceptance, ACM UbiComp 2020"
 date: 2020-09-14
 location: "Virtual, Online"
 ---

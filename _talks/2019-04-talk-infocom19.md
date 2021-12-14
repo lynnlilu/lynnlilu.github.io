@@ -3,7 +3,7 @@ title: "KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen thr
 collection: talks
 type: "Talk"
 permalink: /talks/2019-04-talk-infocom19
-venue: "4-D: Crowdsensing"
+venue: "4-D: Crowdsensing, IEEE INFOCOM 2019"
 date: 2019-05-01
 location: "Paris, France"
 ---

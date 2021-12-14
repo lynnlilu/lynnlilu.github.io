@@ -3,7 +3,7 @@ title: "Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-12-talk-icpads19
-venue: "Session IV: Distributed & High Performance Computing & High Performance Computing"
+venue: "Session IV: Distributed & High Performance Computing & High Performance Computing, IEEE ICPADS 2019"
 date: 2019-12-04
 location: "Tianjin, China"
 ---
