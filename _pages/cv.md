@@ -73,7 +73,7 @@ I have published 24 papers on conferences and journals
 
 [**J8, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
 
-[**J7, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal, Advanced Article. 2019. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
+[**J7, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
 
 [**J6, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
 
