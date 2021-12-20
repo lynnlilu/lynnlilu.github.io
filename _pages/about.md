@@ -79,15 +79,15 @@ News
 
 Selected Publications
 ======
-[**J1, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1). pp. 447-460. 2019.
+[**J1, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1):447-460. 2019.
 
-[**J2, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4). pp. 720-733. 2018.
+[**J2, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4):720-733. 2018.
 
-[**J3, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10). pp. 2002-2018. 2020.
+[**J3, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
 
-[**C1, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020.
+[**C1, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2):51:1-51:24. Cancun, Mexico. 2020.
 
-[**C2, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019.
+[**C2, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3):97:1-97:22. London, England. 2019.
 
 [**C3, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). Proceedings of IEEE INFOCOM. Paris, France. pp. 775-783. 2019. 
 
@@ -97,5 +97,5 @@ Professional Services
 ======
 * Technical Program Committee: IEEE INFOCOM 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, IEEE ICC, etc.
-* Executive Committee Member: CCF Technical Committee on Pervasive Computing.
+* Acedemic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).
