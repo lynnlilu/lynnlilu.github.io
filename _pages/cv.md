@@ -24,7 +24,7 @@ Research & Teaching Experience
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey (Rutgers University)
   * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory (WINLAB) and Department of Electrical and Computer Engineering. And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
-  * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow)
+  * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow, ACM Distinguished Scientist)
 
 * Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
   * Shanghai Jiao Tong University
