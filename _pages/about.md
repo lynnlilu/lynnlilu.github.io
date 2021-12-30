@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Dec. 2021\] My advisor (@ Rutgers) Prof. Yingying Chen is named National Academy of Inventors Fellow and 2021 ACM Distinguished Scientist. Congratulations! [Link1](https://www.ece.rutgers.edu/news/professor-named-national-academy-inventors-fellow)[Link2](https://www.ece.rutgers.edu/news/yingying-chen-selected-2021-acm-distinguished-member)
+
 \[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!
 
 \[May 2021\] One paper was accepted by ACM MobiHoc 2021.
