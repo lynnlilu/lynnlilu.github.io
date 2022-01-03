@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Full CV](http://lynnlilu.github.io/files/cv-luli.pdf)
 
-Research & Teaching Experience
+Research Experience
 ======
 * Jul. 2020-present: Research Professor
   * Zhejiang University
@@ -26,15 +26,10 @@ Research & Teaching Experience
   * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory (WINLAB) and Department of Electrical and Computer Engineering. And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
   * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow, ACM Distinguished Scientist)
 
-* Mar. 2018-Jul. 2018, Sep. 2016-Jan. 2017, Sep. 2015-Jan. 2016: Teaching Assistant
-  * Shanghai Jiao Tong University
-  * Duties included: TA for undergraduate course Software Engineering.
-  * Supervisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/)
-
 Education Background
 ======
-* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, 2020
-* B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, 2015
+* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, Hangzhou, China, 2020
+* B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, Xi'an, China, 2015
 
 Publications
 ======
