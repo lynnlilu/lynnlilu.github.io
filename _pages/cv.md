@@ -120,7 +120,7 @@ Teaching
 
 [**T2**] Computer Systems I, Undergraduate Course, Spring-Summer 2021
 
-[**T1**] Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021
+[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021
 
 Awards
 ======
@@ -150,33 +150,20 @@ Awards
 
 Media Coverage
 ======
-[**M14**] IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
-
-[**M13**] 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
-
-[**M12**] 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
-
-[**M11**] 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
-
-[**M10**] EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
-
-[**M9**] 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
-
-[**M8**] 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
-
-[**M7**] 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
-
-[**M6**] ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
-
-[**M5**] BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
-
-[**M4**] TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
-
-[**M3**] The Block，[“LipPass will read your lips to keep your phone and wallet secure”](https://www.theblockcrypto.com/tiny/lippass-will-read-your-lips-to-keep-your-phone-and-wallet-secure/)
-
-[**M2**] BitcoinExchangeGuide，[“Lip Reading User ID Authentication System LipPass to Help Secure Phone and Wallet”](https://bitcoinexchangeguide.com/lip-reading-user-id-authentication-system-lippass-to-help-secure-phone-and-wallet/)
-
-[**M1**] BoingBoing，[“Your locked phone could verify it's you by listening to your lips move”](https://boingboing.net/2019/02/08/your-locked-phone-could-verify.html)
+* IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
+* 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
+* 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
+* 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
+* EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
+* 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
+* 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
+* 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
+* ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
+* BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
+* TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
+* The Block，[“LipPass will read your lips to keep your phone and wallet secure”](https://www.theblockcrypto.com/tiny/lippass-will-read-your-lips-to-keep-your-phone-and-wallet-secure/)
+* BitcoinExchangeGuide，[“Lip Reading User ID Authentication System LipPass to Help Secure Phone and Wallet”](https://bitcoinexchangeguide.com/lip-reading-user-id-authentication-system-lippass-to-help-secure-phone-and-wallet/)
+* BoingBoing，[“Your locked phone could verify it's you by listening to your lips move”](https://boingboing.net/2019/02/08/your-locked-phone-could-verify.html)
 
 Professional Services
 ======
