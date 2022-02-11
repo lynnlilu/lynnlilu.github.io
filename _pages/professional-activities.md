@@ -16,6 +16,7 @@ Academic Organization Member
 Technical Program Committee Member
 ======
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022)
+* 42nd IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021)
 * The 25th IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019)
 
