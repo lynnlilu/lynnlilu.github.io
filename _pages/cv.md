@@ -87,6 +87,8 @@ I have published 24 papers on conferences and journals
 
 Patents
 ======
+[**P10**] Shui Long, **Li Lu**, Jiadi Yu. [基于Wi-Fi识别系统的信号转换方法](https://lynnlilu.github.io/patents/2022-patent-1). ZL202011043349.5. 2022.
+
 [**P9**] Jiadi Yu, **Li Lu**. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
 
 [**P8**] Jiadi Yu, **Li Lu**. [远距离用户触控屏上全键盘输入获取方法](https://lynnlilu.github.io/patents/2019-patent-1). ZL201810410015.3. 2019.
