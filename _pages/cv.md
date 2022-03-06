@@ -33,8 +33,16 @@ Education Background
 
 Publications
 ======
-I have published 24 papers on conferences and journals
+I have published 28 papers on conferences and journals
 ## Conference Papers
+[**C18, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. 2022. doi: to appear.
+
+[**C17, INFOCOM, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yanmin Zhu, Feilong Tang, Yi-Chao Chen, Linghe Kong, Feng Lyu. [Push the Limit of WiFi-based User Authentication towards Undefined Gestures](https://lynnlilu.github.io/publication/2022-05-conference-FreeAuth-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. 2022. doi: to appear.
+
+[**C16, INFOCOM, CCF-A**] Yike Chen, Ming Gao, Yimin Li, Lingfeng Zhang, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. [Big Brother is Listening: An Evaluation Framework on Ultrasonic Microphone Jammers](https://lynnlilu.github.io/publication/2022-05-conference-BigBrother-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. 2022. doi: to appear.
+
+[**C15, INFOCOM, CCF-A**] Chao Wang, Feng Lin, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [mmPhone: Acoustic Eavesdropping on Loudspeakers via mmWave-characterized Piezoelectric Effect](https://lynnlilu.github.io/publication/2022-05-conference-mmPhone-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. 2022. doi: to appear.
+
 [**C14, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320). 
 
 [**C13, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255). 
@@ -111,11 +119,11 @@ Teaching
 ======
 [**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021
 
-[**T4**] Wireless and IoT Security, Graduate Course, Fall-Winter 2021
+[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2022, 2021
 
-[**T3**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021
+[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2021, 2020
 
-[**T2**] Computer Systems I, Undergraduate Course, Spring-Summer 2021
+[**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021
 
 [**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021
 
