@@ -87,13 +87,15 @@ Selected Publications
 
 [**J3, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
 
-[**C1, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2):51:1-51:24. Cancun, Mexico. 2020.
+[**C1, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). Proceedings of IEEE INFOCOM. Virtual. 2022.
 
-[**C2, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3):97:1-97:22. London, England. 2019.
+[**C2, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 4(2):51:1-51:24. Cancun, Mexico. 2020.
 
-[**C3, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). Proceedings of IEEE INFOCOM. Paris, France. pp. 775-783. 2019. 
+[**C3, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 3(3):97:1-97:22. London, England. 2019.
 
-[**C4, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018.
+[**C4, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). Proceedings of IEEE INFOCOM. Paris, France. pp. 775-783. 2019. 
+
+[**C5, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
 Professional Services
 ======
