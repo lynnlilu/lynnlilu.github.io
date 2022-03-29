@@ -95,6 +95,8 @@ I have published 28 papers on conferences and journals
 
 Patents
 ======
+[**P11**] **Li Lu**, Lei Wang, Zhongjie Ba, Kui Ren. [基于内建传感器欠采样数据的通用语音信息恢复装置及方法](https://lynnlilu.github.io/patents/2022-patent-2). ZL202110615983.X. 2022.
+
 [**P10**] Shui Long, **Li Lu**, Jiadi Yu. [基于Wi-Fi识别系统的信号转换方法](https://lynnlilu.github.io/patents/2022-patent-1). ZL202011043349.5. 2022.
 
 [**P9**] Jiadi Yu, **Li Lu**. [基于FMCW与特征表达迁移的声道用户验证方法及系统](https://lynnlilu.github.io/patents/2020-patent-2). ZL201910586991.9. 2020.
