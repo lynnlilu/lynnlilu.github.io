@@ -6,12 +6,10 @@ author_profile: true
 ---
 I have served for many professional activities.
 
-Academic Organization Member
+Academic Organization Service
 ======
-* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Executive Committee Member of Technical Committee on Pervasive Computing (TCPC), Member
-* Association of Computing Machinery ([ACM](https://www.acm.org/)): Member
-* Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)): Member
-* Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)): Member
+* Executive Committee Member in China Computer Federation Technical Committee on Pervasive Computing (CCF TCPC)
+* Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
 
 Technical Program Committee Member
 ======
@@ -32,3 +30,10 @@ Reviewer
 * Knowledge-based Systems
 * Smart Health
 * Journal of Cloud Computing
+
+Academic Organization Member
+======
+* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Member
+* Association of Computing Machinery ([ACM](https://www.acm.org/)): Member
+* Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)): Member
+* Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)): Member
