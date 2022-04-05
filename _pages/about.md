@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Apr. 2022\] One paper was accepted by IEEE ICDCS 2022.
+
 \[Apr. 2022\] My advised Ph.D. student Meng Chen received INFOCOM 2022 Student Conference Grant. Congratulations!
 
 \[Dec. 2021\] My advisor (@ Rutgers) Prof. Yingying Chen is named National Academy of Inventors Fellow and 2021 ACM Distinguished Scientist. Congratulations! [Link1](https://www.ece.rutgers.edu/news/professor-named-national-academy-inventors-fellow)[Link2](https://www.ece.rutgers.edu/news/yingying-chen-selected-2021-acm-distinguished-member)
@@ -33,9 +35,9 @@ News
 
 \[May 2021\] One paper was accepted by ACM MobiHoc 2021.
 
-\[Apr. 2021\] I served as a TPC member of IEEE INFOCOM 2022.
+[//]: #  (\[Apr. 2021\] I served as a TPC member of IEEE INFOCOM 2022.)
 
-\[Feb. 2021\] I served as a TPC member of IEEE/ACM IWQoS 2021.
+[//]: #  (\[Feb. 2021\] I served as a TPC member of IEEE/ACM IWQoS 2021.)
 
 \[Jan. 2021\] One paper was accepted by IEEE ICC 2021.
 
@@ -63,7 +65,7 @@ News
 
 \[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
 
-\[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.
+[//]: #  (\[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.)
 
 \[Nov. 2019\] I received the travel grant from the Global Young Scientists Summit Singapore 2020.
 
