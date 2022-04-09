@@ -129,7 +129,7 @@ Teaching
 
 [**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021
 
-[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021
+[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2022, 2021
 
 Awards
 ======
@@ -176,6 +176,7 @@ Media Coverage
 
 Professional Services
 ======
+* Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 * Technical Program Committee: IEEE INFOCOM 2022, IEEE ICDCS 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, Smart Health, Journal of Cloud Computing, IEEE ICC.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
