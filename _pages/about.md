@@ -45,7 +45,8 @@ News
 
 \[Nov. 2020\] I received the 2020 ACM China SIGAPP Chapter Doctoral Dissertation Award. [Link](http://www.acmturc.com/2021/cn/doctoral_thesis_award.html)
 
-\[Oct. 2020\] One paper was accepted by ACM SenSys 2020, which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!
+\[Oct. 2020\] One paper was accepted by ACM SenSys 2020.
+[//]: # (which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!)
 
 \[Sep. 2020\] One paper was accepted by ACM IMWUT, which was presented in ACM UbiComp 2020.
 
@@ -69,7 +70,8 @@ News
 
 \[Nov. 2019\] I received the travel grant from the Global Young Scientists Summit Singapore 2020.
 
-\[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019, whose work is collaborated with Prof. Yingying Chen's group. Congratulations!
+\[Oct. 2019\] We received the first runner-up poster award in ACM MobiCom 2019. 
+[//]: # (whose work is collaborated with Prof. Yingying Chen's group. Congratulations!)
 
 \[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
@@ -77,7 +79,8 @@ News
 
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
-\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019, which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!
+\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019.
+[//]: # (which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!)
 
 \[Feb. 2019\] Our work on &quot;Lip Reading-based User authentication through Acoustic Sensing on Smartphones&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips).
 
@@ -106,4 +109,4 @@ Professional Services
 * Technical Program Committee: IEEE INFOCOM 2022, IEEE ICDCS 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
-* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).
+[//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)
