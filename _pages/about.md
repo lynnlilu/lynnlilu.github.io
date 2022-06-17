@@ -9,17 +9,17 @@ redirect_from:
 ---
 Latest Update
 =====
-I am looking for students that are willing to **LISTEN** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of IoT and mobile security. Students that intend to pursue Ph.D. and master degrees are both welcome!
+I am looking for students that are **SELF-MOTIVATED** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of AIoT and ubiquitous security. Both students that intend to practise his/her research skills, or want to pursue Ph.D. and master degrees, are welcome!
 
 Brief Biography
 =====
-[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn), Key Laboratory of Blockchain and Cyberspace Governance of Zhejiang Province, and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2020; and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published over 20 peer-reviewed papers on premier international journals and conferences, including IEEE INFOCOM, ACM UbiComp, IEEE/ACM ToN, IEEE TMC, IEEE TPDS, etc. He is the recipient of ACM China SIGAPP Chapter Doctoral Dissertation Award, Shanghai Computer Society Doctoral Dissertation Award Nomination, First Runner-up Poster Award at ACM MobiCom'19, Joint Ph.D. Training Grant of China Scholarship Council.
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2020; and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published over 20 peer-reviewed papers on premier international journals and conferences, including IEEE INFOCOM, ACM UbiComp, IEEE/ACM ToN, IEEE TMC, IEEE TPDS, etc. He is the recipient of ACM China SIGAPP Chapter Doctoral Dissertation Award, Shanghai Computer Society Doctoral Dissertation Award Nomination, First Runner-up Poster Award at ACM MobiCom'19, Joint Ph.D. Training Grant of China Scholarship Council.
 
 More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf).
 
 Research Interests
 ======
-His research interests include IoT security, mobile sensing, ubiquitous computing, and human-computer interactions. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
+His research interests include AIoT security, adversarial learning, voice security, mobile sensing, ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
 
 Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. (Also could be the anime LoveLive! ^_^)
 
@@ -109,7 +109,7 @@ Selected Publications
 
 Professional Services
 ======
-* Technical Program Committee: IEEE INFOCOM 2022-2023, IEEE ICDCS 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019.
+* Technical Program Committee: IEEE INFOCOM 2022-2023, IEEE ICDCS 2022, IEEE/ACM IWQoS 2021, IEEE ICPADS 2019/2022.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Vehicular Technology, IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Knowledge-based Systems, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 
