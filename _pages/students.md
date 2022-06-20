@@ -38,12 +38,14 @@ Master Students
 
 Undergraduate Students
 ======
-* Shunzheng Tang (唐顺政)
-  * Duration: The class of 2022
-  * Major: Cyber Science
-  * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
-  
 * Chenxu Zhao (赵晨旭)
   * Duration: The class of 2023
   * Major: Computer Science and Technology
   * Research Interest: Voice Anonymization
+
+Alumni
+======
+* Shunzheng Tang (唐顺政)
+  * The class of 2022 undergraduate
+  * Major: Cyber Science
+  * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
