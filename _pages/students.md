@@ -13,6 +13,7 @@ Ph.D. Students
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Attack and Defense on Voiceprint
+  * Award: Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Signal Augmentation and Voiceprint Authentication
@@ -32,6 +33,7 @@ Master Students
 * Zhehan Gu (顾哲涵)
   * Duration: 2022-present
   * Research Interests: Voice Conversion
+  * Award: Outstanding Bachelor Dissertation Award of 2022
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
   * Research Interest: Image Deepfake Detection
@@ -49,3 +51,4 @@ Alumni
   * The class of 2022 undergraduate
   * Major: Cyber Science
   * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
+  * Award: Outstanding Bachelor Dissertation Award of 2022
