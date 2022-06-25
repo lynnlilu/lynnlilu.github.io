@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzhen Han received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congradulations!
+\[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzhen Tang received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congradulations!
 
 \[Apr. 2022\] One paper was accepted by IEEE ICDCS 2022.
 
