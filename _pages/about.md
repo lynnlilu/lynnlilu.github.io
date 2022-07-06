@@ -35,7 +35,7 @@ News
 
 \[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!
 
-\[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congradulations!
+\[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congratulations!
 
 \[May 2021\] One paper was accepted by ACM MobiHoc 2021.
 
