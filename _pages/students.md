@@ -5,6 +5,13 @@ permalink: /students/
 author_profile: true
 ---
 
+Postdoc Fellows
+======
+* Meng Zhang (张梦)
+  * Duration: 2022-present
+  * Co-advised with Prof. Feng Lin
+  * Research Interests: Networking and Communication Security
+
 Ph.D. Students
 ======
 * Qianniu Chen (陈钱牛)
@@ -44,6 +51,10 @@ Undergraduate Students
   * Duration: The class of 2023
   * Major: Computer Science and Technology
   * Research Interest: Voice Anonymization
+* Miao He (贺淼)
+  * Duration: The class of 2024
+  * Major: Cyber Science and Technology
+  * Research Interest: Biometric Recognition
 
 Alumni
 ======
