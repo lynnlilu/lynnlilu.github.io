@@ -16,7 +16,7 @@ Technical Program Committee Member
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2023)
 * 42nd IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021)
-* The 25th IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019)
+* IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/22)
 
 Reviewer
 ======
@@ -28,6 +28,7 @@ Reviewer
 * IEEE Transactions on Services Computing
 * IEEE Transactions on Multimedia
 * IEEE Internet of Things Journal
+* Computer Networks
 * Knowledge-based Systems
 * Smart Health
 * Journal of Cloud Computing
