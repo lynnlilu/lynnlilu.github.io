@@ -33,7 +33,7 @@ Education Background
 
 Publications
 ======
-I have published 29 papers on conferences and journals
+I have published 30 papers on conferences and journals
 ## Conference Papers
 [**C19, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. pp. 1419-1428. 2022. doi: [10.1109/INFOCOM48880.2022.9796934](https://doi.org/10.1109/INFOCOM48880.2022.9796934).
 
@@ -59,13 +59,13 @@ I have published 29 papers on conferences and journals
 
 [**C8, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi](https://lynnlilu.github.io/publication/2019-07-conference-FingerPass-mobihoc). Proceedings of ACM MobiHoc. Catania, Italy. pp. 201-210. 2019. doi: [10.1145/3323679.3326518](https://www.doi.org/10.1145/3323679.3326518). 
 
-[**C7, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feilong Tang, Yi-chao Chen. [MultiAuth: Enable Multi-User Authentication with Single Commodity WiFi Device](https://lynnlilu.github.io/publication/2021-07-conference-MultiAuth-mobihoc). Proceedings of ACM International Symposium on Mobile Ad Hoc Networking and Computing (ACM MobiHoc 2021). Shanghai, China. pp. 31-40. 2021. doi: [10.1145/3466772.3467032](https://www.doi.org/10.1145/3466772.3467032).
+[**C7, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feilong Tang, Yi-chao Chen. [MultiAuth: Enable Multi-User Authentication with Single Commodity WiFi Device](https://lynnlilu.github.io/publication/2021-07-conference-MultiAuth-mobihoc). Proceedings of ACM MobiHoc. Shanghai, China. pp. 31-40. 2021. doi: [10.1145/3466772.3467032](https://www.doi.org/10.1145/3466772.3467032).
 
 [**C6, SenSys, CCF-B**] Yang Bai, Jian Liu, **Li Lu**, Yilin Yang, Yingying Chen, Jiadi Yu. [BatComm: Enabling Inaudible Acoustic Communication with High-throughput for Mobile Devices](https://lynnlilu.github.io/publication/2020-10-conference-BatComm-sensys). Proceedings of ACM SenSys. Yokohama, Japan. 2020. doi: [10.1145/3384419.3430773](https://www.doi.org/10.1145/3384419.3430773).
 
 [**C5, SECON, CCF-B**] Hua Xue, Jiadi Yu, Yanmin Zhu, **Li Lu**, Shiyou Qian, Minglu Li. [WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth](https://lynnlilu.github.io/publication/2019-06-conference-WiZoom-secon). Proceedings of IEEE SECON. Boston, MA, USA. pp. 1-9. 2019. doi: [10.1109/SAHCN.2019.8824859](https://www.doi.org/10.1109/SAHCN.2019.8824859).
 
-[**C4, ICC, CCF-C**] Liu Liu, Hanlin Yu, Zhongjie Ba, **Li Lu**, Feng Lin, Kui Ren. [PassFace: Enabling Practical Anti-Spoofing Facial Recognition with Camera Fingerprinting](https://lynnlilu.github.io/publication/2021-06-conference-PassFace-icc). Proceedings of IEEE International Conference on Communications (IEEE ICC 2021). Montreal, Canada. pp. 1-6. 2021. doi: [10.1109/ICC42927.2021.9501053](https://www.doi.org/10.1109/ICC42927.2021.9501053).
+[**C4, ICC, CCF-C**] Liu Liu, Hanlin Yu, Zhongjie Ba, **Li Lu**, Feng Lin, Kui Ren. [PassFace: Enabling Practical Anti-Spoofing Facial Recognition with Camera Fingerprinting](https://lynnlilu.github.io/publication/2021-06-conference-PassFace-icc). Proceedings of IEEE ICC. Montreal, Canada. pp. 1-6. 2021. doi: [10.1109/ICC42927.2021.9501053](https://www.doi.org/10.1109/ICC42927.2021.9501053).
 
 [**C3, WISE, CCF-C**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, et al. [Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting](https://lynnlilu.github.io/publication/2017-10-conference-WISE). Proceedings of WISE. Moscow, Russia. pp. 259-274. 2017. doi: [10.1007/978-3-319-68783-4_18](https://www.doi.org/10.1007/978-3-319-68783-4_18).
 
@@ -93,6 +93,8 @@ I have published 29 papers on conferences and journals
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. [mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device](https://lynnlilu.github.io/publication/2021-11-journal-mPose-smarthealth). Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Posters
+[**CP2, MobiCom, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). Proceedings of ACM MobiCom. Sydney, Australia. 2022. doi: to appear.
+
 [**CP1, MobiCom, CCF-A**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://lynnlilu.github.io/publication/2019-10-poster-BatComm_poster-mobicom). Proceedings of ACM MobiCom. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405). 
 
 Patents
