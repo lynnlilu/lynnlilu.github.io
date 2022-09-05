@@ -23,6 +23,7 @@ Reviewer
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Mobile Computing
 * IEEE/ACM Transactions on Networking
+* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 * IEEE Transactions on Vehicular Technology
 * ACM Transactions on Sensor Networks
 * IEEE Transactions on Services Computing
