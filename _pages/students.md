@@ -44,6 +44,9 @@ Master Students
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
   * Research Interest: Image Deepfake Detection
+* Yuhan Wu (吴雨涵)
+  * Duration: 2022-present
+  * Research Interest: Biometric Recognition
 
 Undergraduate Students
 ======
