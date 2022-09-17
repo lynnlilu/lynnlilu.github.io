@@ -13,7 +13,7 @@ I am looking for students that are **SELF-MOTIVATED** and interested in **explor
 
 Brief Biography
 =====
-[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2020; and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published 30 peer-reviewed papers on premier international journals and conferences, including ACM SenSys, ACM UbiComp, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, IEEE TPDS, etc. He is the recipient of ACM China SIGAPP Chapter Doctoral Dissertation Award, Shanghai Computer Society Doctoral Dissertation Award Nomination, First Runner-up Poster Award at ACM MobiCom'19, Joint Ph.D. Training Grant of China Scholarship Council.
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2020; and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn) in 2015. Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published over 30 peer-reviewed papers on premier international journals and conferences, including ACM SenSys, ACM UbiComp, IEEE INFOCOM, IEEE/ACM ToN, IEEE TMC, IEEE TPDS, etc. He is the recipient of ACM China SIGAPP Chapter Doctoral Dissertation Award, Shanghai Computer Society Doctoral Dissertation Award Nomination, First Runner-up Poster Award at ACM MobiCom'19, Joint Ph.D. Training Grant of China Scholarship Council.
 
 More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf).
 
@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Sep. 2022\] One paper was conditionally accepted by ACM SenSys 2022.
+
 \[Aug. 2022\] One poster paper was accepted by ACM MobiCom 2022.
 
 \[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzheng Tang received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congratulations!
