@@ -16,14 +16,14 @@ Ph.D. Students
 ======
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
-  * Research Interests: Attack and Defense on Voices
+  * Research Interests: Adversarial Example and Synthesis on Voices
 * Meng Chen (陈锰)
   * Duration: 2021-present
-  * Research Interests: Attack and Defense on Voiceprint
+  * Research Interests: Adversarial Example for Attack and Defense on Voice
   * Award: Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
 * Kun Wang (王琨)
   * Duration: 2021-present
-  * Research Interests: Signal Augmentation and Voiceprint Authentication
+  * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
 
 Master Students
 ======
@@ -43,7 +43,7 @@ Master Students
   * Award: Outstanding Bachelor Dissertation Award of 2022
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
-  * Research Interest: Image Deepfake Detection
+  * Research Interest: Text-To-Speech for Voice Synthesis
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
   * Research Interest: Biometric Recognition
