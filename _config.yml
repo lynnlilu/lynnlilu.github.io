@@ -180,9 +180,6 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -208,14 +205,6 @@ defaults:
       type: patents
     values:
       layout: single
-      author_profile: true
-      share: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
       author_profile: true
       share: true
 

@@ -15,5 +15,9 @@ IEEE International Conference on Computer Communications is a top ranked interna
 
 Abstract: This paper demonstrates the feasibility of a side-channel attack to infer keystrokes on touch screen leveraging an off-the-shelf smartphone. Although there exist some studies on keystroke eavesdropping attacks on touch screen, they are mainly direct eavesdropping attacks, i.e., require the device of victims compromised to provide side-channel information for the adversary, which are hardly launched in practical scenarios. In this work, we show the practicability of an indirect eavesdropping attack, KeyListener, which infers keystrokes on QWERTY keyboards of touch screen leveraging audio devices on a smartphone.
 
+Presentation Venue: 4-D: Crowdsensing at IEEE INFOCOM 2019 @ Paris, France in May 1, 2019. Due to my visit to United States from Oct. 2018, I did not attend the IEEE INFOCOM 2019 held in Paris, France. I made the slide for the paper presentation, and my labmate, Xiangyu Xu, presented the paper on behalf of me. 
+
 [View the full paper](https://ieeexplore.ieee.org/document/8737591)
+
+[View presentation slide](http://lynnlilu.github.io/files/INFOCOM19.pdf)
 

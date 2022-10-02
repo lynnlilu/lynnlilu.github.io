@@ -15,5 +15,9 @@ IEEE ICPADS is a CCF-C conference.
 
 Abstract: Nowadays, the container-based virtualization technologies have become very popular due to lightweight nature, scalability, flexibility and others. Kubernetes is one of the most popular container cluster management systems, which enables users to deploy applications on the container easily, so more and more web applications are deployed in a Kubernetes clusters. However, a Kubernetes cluster is generally designed to handle the peak of workloads, so that most of resources are idle in usual time, which results in an huge waste of resource. Hence, it is necessary to design a system to improve the cluster resource utilization and promise Quality of Service (QoS) in a Kubernetes cluster. In this paper, we propose a generic system to dynamically adjust the scale of a Kubernetes cluster, which is able to reduce the waste of resource on the premise of QoS guarantee.
 
+Presentation Venue: Session IV: Distributed & High Performance Computing & High Performance Computing at IEEE ICPADS 2019 @ Tianjin, China in Dec. 4, 2019.
+
 [View the full paper](https://www.doi.org/10.1109/ICPADS47876.2019.00037)
+
+[View presentation slide](http://lynnlilu.github.io/files/ICPADS19.pdf)
 

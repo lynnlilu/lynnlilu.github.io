@@ -15,5 +15,9 @@ IEEE International Conference on Computer Communications is a top ranked interna
 
 Abstract: To prevent users' privacy from leakage, more and more mobile devices employ biometric-based authentication approaches, such as fingerprint, face recognition, voiceprint authentications, etc., to enhance the privacy protection. However, these approaches are vulnerable to replay attacks. Although state-of-art solutions utilize liveness verification to combat the attacks, existing approaches are sensitive to ambient environments, such as ambient lights and surrounding audible noises. Towards this end, we explore liveness verification of user authentication leveraging users' lip movements, which are robust to noisy environments. In this paper, we propose a lip reading-based user authentication system, $LipPass$, which extracts unique behavioral characteristics of users' speaking lips leveraging build-in audio devices on smartphones for user authentication.
 
+Presentation Venue: Sensing, Recognition and Tracking 1 at IEEE INFOCOM 2018 @ Honolulu, HI, USA in Apr. 18, 2018.
+
 [View the full paper](http://lynnlilu.github.io/files/08486283-2.pdf)
+
+[View presentation slide](http://lynnlilu.github.io/files/INFOCOM-simple.pdf)
 
