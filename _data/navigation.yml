@@ -12,8 +12,8 @@ main:
   - title: "Professional Activities"
     url: /professional-activities/ 
 
-  - title: "Talks"
-    url: /talks/ 
+  # - title: "Talks"
+  #  url: /talks/ 
 
   - title: "Students"
     url: /students/ 
