@@ -10,7 +10,7 @@ Postdoc Fellows
 * Meng Zhang (张梦)
   * Duration: 2022-present
   * Co-advised with Prof. Feng Lin
-  * Research Interests: Networking and Communication Security
+  * Research Interests: Voice Fingerprinting for IoT Devices
 
 Ph.D. Students
 ======
@@ -19,7 +19,7 @@ Ph.D. Students
   * Research Interests: Adversarial Example and Synthesis on Voices
 * Meng Chen (陈锰)
   * Duration: 2021-present
-  * Research Interests: Adversarial Example for Attack and Defense on Voice
+  * Research Interests: Adversarial Example for Attack and Defense on Voices
   * Award: Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
 * Kun Wang (王琨)
   * Duration: 2021-present
