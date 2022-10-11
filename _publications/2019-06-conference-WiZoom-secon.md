@@ -15,5 +15,9 @@ IEEE International Conference on Sensing, Communication and Networking is a famo
 
 Abstract: Multipath profiling is to characterize multipath components of wireless channels, which can be done using Channel State Information (CSI) from WiFi devices. To do so with satisfactory accuracy, recent studies rely on either a large number of receiving antennas or large bandwidth. However, it is difficult for commodity WiFi devices to meet these requirements. In this paper, we propose a scheme, WiZoom, that can perform accurate multipath profiling using single-band CSI from commodity WiFi devices.
 
+Presentation Venue: A2: Localization and tracking at IEEE SECON 2019 @ Boston, MA, USA in Jun. 11, 2019. In IEEE SECON 2019, except for this paper, I also present three other papers for the authors who cannot go to Boston due to visa reasons.
+
 [View the full paper](https://ieeexplore.ieee.org/document/8824859)
+
+[View presentation slide](http://lynnlilu.github.io/files/WiZoom_Secon19.pdf)
 

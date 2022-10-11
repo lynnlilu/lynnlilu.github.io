@@ -15,6 +15,10 @@ IEEE International Conference on Communications is the flagship conference of IE
 
 Abstract: Benefiting from the pay-per-use pricing model of cloud computing, many companies migrate their services and applications from typical expensive infrastructures to the cloud. However, due to fluctuations in the workload of services and applications, making a cost-efficient VM configuration decision in the cloud remains a critical challenge. Even experienced administrators cannot accurately predict the workload in the future. Since the pricing model of cloud provider is convex other than linear that often assumed in past research, instead of typical scaling out strategy. In this paper, we adopt mix scale strategy. Based on this observation, we model an optimization problem aiming to minimize the VM configuration cost under the constraint of migration delay. 
 
+Presentation Venue: CCN-04: Quality of Service and Experience (QoS & QoE) in Cloud Computing at IEEE ICC 2017 @ Paris, France in May 24, 2017.
+
 [View the full paper](http://lynnlilu.github.io/files/07997241.pdf)
+
+[View presentation slide](http://lynnlilu.github.io/files/ICCv2.pdf)
 
 
