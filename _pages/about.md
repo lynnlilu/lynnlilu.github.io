@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Sep. 2022\] One paper was conditionally accepted by ACM SenSys 2022, which is completed by my advised Ph.D. student Qianniu Chen. Congratulations!
+\[Oct. 2022\] One paper was accepted by ACM SenSys 2022, which is completed by my advised Ph.D. student Qianniu Chen. Congratulations!
 
 \[Aug. 2022\] One poster paper was accepted by ACM MobiCom 2022.
 

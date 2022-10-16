@@ -1,0 +1,17 @@
+---
+title: "Push the Limit of Adversarial Example Attack on Speaker Recognition in Physical Domain"
+collection: publications
+catogories: 
+    - conference
+permalink: /publication/2022-10-conference-PhyTalker-sensys
+#excerpt: ''
+date: 2022-10-15
+venue: 'The 20th ACM Conference on Embedded Networked Sensor Systems (ACM SenSys 2022)'
+#paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
+citation: 'Qianniu Chen, Meng Chen, <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. &quot;Push the Limit of Adversarial Example Attack on Speaker Recognition in Physical Domain.&quot; <i>Proceedings of ACM Conference on Embedded Networked Sensor Systems (ACM SenSys)</i>. Boston, MA, USA. 2022. doi: to appear.'
+---
+
+ACM Conference on Embedded Networked Sensor Systems is the premier international conference in embedded sensing and networking systems. ACM SenSys is also a CCF-B conference.
+
+[To appear](https://dl.acm.org/doi/10.1145/toappear)
+
