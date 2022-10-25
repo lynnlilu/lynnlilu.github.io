@@ -137,6 +137,8 @@ Teaching
 
 Awards
 ======
+[**A13**] Best Poster Runner-up Award of ACM MobiCom 2022, Oct. 2022
+
 [**A12**] Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖), Dec. 2020
 
 [**A11**] ACM China SIGAPP Chapter Doctoral Dissertation Award, Oct. 2020 

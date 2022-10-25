@@ -4,7 +4,9 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Best Poster Runner-up Award of ACM MobiCom 2022
 
+![Best Poster Runner-up Award of ACM MobiCom](../images/awards/MobiCom22-award.jpg){:height="25%" width="25%"}
 
 * Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖)
 
