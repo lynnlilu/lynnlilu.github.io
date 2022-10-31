@@ -53,7 +53,7 @@ I have published over 30 papers on conferences and journals
 
 [**C12, SenSys, CCF-B** ] Qianniu Chen, Meng Chen, **Li Lu**, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [Push the Limit of Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2022-10-conference-PhyTalker-sensys). Proceedings of ACM SenSys. Boston, MA, USA. 2022. doi: to appear.
 
-[**C11, ICDCS, CCF-B**]	**Li Lu**, Zhongjie Ba, Feng Lin, Jinsong Han, Kui Ren. [ActListener: Imperceptible Activity Surveillance by Pervasive Wireless Infrastructures](https://lynnlilu.github.io/publication/2022-07-conference-ActListener-icdcs). Proceedings of IEEE ICDCS. Bologna, Italy. 2022. doi: to appear.
+[**C11, ICDCS, CCF-B**]	**Li Lu**, Zhongjie Ba, Feng Lin, Jinsong Han, Kui Ren. [ActListener: Imperceptible Activity Surveillance by Pervasive Wireless Infrastructures](https://lynnlilu.github.io/publication/2022-07-conference-ActListener-icdcs). Proceedings of IEEE ICDCS. Bologna, Italy. 2022. doi: [10.1109/ICDCS54860.2022.00080](https://www.doi.org/10.1109/ICDCS54860.2022.00080).
 
 [**C10, ICC, CCF-C**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. [Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy](https://lynnlilu.github.io/publication/2017-05-conference-VM-ICC). Proceedings of IEEE ICC. Paris, France. pp. 1-6. 2017. doi: [10.1109/ICC.2017.7997241](https://www.doi.org/10.1109/ICC.2017.7997241). 
 
