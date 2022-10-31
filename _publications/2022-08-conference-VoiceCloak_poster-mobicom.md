@@ -8,7 +8,7 @@ permalink: /publication/2022-08-conference-VoiceCloak_poster-mobicom
 date: 2022-08-15
 venue: 'The 28th Annual Conference on Mobile Computing and Networking (ACM MobiCom 2022)'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: 'Meng Chen, <b>Li Lu*</b>, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. &quot;A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples.&quot; <i>Proceedings of the 28th Annual Conference on Mobile Computing and Networking (ACM MobiCom 2022)</i>. Sydney, Australia. 2022. doi: 10.1145/3495243.3558260.'
+citation: 'Meng Chen, <b>Li Lu*</b>, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. &quot;A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples.&quot; <i>Proceedings of the 28th Annual Conference on Mobile Computing and Networking (ACM MobiCom 2022)</i>. Sydney, Australia. pp. 853-855. 2022. doi: 10.1145/3495243.3558260.'
 ---
 This work received the Best Poster Runner-up Award of ACM MobiCom 2022.
 
