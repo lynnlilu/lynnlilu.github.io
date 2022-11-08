@@ -20,7 +20,7 @@ Ph.D. Students
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example for Attack and Defense on Voices
-  * Award: Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
+  * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
