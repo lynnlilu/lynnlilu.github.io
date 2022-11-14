@@ -43,13 +43,13 @@ News
 
 \[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congratulations!
 
-\[May 2021\] One paper was accepted by ACM MobiHoc 2021.
+[//]: # (\[May 2021\] One paper was accepted by ACM MobiHoc 2021.)
 
 [//]: #  (\[Apr. 2021\] I served as a TPC member of IEEE INFOCOM 2022.)
 
 [//]: #  (\[Feb. 2021\] I served as a TPC member of IEEE/ACM IWQoS 2021.)
 
-\[Jan. 2021\] One paper was accepted by IEEE ICC 2021.
+[//]: # (\[Jan. 2021\] One paper was accepted by IEEE ICC 2021.)
 
 \[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638)
 
@@ -69,13 +69,13 @@ News
 
 \[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
 
-\[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm)
+[//]: # (\[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm))
 
-\[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).
+[//]: # (\[Feb. 2020\] One paper was accepted by Chinese Journal of Computers (计算机学报).)
 
-\[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year (rank: 1/200). [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm)
+[//]: # (\[Dec. 2019\] I received the National Scholarship for Doctoral Student at the 2019 academic year (rank: 1/200). [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm))
 
-\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow)
+[//]: # (\[Nov. 2019\] My advisor (@ Rutgers) Prof. Yingying Chen is elevated to IEEE fellow of the year 2020. Congratulations! [Link](https://www.ece.rutgers.edu/news/professor-yingying-chen-elevated-ieee-fellow))
 
 [//]: #  (\[Nov. 2019\] I was invited to give the talk about ubiquitous sensing and computing on cyber security and privacy at Zhejiang University of Technology.)
 
@@ -91,7 +91,7 @@ News
 
 \[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
 
-\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019.
+[//]: # (\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019.)
 
 [//]: # (which was collaborated with the junior Ph.D. student Hao Kong in Prof. Yu's group. Hao and I are the co-first authors of this work. Congratulations!)
 
