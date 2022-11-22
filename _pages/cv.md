@@ -19,7 +19,7 @@ Research Experience
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
   * Duties included: My previous research interest was cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
-  * Advisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93)
+  * Advisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93) (IEEE Fellow)
 
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey (Rutgers University)
