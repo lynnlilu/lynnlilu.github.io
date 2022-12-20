@@ -25,6 +25,7 @@ Reviewer
 * IEEE/ACM Transactions on Networking
 * IEEE Transactions on Services Computing
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+* ACM Computing Surveys
 * IEEE Transactions on Vehicular Technology
 * ACM Transactions on Sensor Networks
 * IEEE Transactions on Multimedia
