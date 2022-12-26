@@ -33,6 +33,7 @@ Reviewer
 * Knowledge-based Systems
 * IEEE International Conference on Acoustics, Speech and Signal Processing
 * IEEE Internet of Things Journal
+* Expert Systems with Applications
 * Smart Health
 * Journal of Cloud Computing
 
