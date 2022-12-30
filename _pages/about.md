@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Dec. 2022\] One paper was accepted by IEEE/ACM ToN.
+
 \[Oct. 2022\] We received Best Poster Runner-up Award from ACM MobiCom 2022, which is completed by my advised Ph.D. student Meng Chen. Congratulations!
 
 \[Oct. 2022\] One paper was accepted by ACM SenSys 2022, which is completed by my advised Ph.D. student Qianniu Chen. Congratulations!
@@ -101,11 +103,13 @@ News
 
 Selected Publications
 ======
-[**J1, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1):447-460. 2019.
+[**J1, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2022.
 
-[**J2, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4):720-733. 2018.
+[**J2, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1):447-460. 2019.
 
-[**J3, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
+[**J3, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4):720-733. 2018.
+
+[**J4, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
 
 [**C1, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). Proceedings of IEEE INFOCOM. Virtual. 2022.
 

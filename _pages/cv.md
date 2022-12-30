@@ -76,6 +76,8 @@ I have published over 30 papers on conferences and journals
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
+[**J10, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2022. doi: to appear.
+
 [**J9, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
 
 [**J8, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
