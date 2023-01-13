@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jan. 2023\] One paper was accepted by ACM IMWUT.
+
 \[Dec. 2022\] One paper was accepted by IEEE/ACM ToN.
 
 \[Oct. 2022\] We received Best Poster Runner-up Award from ACM MobiCom 2022, which is completed by my advised Ph.D. student Meng Chen. Congratulations!
