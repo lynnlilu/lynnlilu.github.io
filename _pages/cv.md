@@ -35,6 +35,8 @@ Publications
 ======
 I have published over 30 papers on conferences and journals
 ## Conference Papers
+[**C21, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1):32:1-32:22. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
+
 [**C20, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. pp. 1419-1428. 2022. doi: [10.1109/INFOCOM48880.2022.9796934](https://doi.org/10.1109/INFOCOM48880.2022.9796934).
 
 [**C19, INFOCOM, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yanmin Zhu, Feilong Tang, Yi-Chao Chen, Linghe Kong, Feng Lyu. [Push the Limit of WiFi-based User Authentication towards Undefined Gestures](https://lynnlilu.github.io/publication/2022-05-conference-FreeAuth-infocom). Proceedings of IEEE INFOCOM. London, United Kingdom. pp. 410-419. 2022. doi: [10.1109/INFOCOM48880.2022.9796740](https://doi.org/10.1109/INFOCOM48880.2022.9796740).
