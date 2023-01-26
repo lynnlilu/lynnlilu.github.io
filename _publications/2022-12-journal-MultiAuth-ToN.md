@@ -13,5 +13,5 @@ citation: 'Hao Kong, <b>Li Lu*</b>, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Ly
 
 IEEE/ACM Transactions on Networking is a premier journal on computer networking and communications, which is co-sponsored by IEEE ComSoc, IEEE CS and ACM with SIGCOMM. IEEE/ACM ToN is a CCF-A journal. I am the corresponding author of this paper.
 
-[To appear](https://doi.org/10.1109/TNET.2023.3237686)
+[View the full paper](https://doi.org/10.1109/TNET.2023.3237686)
 
