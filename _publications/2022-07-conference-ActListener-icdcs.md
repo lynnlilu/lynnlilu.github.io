@@ -8,7 +8,7 @@ permalink: /publication/2022-07-conference-ActListener-icdcs
 date: 2022-10-13
 venue: 'IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022)'
 #paperurl: 'http://lynnlilu.github.io/files/08486283-2.pdf'
-citation: '<b>Li Lu*</b>, Zhongjie Ba, Feng Lin, Jinsong Han, Kui Ren. &quot;ActListener: Imperceptible Activity Surveillance by Pervasive Wireless Infrastructures.&quot; <i>Proceedings of IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)</i>. Bologna, Italy. 2022. doi: 10.1109/ICDCS54860.2022.00080.'
+citation: '<b>Li Lu*</b>, Zhongjie Ba, Feng Lin, Jinsong Han, Kui Ren. &quot;ActListener: Imperceptible Activity Surveillance by Pervasive Wireless Infrastructures.&quot; <i>Proceedings of IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)</i>. Bologna, Italy. pp. 776-786. 2022. doi: 10.1109/ICDCS54860.2022.00080.'
 ---
 
 IEEE International Conference on Distributed Computing Systems is a premier international conference in distrubited computing and communication areas. IEEE ICDCS is also a CCF-B conference. 
