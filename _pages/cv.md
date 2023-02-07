@@ -33,7 +33,7 @@ Education Background
 
 Publications
 ======
-I have published over 30 papers on conferences and journals
+I have published over 30 papers on peer-reviewed conferences and journals
 ## Conference Papers
 [**C22, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
 
@@ -80,7 +80,11 @@ I have published over 30 papers on conferences and journals
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
-[**J10, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+[**J12, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+
+[**J11, TMC, CCF-A**] Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, Jianwei Liu, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. [A Resilience Evaluation Framework on Ultrasonic Microphone Jammers](https://lynnlilu.github.io/publication/2023-02-journal-BigBrother-TMC). IEEE Transactions on Mobile Computing. 2023. doi: to appear.
+
+[**J10, TDSC, CCF-A**] Peng Cheng, Yuexin Wu, Yuan Hong, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. [UniAP: Protecting Speech Privacy with Non-targeted Universal Adversarial Perturbations](https://lynnlilu.github.io/publication/2023-02-journal-UniAP-TPDS). IEEE Transactions on Dependable and Secure Computing. 2023. doi: [10.1109/TDSC.2023.3242292](https://doi.org/10.1109/TDSC.2023.3242292).
 
 [**J9, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
 
