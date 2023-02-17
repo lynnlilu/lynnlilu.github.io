@@ -96,7 +96,7 @@ I have published over 30 papers on peer-reviewed conferences and journals
 
 [**J7, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
 
-[**J6, CJC, CCF-A**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
+[**J6, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
 
 [**J5, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing, 20(2):337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
 
