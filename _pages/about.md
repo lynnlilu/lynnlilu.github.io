@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Feb. 2023\] One paper was accepted by IEEE ICASSP, which was completed by my advised master student Junhao Wang. Congratulations!
+
 \[Jan. 2023\] One paper was accepted by ACM IMWUT, which was completed by my advised master student Lei Wang. Congratulations!
 
 \[Dec. 2022\] One paper was accepted by IEEE/ACM ToN.
