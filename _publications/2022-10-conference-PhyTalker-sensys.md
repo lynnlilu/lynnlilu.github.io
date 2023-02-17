@@ -17,3 +17,5 @@ Abstract: The integration of deep learning on Speaker Recognition (SR) advances 
 
 [View the full paper](https://doi.org/10.1145/3560905.3568518)
 
+[View presentation slide](https://lynnlilu.github.io/files/phytalker_sensys.pdf)
+
