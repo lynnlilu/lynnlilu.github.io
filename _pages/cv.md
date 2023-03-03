@@ -109,9 +109,9 @@ I have published over 30 papers on peer-reviewed conferences and journals
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. [mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device](https://lynnlilu.github.io/publication/2021-11-journal-mPose-smarthealth). Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Posters
-[**CP2, MobiCom, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). Proceedings of ACM MobiCom. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
+[**CP2, MobiCom**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). Proceedings of ACM MobiCom. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
 
-[**CP1, MobiCom, CCF-A**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://lynnlilu.github.io/publication/2019-10-poster-BatComm_poster-mobicom). Proceedings of ACM MobiCom. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405). 
+[**CP1, MobiCom**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://lynnlilu.github.io/publication/2019-10-poster-BatComm_poster-mobicom). Proceedings of ACM MobiCom. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405). 
 
 Patents
 ======
