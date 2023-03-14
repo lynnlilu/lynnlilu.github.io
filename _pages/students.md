@@ -58,6 +58,10 @@ Undergraduate Students
   * Duration: The class of 2024
   * Major: Cyber Science and Technology
   * Research Interest: Biometric Recognition
+* Zheng Yan (闫政)
+  * Duration: The class of 2025
+  * Major: Cyber Science and Technology
+  * Research Interest: Autonomous Driving Security
 
 Alumni
 ======
