@@ -29,9 +29,4 @@ author_profile: true
 * Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助)
 
 ![Joint Ph.D. Training Grant of China Scholarship Council](../images/awards/csc.jpg){:height="25%" width="25%"}
-* Outstanding Graduate (优秀毕业生)
-* National Encouragement Scholarship (国家励志奖学金)
-* Lu Shidi 2nd Scholarship (陆诗娣二等奖学金)
-* National Encouragement Scholarship (国家励志奖学金)
-
-  
+* Outstanding Graduate of Xi'an Jiaotong University (西安交通大学优秀毕业生)
