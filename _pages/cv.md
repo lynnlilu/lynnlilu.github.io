@@ -33,11 +33,13 @@ Education Background
 
 Publications
 ======
-I have published over 30 papers on peer-reviewed conferences and journals.
+I have published 40 papers on peer-reviewed conferences and journals.
 ## Conference Papers
-[**C24, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
+[**C25, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
 
-[**C23, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: to appear.
+[**C24, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: to appear.
+
+[**C23, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection](https://lynnlilu.github.io/publication/2023-03-conference-MagBackdoor-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. 2023. doi: to appear. [CSRankings-Computer security]
 
 [**C22, NDSS, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Fan Zhang, Kui Ren. [InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise](https://https://lynnlilu.github.io/publication/2023-02-conference-InfoMasker-NDSS). Proceedings of NDSS. San Diego, CA, USA. 2023. doi: to appear.
 
