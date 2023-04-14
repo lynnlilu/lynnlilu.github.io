@@ -10,16 +10,16 @@ Postdoc Fellows
 * Meng Zhang (张梦)
   * Duration: 2022-present
   * Co-advised with Prof. Feng Lin
-  * Research Interests: Voice Fingerprinting for IoT Devices
+  * Research Interests: In-Vehicular Networking Security
 
 Ph.D. Students
 ======
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
-  * Research Interests: Adversarial Example and Synthesis on Voices
+  * Research Interests: Real-time Voice Anonymization
 * Meng Chen (陈锰)
   * Duration: 2021-present
-  * Research Interests: Adversarial Example for Attack and Defense on Voices
+  * Research Interests: Adversarial Example and Backdoor on Audio Systems
   * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
 * Kun Wang (王琨)
   * Duration: 2021-present
@@ -33,20 +33,20 @@ Master Students
   * Research Interests: Attack and Defense on Speaker System
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
-  * Research Interests: Voice Liveness Detection
+  * Research Interests: Multi-modal Biometric Anti-spoofing
 * Kang Fu (傅康)
   * Duration: 2021-present
   * Research Interests: Audio Adversarial Example Attacks
 * Zhehan Gu (顾哲涵)
   * Duration: 2022-present
-  * Research Interests: Voice Conversion
+  * Research Interests: Robust Voice Synthesis
   * Award: Outstanding Bachelor Dissertation Award of 2022
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
-  * Research Interest: Text-To-Speech for Voice Synthesis
+  * Research Interest: Voice Watermarking for AIGC Detection
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
-  * Research Interest: Biometric Recognition
+  * Research Interest: AI-enabled Testing on In-vehicular Networking
 
 Undergraduate Students
 ======
