@@ -131,7 +131,7 @@ Selected Publications
 
 Professional Services
 ======
-* Technical Program Committee: IEEE INFOCOM 2022-2023, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022, IEEE Metaverse 2023.
+* Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022, IEEE Metaverse 2023.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 
