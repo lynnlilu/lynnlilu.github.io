@@ -33,8 +33,10 @@ Education Background
 
 Publications
 ======
-I have published 40 papers on peer-reviewed conferences and journals.
+I have published over 40 papers on peer-reviewed conferences and journals.
 ## Conference Papers
+[**C27, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023, doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
+
 [**C26, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
 
 [**C25, WWW, CCF-A**]	Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, **Li Lu**, Zhenguang Liu. [Transferring Audio Deepfake Detection Capability across Languages](https://lynnlilu.github.io/publication/2023-04-conference-WWW). Proceedings of ACM WWW. pp. 2033-2044. Austin, TX, USA. 2023. doi: [10.1145/3543507.3583222](https://www.doi.org/10.1145/3543507.3583222).
