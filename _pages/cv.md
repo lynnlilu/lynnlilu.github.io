@@ -43,7 +43,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**C24, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: to appear.
 
-[**C23, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection](https://lynnlilu.github.io/publication/2023-03-conference-MagBackdoor-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. 2023. doi: to appear. [CSRankings-Computer security]
+[**C23, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection](https://lynnlilu.github.io/publication/2023-03-conference-MagBackdoor-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. 2023. doi: to appear.
 
 [**C22, NDSS, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Fan Zhang, Kui Ren. [InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise](https://https://lynnlilu.github.io/publication/2023-02-conference-InfoMasker-NDSS). Proceedings of NDSS. San Diego, CA, USA. 2023. doi: to appear.
 
