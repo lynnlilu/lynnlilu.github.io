@@ -32,6 +32,7 @@ Reviewer
 * IEEE Transactions on Multimedia
 * Computer Networks
 * Knowledge-based Systems
+* ACM Multimedida
 * IEEE International Conference on Acoustics, Speech and Signal Processing
 * IEEE Internet of Things Journal
 * Expert Systems with Applications
