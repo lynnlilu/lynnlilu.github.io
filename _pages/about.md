@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I am looking for students that are **SELF-MOTIVATED** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of AIoT and ubiquitous security. Both students that intend to practise his/her research skills, or want to pursue Ph.D. and master degrees, are welcome!
+I am looking for students that are **SELF-MOTIVATED** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of Aotonomous driving security, Voice security, AIoT and ubiquitous security. Both students that intend to practise his/her research skills, or want to pursue Ph.D. and master degrees, are welcome!
 
 Brief Biography
 =====
@@ -19,7 +19,7 @@ More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf
 
 Research Interests
 ======
-His research interests include AIoT security, adversarial learning, voice security, mobile sensing, ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications. Previously, he also conducted theoretical researches on network economics and cloud computing.
+His research interests include AIoT security, voice security, autonomous driving security, mobile sensing, ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications. 
 
 Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. (Also could be the anime LoveLive! ^_^)
 
@@ -132,7 +132,7 @@ Selected Publications
 Professional Services
 ======
 * Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022, IEEE Metaverse 2023.
-* Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, IEEE ICASSP, etc.
+* Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, ACM MM, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 
 [//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)
