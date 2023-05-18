@@ -41,7 +41,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**C25, WWW, CCF-A**]	Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, **Li Lu**, Zhenguang Liu. [Transferring Audio Deepfake Detection Capability across Languages](https://lynnlilu.github.io/publication/2023-04-conference-WWW). Proceedings of ACM WWW. pp. 2033-2044. Austin, TX, USA. 2023. doi: [10.1145/3543507.3583222](https://www.doi.org/10.1145/3543507.3583222).
 
-[**C24, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: to appear.
+[**C24, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
 
 [**C23, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection](https://lynnlilu.github.io/publication/2023-03-conference-MagBackdoor-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. 2023. doi: to appear.
 

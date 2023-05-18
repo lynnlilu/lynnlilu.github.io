@@ -8,10 +8,10 @@ permalink: /publication/2023-06-conference-DeAug-icassp
 date: 2023-06-08
 venue: 'Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP)'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Junhao Wang, <b>Li Lu*</b>, Zhongjie Ba, Feng Lin, Kui Ren. &quot;Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing.&quot; <i>Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP)</i>. Rhodes Island, Greece. 2023. doi: to appear.'
+citation: 'Junhao Wang, <b>Li Lu*</b>, Zhongjie Ba, Feng Lin, Kui Ren. &quot;Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing.&quot; <i>Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP)</i>. Rhodes Island, Greece. 2023. doi: 10.1109/ICASSP49357.2023.10097168.'
 ---
 
 IEEE International Conference on Acoustics, Speech and Signal Processing is the flagship journal of IEEE Signal Processing Society. IEEE ICASSP is a CCF-B conference.
 
 
-[To appear](https://www.doi.org/)
+[View the full paper](https://www.doi.org/10.1109/ICASSP49357.2023.10097168)
