@@ -30,6 +30,7 @@ Reviewer
 * IEEE Transactions on Vehicular Technology
 * ACM Transactions on Sensor Networks
 * IEEE Transactions on Multimedia
+* IEEE Transactions on Network Science and Engineering
 * Computer Networks
 * Knowledge-based Systems
 * ACM Multimedida
