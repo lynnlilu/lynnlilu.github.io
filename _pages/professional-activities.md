@@ -18,6 +18,7 @@ Technical Program Committee Member
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023)
 * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022)
 * IEEE International Conference on Metaverse (IEEE Metaverse 2023)
+* CCF Annual Conference on Distributed and Parallel Computing System (CCF DPCS 2023)
 
 Reviewer
 ======
