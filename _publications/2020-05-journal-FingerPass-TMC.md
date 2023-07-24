@@ -13,6 +13,8 @@ citation: 'Hao Kong, <b>Li Lu</b>, Jiadi Yu, Yingying Chen, Feilong Tang. &quot;
 
 IEEE Transactions on Mobile Computing is the premier international journal on mobile computing and communication. IEEE TMC is a CCF-A journal. 
 
+This paper was recognized as a highly cited paper of Essential Science Indicators. [WOS](https://www.webofscience.com/wos/alldb/full-record/WOS:000702553000004)
+
 
 [View the full paper](https://www.doi.org/10.1109/TMC.2020.2994955)
 
