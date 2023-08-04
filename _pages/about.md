@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jul. 2023\] Two papers was accepted by USENIX Security, which were completed by my advised Ph.D. students Meng Chen and Kun Wang. Congratulations!
+
 \[Jul. 2023\] One paper was recognized as a highly cited paper of Essential Science Indicators. [Link](https://www.webofscience.com/wos/alldb/full-record/WOS:000702553000004)
 
 \[Apr. 2023\] One paper was accepted by ACM IMWUT, which was completed by my advised Ph.D. student Meng Chen. Congratulations!
