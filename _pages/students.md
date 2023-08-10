@@ -22,10 +22,11 @@ Ph.D. Students
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
   * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
-  * Publications on: IEEE INFOCOM, ACM IMWUT
+  * Publications on: USENIX Security, IEEE INFOCOM, ACM IMWUT
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
+  * Publications on: USENIX Security
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
@@ -45,7 +46,7 @@ Master Students
   * Research Interests: Audio Adversarial Example Attacks
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
-  * Research Interest: Voice Watermarking for AIGC Detection
+  * Research Interest: Watermarking for AIGC Detection
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
   * Research Interest: AI-enabled Testing on In-vehicular Networking
