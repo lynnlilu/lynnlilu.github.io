@@ -35,6 +35,10 @@ Publications
 ======
 I have published over 40 papers on peer-reviewed conferences and journals.
 ## Conference Papers
+[**C29, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+
+[**C28, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+
 [**C27, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023, doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
 
 [**C26, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
