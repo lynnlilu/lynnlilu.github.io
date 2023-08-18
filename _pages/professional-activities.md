@@ -38,6 +38,7 @@ Reviewer
 * ACM Multimedida
 * IEEE International Conference on Acoustics, Speech and Signal Processing
 * IEEE Internet of Things Journal
+* Pervasive and Mobile Computing
 * Expert Systems with Applications
 * Smart Health
 * Journal of Cloud Computing
