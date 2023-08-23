@@ -76,14 +76,17 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Cyber Science
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Peilin and Shuhao.
+  * Award: 3rd Award of National College Student Information Security Contest
 * Peilin Sun (孙培林)
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Shuhao.
+  * Award: 3rd Award of National College Student Information Security Contest
 * Shuhao Shen (沈书豪)
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Peilin.
+  * Award: 3rd Award of National College Student Information Security Contest
 * Xiaofei Hou (候晓菲)
   * Duration: The class of 2026
   * Major: Cyber Science
