@@ -111,6 +111,10 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: LiDAR Backdoors, collaborated with Siyang and Jiaxing.
+* Jiaqi Sun (孙佳琦)
+  * Duration: The class of 2025
+  * Major: Cyber Science
+  * Research Interest: Autonomous Driving Security
 
 Alumni
 ======
