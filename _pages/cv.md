@@ -213,7 +213,7 @@ Media Coverage
 Professional Services
 ======
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
-* Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, CCF DPCS 2023.
+* Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023, CCF DPCS 2023.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology,  IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, IEEE ICASSP, IEEE Internet of Things Journal, Pervasive and Mobile Computing, Expert Systems with Applications, Smart Health, Journal of Cloud Computing, IEEE ICC.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
 
