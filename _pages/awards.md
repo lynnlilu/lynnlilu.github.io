@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* 3rd Award of National College Student Information Security Contest - Advisor
+
+![3rd Award of National College Student Information Security Contest](../images/awards/ncsisc.jpg){:height="40%" width="40%"}
+
 * Best Poster Runner-up Award of ACM MobiCom 2022
 
 ![Best Poster Runner-up Award of ACM MobiCom](../images/awards/MobiCom22-award.jpg){:height="25%" width="25%"}
