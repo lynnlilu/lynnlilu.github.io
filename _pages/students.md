@@ -17,7 +17,7 @@ Ph.D. Students
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
   * Research Interests: Real-time Voice Anonymization
-  * Publications on: ACM SenSys
+  * Publications on: ACM SenSys, IEEE MSN
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
@@ -44,6 +44,7 @@ Master Students
 * Kang Fu (傅康)
   * Duration: 2021-present
   * Research Interests: Audio Adversarial Example Attacks
+  * Publications on: IEEE MSN
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
   * Research Interest: Watermarking for AIGC Detection

@@ -14,7 +14,7 @@ Research Experience
 ======
 * Jul. 2020-present: Research Professor
   * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include IoT security, voice security, mobile sensing, ubiquitous computing.
+  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include IoT security, intelligent voice security, mobile sensing, ubiquitous computing.
 
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
@@ -35,17 +35,19 @@ Publications
 ======
 I have published over 40 papers on peer-reviewed conferences and journals.
 ## Conference Papers
-[**C31, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+[**C32, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
-[**C30, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+[**C31, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
-[**C29, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
+[**C30, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
 
-[**C28, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
+[**C29, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
 
-[**C27, WWW, CCF-A**]	Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, **Li Lu**, Zhenguang Liu. [Transferring Audio Deepfake Detection Capability across Languages](https://lynnlilu.github.io/publication/2023-04-conference-WWW). Proceedings of ACM WWW. pp. 2033-2044. Austin, TX, USA. 2023. doi: [10.1145/3543507.3583222](https://www.doi.org/10.1145/3543507.3583222).
+[**C28, WWW, CCF-A**]	Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, **Li Lu**, Zhenguang Liu. [Transferring Audio Deepfake Detection Capability across Languages](https://lynnlilu.github.io/publication/2023-04-conference-WWW). Proceedings of ACM WWW. pp. 2033-2044. Austin, TX, USA. 2023. doi: [10.1145/3543507.3583222](https://www.doi.org/10.1145/3543507.3583222).
 
-[**C26, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
+[**C27, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
+
+[**C26, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu***, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnluli.github.io/publication/2023-12-conference-BypTalker-msn). Proceedings of IEEE MSN. Nanjing, China. 2023. doi: to appear. 
 
 [**C25, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. [ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features](https://lynnlilu.github.io/publication/2024-06-conference-ALIF-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: to appear.
 
@@ -98,7 +100,9 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
-[**J13, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+[**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+
+[**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing](https://lynnlilu.github.io/publication/2023-10-journal-mmEve-TDSC). IEEE Transactions on Dependable and Secure Computing. 2023. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
 
 [**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning](https://lynnlilu.github.io/2023-03-journal-MotoPrint-TDSC). IEEE Transactions on Dependable and Secure Computing, 2023, doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
 
@@ -155,15 +159,15 @@ Patents
 
 Teaching
 ======
-[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021
+[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2023
 
-[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2022, 2021
+[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2023
 
-[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2021, 2020
+[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2023
 
-[**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021
+[**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
-[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2022, 2021
+[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2023
 
 Awards
 ======
