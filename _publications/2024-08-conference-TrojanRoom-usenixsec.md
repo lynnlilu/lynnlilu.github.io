@@ -14,4 +14,4 @@ citation: 'Meng Chen, Xiangyu Xu, <b>Li Lu</b>*, Zhongjie Ba, Feng Lin, Kui Ren.
 USENIX Security Symposium is one of the Big Four international conferences on cyber security. USENIX SEC is a CCF-A conference.
 
 
-[To appear](https://www.doi.org/toappear)
+[View the full paper](https://www.lynnlilu.io/files/24-TrojanRoom-security.pdf)
