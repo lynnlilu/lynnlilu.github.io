@@ -19,7 +19,7 @@ More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf
 
 Research Interests
 ======
-His research interests include AIoT security, voice security, autonomous driving security, mobile sensing, ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications. 
+His research interests include AIoT security, intelligent voice security, autonomous driving security, mobile sensing, ubiquitous computing, and human-computer interactions. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security problems underlying these techniques and applications. 
 
 Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. (Also could be the anime LoveLive! ^_^)
 
