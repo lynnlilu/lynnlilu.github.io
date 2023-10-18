@@ -100,7 +100,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. [An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters](https://lynnlilu.github.io/publication/2016-07-conference-ACA). Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
-[**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+[**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
 [**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing](https://lynnlilu.github.io/publication/2023-10-journal-mmEve-TDSC). IEEE Transactions on Dependable and Secure Computing. 2023. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
 
@@ -218,7 +218,7 @@ Media Coverage
 
 Professional Services
 ======
-* Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
+* Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 * Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023, CCF DPCS 2023.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology,  IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, IEEE ICASSP, IEEE Internet of Things Journal, Pervasive and Mobile Computing, Expert Systems with Applications, Smart Health, Journal of Cloud Computing, IEEE ICC.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
