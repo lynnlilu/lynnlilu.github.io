@@ -57,10 +57,6 @@ Master Students
 
 Undergraduate Students
 ======
-* Miao He (贺淼)
-  * Duration: The class of 2024
-  * Major: Cyber Science
-  * Research Interest: Deepfake Voice Detection
 * Zheng Yan (闫政)
   * Duration: The class of 2025
   * Major: Cyber Science
@@ -125,6 +121,11 @@ Alumni
   * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
   * Publications on: ACM IMWUT
   * Currently: Enginner at BYD Institute of Vehicle Engineering
+* Miao He (贺淼)
+  * The class of 2024 undergraduate, B.E.
+  * Major: Cyber Science
+  * Previous: Working on intelligent voice security
+  * Currently: Prospective Master Student at Zhejiang University under supervision of Prof. Zhongjie Ba
 * Chenxu Zhao (赵晨旭)
   * The class of 2023 undergraduate, B.E.
   * Major: Computer Science and Technology
