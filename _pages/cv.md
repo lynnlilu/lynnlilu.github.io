@@ -51,7 +51,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**C25, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu***, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnluli.github.io/publication/2023-12-conference-BypTalker-msn). Proceedings of IEEE MSN. Nanjing, China. 2023. doi: to appear. 
 
-[**C24, CCS, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. [FITS: Matching Camera Fingerprints Subject to Software Noise Pollution](https://lynnlilu.github.io/publication/2023-10-conference-FITS-CCS). Proceedings of ACM CCS. Copenhagen, Denmark. 2023. doi: to appear. 
+[**C24, CCS, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. [FITS: Matching Camera Fingerprints Subject to Software Noise Pollution](https://lynnlilu.github.io/publication/2023-10-conference-FITS-CCS). Proceedings of ACM CCS. Copenhagen, Denmark. pp. 1660–1674. 2023. doi: [10.1145/3576915.3616600](https://www.doi.org/10.1145/3576915.3616600).
 
 [**C23, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection](https://lynnlilu.github.io/publication/2023-03-conference-MagBackdoor-SP). Proceedings of IEEE S&P. San Francisco, CA, USA. pp. 3416-3431. 2023. doi: [10.1109/SP46215.2023.00132](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d416/1Nrc0MDzLJ6).
 
