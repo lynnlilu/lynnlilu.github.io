@@ -22,7 +22,7 @@ Ph.D. Students
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
   * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
-  * Publications on: USENIX Security, IEEE INFOCOM, ACM IMWUT
+  * Publications on: USENIX Security, IEEE INFOCOM, ACM IMWUT, IEEE TIFS
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
