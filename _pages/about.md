@@ -135,7 +135,7 @@ Selected Publications
 
 [**C9, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
-[**J1, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-TIFS). IEEE Transactions on Information Forensics and Security. 2023.
+[**J1, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 2023.
 
 [**J2, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023.
 
