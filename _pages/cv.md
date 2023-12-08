@@ -49,7 +49,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**C26, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). Proceedings of IEEE ICASSP. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
 
-[**C25, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu***, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnluli.github.io/publication/2023-12-conference-BypTalker-msn). Proceedings of IEEE MSN. Nanjing, China. 2023. doi: to appear. 
+[**C25, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu***, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnluli.github.io/publication/2023-12-conference-BypTalker-MSN). Proceedings of IEEE MSN. Nanjing, China. 2023. doi: to appear. 
 
 [**C24, CCS, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. [FITS: Matching Camera Fingerprints Subject to Software Noise Pollution](https://lynnlilu.github.io/publication/2023-10-conference-FITS-CCS). Proceedings of ACM CCS. Copenhagen, Denmark. pp. 1660–1674. 2023. doi: [10.1145/3576915.3616600](https://www.doi.org/10.1145/3576915.3616600).
 
@@ -173,6 +173,8 @@ Teaching
 
 Awards
 ======
+[**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 
+
 [**A14**] 3rd Award of National College Student Information Security Contest (Advisor), Aug. 2023
 
 [**A13**] Best Poster Runner-up Award of ACM MobiCom 2022, Oct. 2022
