@@ -17,12 +17,12 @@ Ph.D. Students
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
   * Research Interests: Real-time Voice Anonymization
-  * Publications on: ACM SenSys, IEEE MSN
+  * Publications on: ACM SenSys, ACM IUI, IEEE MSN
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
   * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
-  * Publications on: USENIX Security, IEEE INFOCOM, ACM IMWUT, IEEE TIFS
+  * Publications on: USENIX Security, ACM IMWUT, IEEE TIFS, IEEE INFOCOM
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
@@ -41,6 +41,7 @@ Master Students
   * Duration: 2022-present
   * Research Interests: Robust Voice Synthesis
   * Award: Outstanding Bachelor Dissertation Award of 2022
+  * Publications on: ACM IUI
 * Kang Fu (傅康)
   * Duration: 2021-present
   * Research Interests: Audio Adversarial Example Attacks
