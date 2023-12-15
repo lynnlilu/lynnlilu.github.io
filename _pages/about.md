@@ -25,7 +25,9 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Dec. 2023\] One paper was accepted by IEEE Transactions on Information Forensics and Security, which was completed by my advised Ph.D. students Meng Chen. Congratulations!
+\[Dec. 2023\] One paper was accepted by ACM IUI, which was completed by my advised Ph.D. student Qianniu Chen. Congratulations!
+
+\[Dec. 2023\] One paper was accepted by IEEE Transactions on Information Forensics and Security, which was completed by my advised Ph.D. student Meng Chen. Congratulations!
 
 \[Aug. 2023\] My advised undergraduate student Huanyi Zheng, Peilin Sun, Shuhao Shen has received the 3rd Award of National College Student Information Security Contest. Congratulations!
 
