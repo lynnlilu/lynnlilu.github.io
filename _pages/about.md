@@ -41,23 +41,23 @@ News
 
 \[Jan. 2023\] One paper was accepted by ACM IMWUT, which was completed by my advised master student Lei Wang. Congratulations!
 
-\[Dec. 2022\] One paper was accepted by IEEE/ACM ToN.
+[//]: # (\[Dec. 2022\] One paper was accepted by IEEE/ACM ToN.)
 
 \[Oct. 2022\] We received Best Poster Runner-up Award from ACM MobiCom 2022, which is completed by my advised Ph.D. student Meng Chen. Congratulations!
 
-\[Oct. 2022\] One paper was accepted by ACM SenSys 2022, which is completed by my advised Ph.D. student Qianniu Chen. Congratulations!
+[//]: # (\[Oct. 2022\] One paper was accepted by ACM SenSys 2022, which is completed by my advised Ph.D. student Qianniu Chen. Congratulations!)
 
-\[Aug. 2022\] One poster paper was accepted by ACM MobiCom 2022.
+[//]: # (\[Aug. 2022\] One poster paper was accepted by ACM MobiCom 2022.)
 
 \[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzheng Tang received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congratulations!
 
-\[Apr. 2022\] One paper was accepted by IEEE ICDCS 2022.
+[//]: # (\[Apr. 2022\] One paper was accepted by IEEE ICDCS 2022.)
 
 \[Apr. 2022\] My advised Ph.D. student Meng Chen received INFOCOM 2022 Student Conference Grant. Congratulations!
 
 \[Dec. 2021\] My advisor (@ Rutgers) Prof. Yingying Chen is named National Academy of Inventors Fellow and 2021 ACM Distinguished Scientist. Congratulations! [Link1](https://www.ece.rutgers.edu/news/professor-named-national-academy-inventors-fellow)[Link2](https://www.ece.rutgers.edu/news/yingying-chen-selected-2021-acm-distinguished-member)
 
-\[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!
+[//]: # (\[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!)
 
 \[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congratulations!
 
@@ -73,11 +73,11 @@ News
 
 \[Nov. 2020\] I received the 2020 ACM China SIGAPP Chapter Doctoral Dissertation Award. [Link](http://www.acmturc.com/2021/cn/doctoral_thesis_award.html)
 
-\[Oct. 2020\] One paper was accepted by ACM SenSys 2020.
+[//]: # (\[Oct. 2020\] One paper was accepted by ACM SenSys 2020.)
 
 [//]: # (which was collaborated with Prof. Yingying Chen's group when I visited Rutgers. Congratulations!)
 
-\[Sep. 2020\] One paper was accepted by ACM IMWUT, which was presented in ACM UbiComp 2020.
+[//]: # (\[Sep. 2020\] One paper was accepted by ACM IMWUT, which was presented in ACM UbiComp 2020.)
 
 [//]: # (\[Jul. 2020\] I will be joining Zhejiang University as a tenure-track Research Professor (特聘研究员).)
 
@@ -85,7 +85,7 @@ News
 
 [//]: # (\[May 2020\] I have successfully defended my thesis! Many thanks to my advisors and thesis defense committee!)
 
-\[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.
+[//]: # (\[May 2020\] One paper was accepted by IEEE Transactions on Mobile Computing.)
 
 [//]: # (\[Apr. 2020\] I was nominated as the candidate of Outstanding Graduate of Shanghai in 2020. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/16548.htm))
 
@@ -103,11 +103,11 @@ News
 
 [//]: # (whose work is collaborated with Prof. Yingying Chen's group. Congratulations!)
 
-\[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.
+[//]: # (\[Oct. 2019\] One paper was accepted by IEEE Transactions on Mobile Computing.)
 
 [//]: # (\[Sep. 2019\] I was nominated as the candidate ranking 1st in Dept. CSE (033) of SJTU of the National Scholarship for Doctoral Student at the 2019 academic year. [Link](http://xsb.seiee.sjtu.edu.cn/xsb/info/15682.htm))
 
-\[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.
+[//]: # (\[Jul. 2019\] One paper was accepted by ACM IMWUT, which was presented in Ubicomp 2019.)
 
 [//]: # (\[Mar. 2019\] One paper was accepted by ACM MobiHoc 2019.)
 
