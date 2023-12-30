@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Excellent Collaboration Award of HW-ZJU Joint Laboratory on System and Data Security
+
 * 3rd Award of National College Student Information Security Contest - Advisor
 
 ![3rd Award of National College Student Information Security Contest](../images/awards/ncsisc.jpg){:height="40%" width="40%"}

@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Dec. 2023\] I received the Excellent Collaboration Award of HW-ZJU Joint Lab.
+
 \[Dec. 2023\] One paper was accepted by ACM IUI, which was completed by my advised Ph.D. student Qianniu Chen. Congratulations!
 
 \[Dec. 2023\] One paper was accepted by IEEE Transactions on Information Forensics and Security, which was completed by my advised Ph.D. student Meng Chen. Congratulations!
@@ -117,7 +119,7 @@ News
 
 [//]: # (\[Nov. 2018\] I received the National Scholarship for Doctoral Student at the 2018 academic year.)
 
-Selected Publications
+Featured Publications
 ======
 [**C1, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. 
 
