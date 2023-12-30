@@ -177,6 +177,8 @@ Teaching
 
 Awards
 ======
+[**A16**] Excellent Collaboration Award of HW-ZJU Joint Laboratory of System and Data Security, Dec. 2023
+
 [**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 
 
 [**A14**] 3rd Award of National College Student Information Security Contest (Advisor), Aug. 2023
