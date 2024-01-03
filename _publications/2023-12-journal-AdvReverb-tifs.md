@@ -8,7 +8,7 @@ permalink: /publication/2023-12-journal-AdvReverb-tifs
 date: 2023-12-21
 venue: 'IEEE Transactions on Information Forensics and Security'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Meng Chen, <b>Li Lu</b>*, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. &quot;AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception.&quot; <i>IEEE Transactions on Information Forensics and Security</i>. 2023. doi: 10.1109/TIFS.2023.3345639.'
+citation: 'Meng Chen, <b>Li Lu</b>*, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. &quot;AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception.&quot; <i>IEEE Transactions on Information Forensics and Security</i>. 19, pp. 1948-1962. 2024. doi: 10.1109/TIFS.2023.3345639.'
 ---
 
 IEEE Transactions on Information Forensics and Security is a premier journal on information security and signal processing, which is sponsored by IEEE Signal Processing Society. IEEE TIFS is a CCF-A journal.
