@@ -177,6 +177,8 @@ Teaching
 
 Awards
 ======
+[**A17**] Distinguished Service Award of IEEE Greenom, Jan. 2024
+
 [**A16**] Excellent Collaboration Award of HW-ZJU Joint Laboratory of System and Data Security, Dec. 2023
 
 [**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 

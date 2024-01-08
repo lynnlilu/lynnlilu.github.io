@@ -6,6 +6,10 @@ author_profile: true
 ---
 * Excellent Collaboration Award of HW-ZJU Joint Laboratory on System and Data Security (联合实验室优秀合作奖)
 
+* Distinguished Service Award of IEEE GreenCom 2023
+
+![Distinguished Service Award of IEEE GreenCom](../images/awards/DSA.png){:height="40%" width="40%"}
+
 * 3rd Award of National College Student Information Security Contest - Advisor (第十六届全国大学生信息安全竞赛三等奖-指导教师)
 
 ![3rd Award of National College Student Information Security Contest](../images/awards/ncsisc.jpg){:height="40%" width="40%"}
