@@ -13,7 +13,7 @@ I am looking for students that are **SELF-MOTIVATED** and interested in **explor
 
 Brief Biography
 =====
-[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn); and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn). Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published over 50 peer-reviewed papers on premier international journals and conferences, including USENIX Security, ACM SenSys, ACM UbiComp, IEEE INFOCOM, IEEE ICASSP, IEEE/ACM ToN, IEEE TMC, etc. He is the recipient of ACM China SIGAPP Chapter Rising Star Award and Doctoral Dissertation Award, Shanghai Computer Society Doctoral Dissertation Award Nomination, Best Poster Runner-up Award at ACM MobiCom'22, First Runner-up Poster Award at ACM MobiCom'19, Joint Ph.D. Training Grant of China Scholarship Council, Travel Grant of Global Young Scientist Summit at Singapore.
+[Li Lu](https://person.zju.edu.cn/lynnluli) is currently a tenure-track Research Professor of [School of Cyber Science and Technology](https://icsr.zju.edu.cn) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn). He received his Ph.D. degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn); and his B.E. degree in Computer Science and Technology and B.Admin degree in Business Administration from [Xi'an Jiaotong University](https://www.xjtu.edu.cn). Previously, he has visited Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) of [Rutgers University](https://www.rutgers.edu). He has published over 50 peer-reviewed papers on premier international journals and conferences, including USENIX Security, ACM SenSys, ACM UbiComp, IEEE INFOCOM, IEEE ICASSP, IEEE/ACM ToN, IEEE TMC, etc. He is the recipient of ACM China SIGAPP Chapter Rising Star Award and Doctoral Dissertation Award, Best Poster Runner-up Award at ACM MobiCom'22, First Runner-up Poster Award at ACM MobiCom'19, Excellent Collaboration Award of HW-ZJU Joint Lab, Distinguished Service Award of IEEE GreenCom'23, Shanghai Computer Society Doctoral Dissertation Award Nomination, Joint Ph.D. Training Grant of China Scholarship Council, Travel Grant of Global Young Scientist Summit at Singapore.
 
 More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf).
 
@@ -53,17 +53,17 @@ News
 
 [//]: # (\[Aug. 2022\] One poster paper was accepted by ACM MobiCom 2022.)
 
-\[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzheng Tang received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congratulations!
+[//]: # (\[Jun. 2022\] My advised undergradute students Zhehan Gu and Shunzheng Tang received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2022. Congratulations!)
 
 [//]: # (\[Apr. 2022\] One paper was accepted by IEEE ICDCS 2022.)
 
 \[Apr. 2022\] My advised Ph.D. student Meng Chen received INFOCOM 2022 Student Conference Grant. Congratulations!
 
-\[Dec. 2021\] My advisor (@ Rutgers) Prof. Yingying Chen is named National Academy of Inventors Fellow and 2021 ACM Distinguished Scientist. Congratulations! [Link1](https://www.ece.rutgers.edu/news/professor-named-national-academy-inventors-fellow)[Link2](https://www.ece.rutgers.edu/news/yingying-chen-selected-2021-acm-distinguished-member)
+[//]: # (\[Dec. 2021\] My advisor (@ Rutgers) Prof. Yingying Chen is named National Academy of Inventors Fellow and 2021 ACM Distinguished Scientist. Congratulations! [Link1](https://www.ece.rutgers.edu/news/professor-named-national-academy-inventors-fellow)[Link2](https://www.ece.rutgers.edu/news/yingying-chen-selected-2021-acm-distinguished-member))
 
 [//]: # (\[Dec. 2021\] Four papers were accepted by IEEE INFOCOM 2022, among which one was completed by my advised Ph.D. student Meng Chen. Congratulations!)
 
-\[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congratulations!
+[//]: # (\[Jun. 2021\] My advised undergradute student Meng Chen received the Outstanding Bechalor Dissertation Award of ZJU College of Computer Science and Technology in 2021. Congratulations!)
 
 [//]: # (\[May 2021\] One paper was accepted by ACM MobiHoc 2021.)
 
