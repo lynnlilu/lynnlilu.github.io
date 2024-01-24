@@ -112,7 +112,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. [MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning](https://lynnlilu.github.io/2023-03-journal-MotoPrint-TDSC). IEEE Transactions on Dependable and Secure Computing, 21(1):372-387. 2023. doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
 
-[**J11, TMC, CCF-A**] Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, Jianwei Liu, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. [A Resilience Evaluation Framework on Ultrasonic Microphone Jammers](https://lynnlilu.github.io/publication/2023-02-journal-BigBrother-TMC). IEEE Transactions on Mobile Computing. 2023. doi: [10.1109/TMC.2023.3244581](https://www.doi.org/10.1109/TMC.2023.3244581).
+[**J11, TMC, CCF-A**] Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, Jianwei Liu, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. [A Resilience Evaluation Framework on Ultrasonic Microphone Jammers](https://lynnlilu.github.io/publication/2023-02-journal-BigBrother-TMC). IEEE Transactions on Mobile Computing, 23(2):1914-1929. 2023. doi: [10.1109/TMC.2023.3244581](https://www.doi.org/10.1109/TMC.2023.3244581).
 
 [**J10, TDSC, CCF-A**] Peng Cheng, Yuexin Wu, Yuan Hong, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. [UniAP: Protecting Speech Privacy with Non-targeted Universal Adversarial Perturbations](https://lynnlilu.github.io/publication/2023-02-journal-UniAP-TPDS). IEEE Transactions on Dependable and Secure Computing, 21(1):31-46. 2023. doi: [10.1109/TDSC.2023.3242292](https://doi.org/10.1109/TDSC.2023.3242292).
 
