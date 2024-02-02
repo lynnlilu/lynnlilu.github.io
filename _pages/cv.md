@@ -177,6 +177,8 @@ Teaching
 
 Awards
 ======
+[**A18**] Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee, Feb. 2024
+
 [**A17**] Distinguished Service Award of IEEE Greenom, Jan. 2024
 
 [**A16**] Excellent Collaboration Award of HW-ZJU Joint Laboratory of System and Data Security, Dec. 2023

@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee
+
+![Distinguished Member of IEEE INFOCOM TPC](../images/awards/2024_DTPC_certificate_FK-SK.pdf){:height="40%" width="40%"}
+
 * Excellent Collaboration Award of HW-ZJU Joint Laboratory on System and Data Security (联合实验室优秀合作奖)
 
 * Distinguished Service Award of IEEE GreenCom 2023
