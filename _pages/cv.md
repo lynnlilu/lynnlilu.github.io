@@ -43,7 +43,7 @@ I have published over 40 papers on peer-reviewed conferences and journals.
 
 [**C31, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. [Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection](https://lynnlilu.github.io/publication/2024-06-conference-ED-AAAI). Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: to appear. 
 
-[**C30, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](https://lynnlilu.github.io/publication/2024-03-conference-VTuberBowTie-IUI). Proceedings of ACM IUI. Greenville, SC, USA. 2024. doi: to appear.
+[**C30, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](https://lynnlilu.github.io/publication/2024-03-conference-VTuberBowTie-IUI). Proceedings of ACM IUI. Greenville, SC, USA. 2024. doi: to [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
 
 [**C29, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
 
@@ -233,7 +233,7 @@ Media Coverage
 Professional Services
 ======
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
-* Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023, CCF DPCS 2023.
+* Technical Program Committee: IEEE INFOCOM 2022-2024, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023-2024, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023, CCF DPCS 2023.
 * Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, IEEE Transactions on Vehicular Technology,  IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, IEEE ICASSP, IEEE Internet of Things Journal, Pervasive and Mobile Computing, Expert Systems with Applications, Smart Health, Journal of Cloud Computing, IEEE ICC.
 * Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
 
