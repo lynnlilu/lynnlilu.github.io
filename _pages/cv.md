@@ -24,7 +24,7 @@ Research Experience
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey (Rutgers University)
   * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory (WINLAB) and Department of Electrical and Computer Engineering. And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
-  * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (IEEE Fellow, ACM Distinguished Scientist)
+  * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (ACM/IEEE/NAI Fellow)
 
 Education Background
 ======
@@ -33,7 +33,7 @@ Education Background
 
 Publications
 ======
-I have published over 40 papers on peer-reviewed conferences and journals.
+I have published over 50 papers on peer-reviewed conferences and journals.
 ## Conference Papers
 [**C34, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
