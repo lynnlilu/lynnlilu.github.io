@@ -205,7 +205,7 @@ Awards
 
 [**A5**] Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助), Jun. 2018 
 
-[**A4**] Outstanding Graduate (优秀毕业生), Apr. 2015 
+[**A4**] Outstanding Graduate of Xi'an Jiaotong University (西安交通大学优秀毕业生), Apr. 2015 
 
 [**A3**] National Encouragement Scholarship (国家励志奖学金), Nov. 2014 
 
