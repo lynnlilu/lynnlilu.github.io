@@ -141,6 +141,8 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P12**] Zhongjie Ba, Yuwei Wang, Peng Cheng, Peng Huang, Feng Lin, **Li Lu**, Kui Ren. 一种基于语义空间扰动的语音识别模型安全性测评方法. ZL202311008778.2. 2023.
+
 [**P11**] **Li Lu**, Lei Wang, Zhongjie Ba, Kui Ren. [基于内建传感器欠采样数据的通用语音信息恢复装置及方法](https://lynnlilu.github.io/patents/2022-patent-2). ZL202110615983.X. 2022.
 
 [**P10**] Shui Long, **Li Lu**, Jiadi Yu. [基于Wi-Fi识别系统的信号转换方法](https://lynnlilu.github.io/patents/2022-patent-1). ZL202011043349.5. 2022.
@@ -185,7 +187,7 @@ Awards
 
 [**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 
 
-[**A14**] 3rd Award of National College Student Information Security Contest (Advisor) (全国大学生信息安全竞赛三等奖-指导教师）, Aug. 2023
+[**A14**] 3rd Award of National College Student Information Security Contest - Advisor (全国大学生信息安全竞赛三等奖-指导教师）, Aug. 2023
 
 [**A13**] Best Poster Runner-up Award of ACM MobiCom 2022, Oct. 2022
 
