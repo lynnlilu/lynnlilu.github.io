@@ -29,7 +29,7 @@ News
 
 \[Jan. 2024\] I recieved the Distinguished Service Award of IEEE GreenCom.
 
-\[Dec. 2023\] I received the Excellent Collaboration Award of HW-ZJU Joint Lab.
+\[Dec. 2023\] I received the Outstanding Collaboration Award of HW-ZJU Joint Lab.
 
 \[Dec. 2023\] One paper was accepted by ACM IUI, which was completed by my advised Ph.D. student Qianniu Chen. Congratulations!
 
