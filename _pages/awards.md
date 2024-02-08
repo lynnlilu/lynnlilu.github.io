@@ -8,7 +8,7 @@ author_profile: true
 
 ![Distinguished Member of IEEE INFOCOM TPC](../images/awards/2024_DTPC_certificate_FK-SK.jpg){:height="40%" width="40%"}
 
-* Excellent Collaboration Award of HW-ZJU Joint Laboratory on System and Data Security (企业联合实验室优秀合作奖)
+* Outstanding Collaboration Award of HW-ZJU Joint Laboratory on System and Data Security (企业联合实验室优秀合作奖)
 
 * Distinguished Service Award of IEEE GreenCom 2023
 
