@@ -71,48 +71,76 @@ Undergraduate Students
   * Major: Computer Science and Technology
   * Research Interest: Audio Adversarial Example Detection
 * Huanyi Zheng (郑焕弋)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Cyber Science
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Peilin and Shuhao.
   * Award: 3rd Award of National College Student Information Security Contest, Future Academic Rising Star Project of Zhejiang University
 * Peilin Sun (孙培林)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Computer Science and Technology
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Shuhao.
   * Award: 3rd Award of National College Student Information Security Contest
 * Shuhao Shen (沈书豪)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Computer Science and Technology
   * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Peilin.
   * Award: 3rd Award of National College Student Information Security Contest
 * Xiaofei Hou (候晓菲)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Cyber Science
   * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Bolin and Yiming.
 * Bolin Gao (高博琳)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Cyber Science
   * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Xiaofei and Yiming.
 * Yiming Guo (郭一铭)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Computer Science and Technology
   * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Xiaofei and Bolin.
 * Siyang Lei (雷思扬)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Cyber Science
   * SRTP: LiDAR Backdoors, collaborated with Jiaxing and Chengye.
 * Jiaxing Liu (刘佳星)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Computer Science and Technology
   * SRTP: LiDAR Backdoors, collaborated with Siyang and Chengye.
 * Chengye Wang (王程业)
-  * Duration: The class of 2026
+  * Duration: The class of 2025
   * Major: Computer Science and Technology
   * SRTP: LiDAR Backdoors, collaborated with Siyang and Jiaxing.
 * Jiaqi Sun (孙佳琦)
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
+* Pengyu Sun (孙鹏雨)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Luxin and Xuanyong.
+* Luxin Shi (史璐欣)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Xuanyong.
+* Xuanyong Lin (林轩永)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Luxin.
+* Haibing Wu (吴海槟)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Ziyou.
+* Ziyou Lv (吕子优)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Haibing.
+* Sizhe Ji (纪思哲)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: LiDAR Object Detection Optimization, collaborated with Xuyang.
+* Xuyang Zheng (郑旭阳)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
 
 Alumni
 ======
