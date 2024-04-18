@@ -8,7 +8,7 @@ permalink: /publication/2024-03-conference-VTuberBowTie-iui
 date: 2024-04-05
 venue: 'Proceedings of ACM IUI'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Qianniu Chen, Zhehan Gu, <b>Li Lu</b>*, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. &quot;Conan&#39;s Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming.&quot; <i>Proceedings of ACM IUI</i>. Greenville, SC, USA. 2024. doi: 10.1145/3640543.3645146.'
+citation: 'Qianniu Chen, Zhehan Gu, <b>Li Lu</b>*, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. &quot;Conan&#39;s Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming.&quot; <i>Proceedings of ACM IUI</i>. Greenville, SC, USA. pp. 35-50. 2024. doi: 10.1145/3640543.3645146.'
 ---
 
 ACM Conference on Intelligent User Interfaces is the annual premiere venue of the intersection of Artificial Intelligence (AI) and Human-Computer Interaction (HCI). ACM IUI is a CCF-B conference.
