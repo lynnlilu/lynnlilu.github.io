@@ -9,7 +9,7 @@ redirect_from:
 ---
 Latest Update
 =====
-I am looking for students that are **SELF-MOTIVATED** and interested in **exploring NEW things** to join us for realizing fantastic and futuristic systems on the area of autonomous driving security, voice security, AIoT and ubiquitous security. Both students that intend to practise his/her research skills, or want to pursue Ph.D. and master degrees, are welcome!
+I am looking for students that are **SELF-MOTIVATED** and interested in **exploring NEW things** to join us for realizing futuristic systems and uncovering forward security insights on the area of autonomous driving security, voice security, AIoT and ubiquitous security. Both students that intend to practise his/her research skills, or want to pursue Ph.D. and master degrees, are welcome!
 
 Brief Biography
 =====
