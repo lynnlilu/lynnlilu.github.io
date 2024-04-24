@@ -56,7 +56,7 @@ Master Students
   * Research Interest: AI-enabled Testing on In-vehicular Networking
 * Yihe Zhang (章怿贺)
   * Duration: 2023-present
-  * Research Interest: Autonomous Driving Security
+  * Research Interest: Software Security for Intelligent Driving Systems
 
 Undergraduate Students
 ======
