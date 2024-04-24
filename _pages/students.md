@@ -42,10 +42,12 @@ Master Students
   * Research Interests: Robust Voice Synthesis
   * Award: Outstanding Bachelor Dissertation Award of 2022
   * Publications on: ACM IUI
+
 [//]: # (* Kang Fu (傅康))
 [//]: # (  * Duration: 2021-present)
 [//]: # (  * Research Interests: Audio Adversarial Example Attacks)
 [//]: # (  * Publications on: IEEE MSN)
+
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
   * Research Interest: Watermarking for AIGC Detection
