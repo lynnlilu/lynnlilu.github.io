@@ -32,6 +32,7 @@ Reviewer
 * ACM Computing Surveys
 * IEEE Transactions on Vehicular Technology
 * ACM Transactions on Sensor Networks
+* ACM Transactions on Embedded Computing Systems
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Network Science and Engineering
 * Computer Networks
