@@ -106,9 +106,13 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
-[**J16, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+[**J18, ToN, CCF-A**] **Li Lu**, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 2024. doi: to appear. 
 
-[**J15, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
+[**J17, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+
+[**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
+
+[**J15, TIFS, CCF-A**]	Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: to appear.
 
 [**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
