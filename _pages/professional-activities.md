@@ -23,6 +23,7 @@ Technical Program Committee Member
 
 Reviewer
 ======
+* IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Mobile Computing
 * IEEE/ACM Transactions on Networking
