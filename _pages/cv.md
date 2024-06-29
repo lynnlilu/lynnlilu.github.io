@@ -39,7 +39,7 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**C35, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
-[**C34, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: 10.1109/SP54263.2024.00056.
+[**C34, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
 
 [**C33, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: to appear. 
 
@@ -59,7 +59,7 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**C25, CCS, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. FITS: Matching Camera Fingerprints Subject to Software Noise Pollution. Proceedings of ACM CCS. Copenhagen, Denmark. pp. 1660–1674. 2023. doi: [10.1145/3576915.3616600](https://www.doi.org/10.1145/3576915.3616600).
 
-[**C24, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection. Proceedings of IEEE S&P. San Francisco, CA, USA. pp. 3416-3431. 2023. doi: [10.1109/SP46215.2023.00132](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d416/1Nrc0MDzLJ6).
+[**C24, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection. Proceedings of IEEE S&P. San Francisco, CA, USA. pp. 3416-3431. 2023. doi: [10.1109/SP46215.2023.00132](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00132).
 
 [**C23, NDSS, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Fan Zhang, Kui Ren. InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise. Proceedings of NDSS. San Diego, CA, USA. 2023. doi: [10.14722/ndss.2023.24457](https://www.doi.org/10.14722/ndss.2023.24457).
 
@@ -114,7 +114,7 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
 
-[**J15, TIFS, CCF-A**]	Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: to appear.
+[**J15, TIFS, CCF-A**]	Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
 
 [**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
