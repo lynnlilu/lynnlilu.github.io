@@ -30,6 +30,7 @@ Ph.D. Students
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
+  * Award: Cybersecurity College Student Innovation Funding Program
   * Publications on: IEEE ICASSP
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
