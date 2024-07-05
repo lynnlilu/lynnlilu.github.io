@@ -115,6 +115,7 @@ Undergraduate Students
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Fuzzing for Intelligent Driving Systems
+
 Alumni
 ======
 * Peilin Sun (孙培林)
