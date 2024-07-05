@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
+
 \[May 2024\] One paper was accepted by IEEE/ACM ToN.
 
 \[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.
@@ -167,4 +169,4 @@ Professional Services
 * Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, ACM MM, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 
-[//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)
+[//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Institute of Electronics ([CIE](https://www.cie.org.cn/)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)

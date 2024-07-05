@@ -21,7 +21,7 @@ Ph.D. Students
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
-  * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021
+  * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
   * Publications on: USENIX Security, ACM IMWUT, IEEE TIFS, IEEE INFOCOM
 * Kun Wang (王琨)
   * Duration: 2021-present
@@ -34,6 +34,9 @@ Ph.D. Students
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
   * Research Interests: Biometric Security
+* Yuli Wu (吴玉立)
+  * Duration: 2024-present
+  * Research Interests: Safety of Intended Function for Autonomous Driving
 
 Master Students
 ======
@@ -57,6 +60,12 @@ Master Students
 * Yihe Zhang (章怿贺)
   * Duration: 2023-present
   * Research Interest: Software Security for Intelligent Driving Systems
+* Xiaodi Zhao (赵小迪)
+  * Duration: 2023-present
+  * Research Interest: AIGC watermarking
+* Jiacheng Jin (金佳成)
+  * Duration: 2024-present
+  * Research Interest: IDS for CAN Bus
 
 Undergraduate Students
 ======
@@ -64,53 +73,11 @@ Undergraduate Students
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
-* Xiaodi Zhao (赵小迪)
-  * Duration: The class of 2024
-  * Major: Cyber Science
-  * Research Interest: Voice Systems Backdoors
-* Meng Cai (蔡梦)
-  * Duration: The class of 2024
-  * Major: Computer Science and Technology
-  * Research Interest: Audio Adversarial Example Detection
 * Huanyi Zheng (郑焕弋)
   * Duration: The class of 2025
   * Major: Cyber Science
-  * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Peilin and Shuhao.
+  * SRTP: Resaerch on Lightweight and Real-time Model for Multi-to-multi Voice Conversion Systems
   * Award: 3rd Award of National College Student Information Security Contest, Future Academic Rising Star Project of Zhejiang University
-* Peilin Sun (孙培林)
-  * Duration: The class of 2025
-  * Major: Computer Science and Technology
-  * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Shuhao.
-  * Award: 3rd Award of National College Student Information Security Contest
-* Shuhao Shen (沈书豪)
-  * Duration: The class of 2025
-  * Major: Computer Science and Technology
-  * SRTP: A Lightweight and Real-time Voice Conversion Model, collaborated with Huanyi and Peilin.
-  * Award: 3rd Award of National College Student Information Security Contest
-* Xiaofei Hou (候晓菲)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Bolin and Yiming.
-* Bolin Gao (高博琳)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Xiaofei and Yiming.
-* Yiming Guo (郭一铭)
-  * Duration: The class of 2025
-  * Major: Computer Science and Technology
-  * SRTP: LiDAR Adversarial Example Attack Defense, collaborated with Xiaofei and Bolin.
-* Siyang Lei (雷思扬)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * SRTP: LiDAR Backdoors, collaborated with Jiaxing and Chengye.
-* Jiaxing Liu (刘佳星)
-  * Duration: The class of 2025
-  * Major: Computer Science and Technology
-  * SRTP: LiDAR Backdoors, collaborated with Siyang and Chengye.
-* Chengye Wang (王程业)
-  * Duration: The class of 2025
-  * Major: Computer Science and Technology
-  * SRTP: LiDAR Backdoors, collaborated with Siyang and Jiaxing.
 * Jiaqi Sun (孙佳琦)
   * Duration: The class of 2025
   * Major: Cyber Science
@@ -143,9 +110,50 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
-
+* Bin Li (李彬)
+  * Duration: The class of 2025
+  * Major: Cyber Science
+  * Research Interest: Fuzzing for Intelligent Driving Systems
 Alumni
 ======
+* Peilin Sun (孙培林)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * SRTP: Resaerch on Lightweight and Real-time Model for Multi-to-multi Voice Conversion Systems
+  * Award: 3rd Award of National College Student Information Security Contest
+* Shuhao Shen (沈书豪)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * SRTP: Resaerch on Lightweight and Real-time Model for Multi-to-multi Voice Conversion Systems
+  * Award: 3rd Award of National College Student Information Security Contest
+* Xiaofei Hou (候晓菲)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Cyber Science
+  * SRTP: Research on Adversarial Example Defense for LiDAR Object Detection
+* Bolin Gao (高博琳)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Cyber Science
+  * SRTP: Research on Adversarial Example Defense for LiDAR Object Detection
+* Yiming Guo (郭一铭)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * SRTP: Research on Adversarial Example Defense for LiDAR Object Detection
+* Siyang Lei (雷思扬)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Cyber Science
+  * SRTP: Research on Backdoor Attacks for LiDAR Object Detection
+* Jiaxing Liu (刘佳星)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * SRTP: Research on Backdoor Attacks for LiDAR Object Detection
+* Chengye Wang (王程业)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * SRTP: Research on Backdoor Attacks for LiDAR Object Detection
+* Meng Cai (蔡梦)
+  * The class of 2024 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * Thesis: Audio Steganography Based on CW Adversarial Attack Algorithm
 * Lei Wang (王磊)
   * The class of 2023 graduate, M.E.
   * Co-advised with Prof. Kui Ren
