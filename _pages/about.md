@@ -25,9 +25,9 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
+\[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). Congratulations! [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
 
-\[May 2024\] My advised Ph.D. student Junhao Wang was granted by Cybersecurity College Student Innovation Funding Program.
+\[May 2024\] My advised Ph.D. student Junhao Wang was granted by Cybersecurity College Student Innovation Funding Program. Congratulations!
 
 \[May 2024\] One paper was accepted by IEEE/ACM ToN.
 
