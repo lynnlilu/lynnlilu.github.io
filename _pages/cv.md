@@ -114,11 +114,11 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
 
-[**J15, TIFS, CCF-A**]	Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
+[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
 
 [**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
-[**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing. 2023. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
+[**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing. 21(4):3065-3081. 2024. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
 
 [**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning. IEEE Transactions on Dependable and Secure Computing, 21(1):372-387. 2023. doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
 
