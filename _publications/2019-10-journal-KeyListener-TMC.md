@@ -13,6 +13,8 @@ citation: 'Jiadi Yu, <b>Li Lu</b>, Yingying Chen, Yanmin Zhu, Linghe Kong. &quot
 
 I am the first student author of this paper. IEEE Transactions on Mobile Computing is the premier international journal on mobile computing and communication. IEEE TMC is a CCF-A journal. 
 
+This paper was recognized as a highly cited paper of Essential Science Indicators. [WOS](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000607805200004)
+
 
 [View the full paper](https://www.doi.org/10.1109/TMC.2019.2947468)
 
