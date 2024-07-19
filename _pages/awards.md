@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* ACM China SIGAPP Chapter Rising Star Award
+
+![ACM China SIGAPP Chapter Rising Star Award](../images/awards/ACM-SIGAPP-rsa.jpg){:height="25%" width="25%"}
+
 * Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023
 
 ![Excellent Reviewer of IEEE TNSE](../images/awards/2023-TNSE-ER.jpg){:height="40%" width="40%"}
@@ -30,9 +34,11 @@ author_profile: true
 
 ![Shanghai Computer Society Doctoral Dissertaion Award Nominations](../images/awards/SCS-dda.jpeg){:height="40%" width="40%"}
 ![Shanghai Computer Society Doctoral Dissertaion Award Photo](../images/awards/SCS-dda-pic.jpg){:height="40%" width="40%"}
+
 * ACM China SIGAPP Chapter Doctoral Dissertation Award
 
 ![ACM China SIGAPP Chapter Doctoral Dissertation Award](../images/awards/ACM-SIGAPP-dda.jpg){:height="25%" width="25%"}
+
 * Outstanding Graduate of Shanghai (上海市优秀毕业生)
 
 ![Outstanding Graduate of Shanghai](../images/awards/SH-og.jpg#pic_center){:height="25%" width="25%"}
