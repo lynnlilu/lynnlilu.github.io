@@ -41,7 +41,7 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**C34, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
 
-[**C33, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: to appear. 
+[**C33, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
 
 [**C32, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. Proceedings of IEEE INFOCOM. Vancouver, BC, Canada. 2024. doi: to appear.
 
