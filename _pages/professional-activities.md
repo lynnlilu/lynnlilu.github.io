@@ -13,6 +13,7 @@ Academic Organization Service
 
 Technical Program Committee Member
 ======
+* USENIX Security Symposium (USENIX Security 2025)
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2025)
 * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2024)
@@ -45,6 +46,7 @@ Reviewer
 * Automotive Innovation
 * Pervasive and Mobile Computing
 * Expert Systems with Applications
+* IEEE Access
 * Smart Health
 * Journal of Cloud Computing
 
