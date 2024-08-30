@@ -118,6 +118,40 @@ Undergraduate Students
 
 Alumni
 ======
+
+Graduate Students
+------
+* Lei Wang (王磊)
+  * The class of 2023 graduate, M.E.
+  * Co-advised with Prof. Kui Ren
+  * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
+  * Publications on: ACM IMWUT
+  * Currently: Enginner at BYD Institute of Vehicle Engineering
+
+Undergraduate Students
+------
+* Meng Cai (蔡梦)
+  * The class of 2024 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * Thesis: Audio Steganography Based on CW Adversarial Attack Algorithm
+* Miao He (贺淼)
+  * The class of 2024 undergraduate, B.E.
+  * Major: Cyber Science
+  * Previous: Working on intelligent voice security
+  * Currently: Master Student at Zhejiang University under supervision of Prof. Zhongjie Ba
+* Chenxu Zhao (赵晨旭)
+  * The class of 2023 undergraduate, B.E.
+  * Major: Computer Science and Technology
+  * Thesis: Design and Implementation of Voice Anonymization Application
+  * Currently: Master Student at Zhejiang University under supervision of Prof. Zhibo Wang
+* Shunzheng Tang (唐顺政)
+  * The class of 2022 undergraduate, B.E.
+  * Major: Cyber Science
+  * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
+  * Award: Outstanding Bachelor Dissertation Award of 2022
+
+Undergraduate Students of SRTP
+------
 * Peilin Sun (孙培林)
   * The class of 2025 undergraduate, B.E.
   * Major: Computer Science and Technology
@@ -152,28 +186,3 @@ Alumni
   * The class of 2025 undergraduate, B.E.
   * Major: Computer Science and Technology
   * SRTP: Research on Backdoor Attacks for LiDAR Object Detection
-* Meng Cai (蔡梦)
-  * The class of 2024 undergraduate, B.E.
-  * Major: Computer Science and Technology
-  * Thesis: Audio Steganography Based on CW Adversarial Attack Algorithm
-* Lei Wang (王磊)
-  * The class of 2023 graduate, M.E.
-  * Co-advised with Prof. Kui Ren
-  * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
-  * Publications on: ACM IMWUT
-  * Currently: Enginner at BYD Institute of Vehicle Engineering
-* Miao He (贺淼)
-  * The class of 2024 undergraduate, B.E.
-  * Major: Cyber Science
-  * Previous: Working on intelligent voice security
-  * Currently: Prospective Master Student at Zhejiang University under supervision of Prof. Zhongjie Ba
-* Chenxu Zhao (赵晨旭)
-  * The class of 2023 undergraduate, B.E.
-  * Major: Computer Science and Technology
-  * Thesis: Design and Implementation of Voice Anonymization Application
-  * Currently: Master Student at Zhejiang University under supervision of Prof. Zhibo Wang
-* Shunzheng Tang (唐顺政)
-  * The class of 2022 undergraduate, B.E.
-  * Major: Cyber Science
-  * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
-  * Award: Outstanding Bachelor Dissertation Award of 2022
