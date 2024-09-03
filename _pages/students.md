@@ -32,12 +32,18 @@ Ph.D. Students
   * Research Interests: Multi-modal Biometric Anti-spoofing
   * Award: Cybersecurity College Student Innovation Funding Program
   * Publications on: IEEE ICASSP
+* Yihe Zhang (章怿贺)
+  * Duration: 2023-present
+  * Research Interest: Software Security for Intelligent Driving Systems
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
   * Research Interests: Biometric Security
 * Yuli Wu (吴玉立)
   * Duration: 2024-present
   * Research Interests: Safety of Intended Function for Autonomous Driving
+* Abdul Basit
+  * Duration: 2024-present
+  * Research Interest: AIGC watermarking
 
 Master Students
 ======
@@ -58,9 +64,6 @@ Master Students
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
   * Research Interest: AI-enabled Testing on In-vehicular Networking
-* Yihe Zhang (章怿贺)
-  * Duration: 2023-present
-  * Research Interest: Software Security for Intelligent Driving Systems
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
@@ -83,6 +86,10 @@ Undergraduate Students
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
+* Bin Li (李彬)
+  * Duration: The class of 2025
+  * Major: Cyber Science
+  * Research Interest: Fuzzing for Intelligent Driving Systems
 * Pengyu Sun (孙鹏雨)
   * Duration: The class of 2026
   * Major: Cyber Science
@@ -111,14 +118,9 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
-* Bin Li (李彬)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * Research Interest: Fuzzing for Intelligent Driving Systems
 
 Alumni
 ======
-
 Graduate Students
 ------
 * Lei Wang (王磊)
