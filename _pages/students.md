@@ -123,6 +123,7 @@ Undergraduate Students
 
 Alumni
 ======
+
 Graduate Students
 ------
 * Lei Wang (王磊)
