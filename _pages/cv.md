@@ -35,11 +35,13 @@ Publications
 ======
 I have published over 50 papers on peer-reviewed conferences and journals.
 ## Conference Papers
-[**C36, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+[**C37, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
-[**C35, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
+[**C36, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
-[**C34, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
+[**C35, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. Proceedings of IEEE S&P. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
+
+[**C34, USENIX SEC, CCF-A**].	Tiantian Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Zhan Qin, Kui Ren. MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices. Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
 [**C33, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
 
