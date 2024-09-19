@@ -52,9 +52,9 @@ Reviewer
 * Smart Health
 * Journal of Cloud Computing
 
-Academic Organization Member
+Academic Organization Membership
 ======
-* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Member
+* China Computer Federation ([CCF](https://www.ccf.org.cn/)): Senior Member
 * Association of Computing Machinery ([ACM](https://www.acm.org/)): Member
 * Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)): Member
 * Chinese Institute of Electronics ([CIE](https://www.cie.org.cn/)): Member

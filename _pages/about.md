@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Sep. 2024\] I was elevated to a Senior Member of CCF.
+
 \[Jul. 2024\] One paper was recognized as a highly cited paper of Essential Science Indicators. [Link](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000607805200004)
 
 \[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). Congratulations! [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
