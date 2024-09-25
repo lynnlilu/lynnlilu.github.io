@@ -114,7 +114,7 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 
 [**J18, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
 
-[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 2024. doi: to appear.
+[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
 
 [**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
 
