@@ -33,7 +33,7 @@ Education Background
 
 Publications
 ======
-I have published over 50 papers on peer-reviewed conferences and journals.
+I have published over 60 papers on peer-reviewed conferences and journals.
 ## Conference Papers
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
@@ -112,9 +112,11 @@ I have published over 50 papers on peer-reviewed conferences and journals.
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
 ## Journal Papers
-[**J19, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
+[**J20, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
 
-[**J18, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+[**J19, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+
+[**J18, TDSC, CCF-A**].	Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
 
 [**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
 
