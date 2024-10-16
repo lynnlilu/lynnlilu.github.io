@@ -122,7 +122,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
 
-[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
+[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 19:9534-9549. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
 
 [**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
