@@ -159,7 +159,7 @@ Featured Publications
 
 [**J1, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024.
 
-[**J2, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 2024. 
+[**J2, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. 
 
 [**J3, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023.
 
