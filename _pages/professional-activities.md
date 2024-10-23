@@ -9,6 +9,7 @@ I have served for many professional activities.
 Academic Organization Service
 ======
 * Executive Committee Member in China Computer Federation Technical Committee on Pervasive Computing (CCF TCPC) and Technical Committee on Internet of Things (CCF TCIoT)
+* Autonomous Vehicles Member of IEEE Vehicular Technology Society (VTS) AdHoc Committee on Autonomous Vehicles
 * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
 
 Technical Program Committee Member

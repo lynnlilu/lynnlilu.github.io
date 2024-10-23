@@ -27,6 +27,8 @@ News
 =====
 \[Sep. 2024\] I was elevated to a Senior Member of CCF.
 
+\[Sep. 2024\] I was invited to be Autonomous Vehicles Member of IEEE VTS AdHoc Committee on Autonomous Vehicles. [Link](https://vtsociety.org/contact/dr-li-lu)
+
 \[Jul. 2024\] One paper was recognized as a highly cited paper of Essential Science Indicators. [Link](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000607805200004)
 
 \[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). Congratulations! [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
@@ -173,6 +175,6 @@ Professional Services
 ======
 * Technical Program Committee: USENIX Security 2025, IEEE INFOCOM 2022-2025, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023-2024, IEEE TrustCom 2024, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023.
 * Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, ACM MM, IEEE ICASSP, etc.
-* Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
+* Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Autonomous Vehicles Member of IEEE Vehicular Technology Society AdHoc Committee on Autonomous Vehicles, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.
 
 [//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Institute of Electronics ([CIE](https://www.cie.org.cn/)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)
