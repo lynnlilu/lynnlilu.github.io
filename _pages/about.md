@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Sep. 2024\] I was elevated to a Senior Member of CCF. [Link](https://lynnlilu.github.io/images/awards/CCFsm.jpg)
+\[Sep. 2024\] I was elevated to a Senior Member of CCF. [Pic](https://lynnlilu.github.io/images/awards/CCFsm.jpg)
 
 \[Sep. 2024\] I was invited to be Autonomous Vehicles Member of IEEE VTS AdHoc Committee on Autonomous Vehicles. [Link](https://vtsociety.org/contact/dr-li-lu)
 
