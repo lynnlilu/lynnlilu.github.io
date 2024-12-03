@@ -159,6 +159,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P13**] **Li Lu**, Meng Chen, ZHongjie Ba, Kui Ren. [基于神经网络生成模型的音素级声纹识别对抗样本构造系统和方法](https://lynnlilu.github.io/patents/2024-patent-1). ZL202111178765.0. 2024.
+
 [**P12**] Zhongjie Ba, Yuwei Wang, Peng Cheng, Peng Huang, Feng Lin, **Li Lu**, Kui Ren. 一种基于语义空间扰动的语音识别模型安全性测评方法. ZL202311008778.2. 2023.
 
 [**P11**] **Li Lu**, Lei Wang, Zhongjie Ba, Kui Ren. [基于内建传感器欠采样数据的通用语音信息恢复装置及方法](https://lynnlilu.github.io/patents/2022-patent-2). ZL202110615983.X. 2022.
