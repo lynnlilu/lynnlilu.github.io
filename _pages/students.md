@@ -5,13 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-Postdoc Fellows
-======
-* Meng Zhang (张梦)
-  * Duration: 2022-present
-  * Co-advised with Prof. Feng Lin
-  * Research Interests: In-Vehicular Networking Security
-
 Ph.D. Students
 ======
 * Qianniu Chen (陈钱牛)
@@ -123,6 +116,13 @@ Undergraduate Students
 
 Alumni
 ======
+
+Postdoc Fellows
+------
+* Meng Zhang (张梦)
+  * Duration: 2022-2024
+  * Co-advised with Prof. Feng Lin
+  * Research Interests: Vehicular Safety & Security
 
 Graduate Students
 ------
