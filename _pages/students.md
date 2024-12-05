@@ -21,7 +21,7 @@ Ph.D. Students
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
-  * Award: Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
+  * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
   * Publications on: USENIX Security, ACM IMWUT, IEEE TIFS, IEEE INFOCOM
 * Kun Wang (王琨)
   * Duration: 2021-present
