@@ -45,7 +45,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C34, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. Proceedings of AAAI. Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
 
-[**C33, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. Proceedings of IEEE INFOCOM. Vancouver, BC, Canada. 2024. doi: to appear.
+[**C33, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. Proceedings of IEEE INFOCOM. pp. 351-360. Vancouver, BC, Canada. 2024. doi: [10.1109/INFOCOM52122.2024.10621229](https://www.doi.org/10.1109/INFOCOM52122.2024.10621229).
 
 [**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](https://lynnlilu.github.io/publication/2024-03-conference-VTuberBowTie-IUI). Proceedings of ACM IUI. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
 
