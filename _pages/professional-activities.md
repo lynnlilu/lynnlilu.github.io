@@ -51,6 +51,7 @@ Reviewer
 * Automotive Innovation
 * Pervasive and Mobile Computing
 * Expert Systems with Applications
+* IEEE International Joint Conference on Neural Network 
 * IEEE Access
 * Smart Health
 * Journal of Cloud Computing
