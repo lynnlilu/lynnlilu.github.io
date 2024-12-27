@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Dec. 2024\] I has become an Associate Editor of IEEE Transactions on Information Forensics and Security.
+
 \[Sep. 2024\] I was elevated to a Senior Member of CCF. [Pic](https://lynnlilu.github.io/images/awards/CCFsm.jpg)
 
 \[Sep. 2024\] I was invited to be Autonomous Vehicles Member of IEEE VTS AdHoc Committee on Autonomous Vehicles. [Link](https://vtsociety.org/contact/dr-li-lu)
@@ -173,6 +175,7 @@ Featured Publications
 
 Professional Services
 ======
+* Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security.
 * Technical Program Committee: USENIX Security 2025, IEEE INFOCOM 2022-2025, IEEE ICDCS 2022-2023, IEEE/ACM IWQoS 2021/2023-2024, IEEE TrustCom 2024, IEEE ICPADS 2019/2022-2023, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023.
 * Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Knowledge-based Systems, ACM MM, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing and Technical Committee on Internet of Things, Autonomous Vehicles Member of IEEE Vehicular Technology Society AdHoc Committee on Autonomous Vehicles, Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association.

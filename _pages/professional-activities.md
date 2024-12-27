@@ -12,6 +12,10 @@ Academic Organization Service
 * Autonomous Vehicles Member of IEEE Vehicular Technology Society (VTS) AdHoc Committee on Autonomous Vehicles
 * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
 
+Editorial Board Member
+======
+* Associate Editor of IEEE Transactions on Information Forensics and Security (IEEE T-IFS)
+
 Technical Program Committee Member
 ======
 * USENIX Security Symposium (USENIX Security 2025)
