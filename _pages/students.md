@@ -109,21 +109,21 @@ Undergraduate Students
   * Major: Computer Science and Technology
   * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
 * Peiqi Hou (侯沛奇)
- * Duration: The class of 2026
- * Major: Computer Science and Technology
- * Qizhen Wenxue Innovation Program
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * Qizhen Wenxue Innovation Program
 * Ning Ding (丁宁)
- * Duration: The class of 2027
- * Major: Engineering (Information Science)
- * Qizhen Wenxue Innovation Program
- * Rongyang Zhu (朱容阳)
- * Duration: The class of 2027
- * Major: Engineering (Information Science)
- * Qizhen Wenxue Innovation Program
- * Junhan Xu (徐浚涵)
- * Duration: The class of 2027
- * Major: Mechanical Engineering (ZJU-UIUC Institute)
- * Qizhen Wenxue Innovation Program
+  * Duration: The class of 2027
+  * Major: Engineering (Information Science)
+  * Qizhen Wenxue Innovation Program
+* Rongyang Zhu (朱容阳)
+  * Duration: The class of 2027
+  * Major: Engineering (Information Science)
+  * Qizhen Wenxue Innovation Program
+* Junhan Xu (徐浚涵)
+  * Duration: The class of 2027
+  * Major: Mechanical Engineering (ZJU-UIUC Institute)
+  * Qizhen Wenxue Innovation Program
 
 Alumni
 ======
