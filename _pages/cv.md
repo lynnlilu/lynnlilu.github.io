@@ -191,15 +191,15 @@ Patents
 
 Teaching
 ======
-[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2023
+[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2024
 
-[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2023
+[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2024
 
-[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2023
+[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2024
 
 [**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
-[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2023
+[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2024
 
 Awards
 ======
@@ -213,7 +213,7 @@ Awards
 
 [**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 
 
-[**A14**] 3rd Award of National College Student Information Security Contest - Advisor (全国大学生信息安全竞赛三等奖-指导教师）, Aug. 2023
+[**A14**] 3rd Award of National College Student Information Security Contest - Advisor （全国大学生信息安全竞赛三等奖-指导教师）, Aug. 2023
 
 [**A13**] Best Poster Runner-up Award of ACM MobiCom 2022, Oct. 2022
 
