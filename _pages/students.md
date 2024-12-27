@@ -72,11 +72,6 @@ Undergraduate Students
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
-* Huanyi Zheng (郑焕弋)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * SRTP: Resaerch on Lightweight and Real-time Model for Multi-to-multi Voice Conversion Systems
-  * Award: 3rd Award of National College Student Information Security Contest, Future Academic Rising Star Project of Zhejiang University
 * Jiaqi Sun (孙佳琦)
   * Duration: The class of 2025
   * Major: Cyber Science
@@ -113,6 +108,22 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
+* Peiqi Hou (侯沛奇)
+ * Duration: The class of 2026
+ * Major: Computer Science and Technology
+ * Qizhen Wenxue Innovation Program
+* Ning Ding (丁宁)
+ * Duration: The class of 2027
+ * Major: Engineering (Information Science)
+ * Qizhen Wenxue Innovation Program
+ * Rongyang Zhu (朱容阳)
+ * Duration: The class of 2027
+ * Major: Engineering (Information Science)
+ * Qizhen Wenxue Innovation Program
+ * Junhan Xu (徐浚涵)
+ * Duration: The class of 2027
+ * Major: Mechanical Engineering (ZJU-UIUC Institute)
+ * Qizhen Wenxue Innovation Program
 
 Alumni
 ======
@@ -157,6 +168,11 @@ Undergraduate Students
 
 Undergraduate Students of SRTP
 ------
+* Huanyi Zheng (郑焕弋)
+  * Duration: The class of 2025
+  * Major: Cyber Science
+  * SRTP: Resaerch on Lightweight and Real-time Model for Multi-to-multi Voice Conversion Systems
+  * Award: 3rd Award of National College Student Information Security Contest, Future Academic Rising Star Project of Zhejiang University
 * Peilin Sun (孙培林)
   * The class of 2025 undergraduate, B.E.
   * Major: Computer Science and Technology
