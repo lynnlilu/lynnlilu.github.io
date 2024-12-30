@@ -52,6 +52,7 @@ Reviewer
 * IEEE International Conference on Acoustics, Speech and Signal Processing
 * IEEE Internet of Things Journal
 * IEEE Network
+* Journal of Information Security and Applications
 * Automotive Innovation
 * Pervasive and Mobile Computing
 * Expert Systems with Applications
