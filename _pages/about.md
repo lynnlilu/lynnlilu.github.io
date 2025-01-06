@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jan. 2025\] One paper was accepted by IEEE Transactions on Information Forensics and Security.
+
 \[Dec. 2024\] I has become an Associate Editor of IEEE Transactions on Information Forensics and Security.
 
 \[Sep. 2024\] I was elevated to a Senior Member of CCF. [Pic](https://lynnlilu.github.io/images/awards/CCFsm.jpg)

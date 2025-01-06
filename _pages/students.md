@@ -58,7 +58,7 @@ Master Students
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
   * Research Interest: AI-enabled Testing on In-vehicular Networking
-  * Publications on: CCF CWSN
+  * Publications on: CCF CWSN, IEEE TIFS
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
@@ -72,10 +72,12 @@ Undergraduate Students
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
+  * Publications on: IEEE TIFS
 * Jiaqi Sun (孙佳琦)
   * Duration: The class of 2025
   * Major: Cyber Science
   * Research Interest: Autonomous Driving Security
+  * Publications on: IEEE TIFS
 * Bin Li (李彬)
   * Duration: The class of 2025
   * Major: Cyber Science
@@ -134,6 +136,7 @@ Postdoc Fellows
   * Duration: 2022-2024
   * Co-advised with Prof. Feng Lin
   * Research Interests: Vehicular Safety & Security
+  * Publications on: IEEE TIFS
 
 Graduate Students
 ------
