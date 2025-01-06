@@ -25,9 +25,13 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jan. 2025\] My advised Ph.D. student Meng Chen was granted by Young Elite Scientist Sponsorship Program (Ph.D. Student) (中国科协青年人才托举工程博士生专项计划). Congratulations!
+
 \[Jan. 2025\] One paper was accepted by IEEE Transactions on Information Forensics and Security.
 
 \[Dec. 2024\] I has become an Associate Editor of IEEE Transactions on Information Forensics and Security.
+
+\[Dec. 2024\] My advised Ph.D. student Meng Chen was granted by Young Student Fundamental Research Grant of NSFC (Ph.D. Student) (国家自然科学基金青年学生研究项目-博士研究生). Congratulations!
 
 \[Sep. 2024\] I was elevated to a Senior Member of CCF. [Pic](https://lynnlilu.github.io/images/awards/CCFsm.jpg)
 
