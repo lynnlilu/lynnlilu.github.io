@@ -14,7 +14,7 @@ Research Experience
 ======
 * Jul. 2020-present: Research Professor
   * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include IoT security, intelligent voice security, mobile sensing, ubiquitous computing.
+  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include AIoT security, intelligent voice security, autonomous driving security, mobile sensing, ubiquitous computing.
 
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
@@ -34,6 +34,53 @@ Education Background
 Publications
 ======
 I have published over 60 papers on peer-reviewed conferences and journals.
+## Journal Papers
+[**J23, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
+
+[**J22, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
+
+[**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
+
+[**J20, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+
+[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
+
+[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
+
+[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
+
+[**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
+
+[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 19:9534-9549. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
+
+[**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+
+[**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing. 21(4):3065-3081. 2024. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
+
+[**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning. IEEE Transactions on Dependable and Secure Computing, 21(1):372-387. 2023. doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
+
+[**J11, TMC, CCF-A**] Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, Jianwei Liu, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. A Resilience Evaluation Framework on Ultrasonic Microphone Jammers. IEEE Transactions on Mobile Computing, 23(2):1914-1929. 2023. doi: [10.1109/TMC.2023.3244581](https://www.doi.org/10.1109/TMC.2023.3244581).
+
+[**J10, TDSC, CCF-A**] Peng Cheng, Yuexin Wu, Yuan Hong, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. UniAP: Protecting Speech Privacy with Non-targeted Universal Adversarial Perturbations. IEEE Transactions on Dependable and Secure Computing, 21(1):31-46. 2023. doi: [10.1109/TDSC.2023.3242292](https://doi.org/10.1109/TDSC.2023.3242292).
+
+[**J9, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
+
+[**J8, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
+
+[**J7, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
+
+[**J6, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
+
+[**J5, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing, 20(2):337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
+
+[**J4, TMC, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Feilong Tang. Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi. IEEE Transactions on Mobile Computing, 20(11):3148-3162. 2020. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955). 
+
+[**J3, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. Acoustic-based Sensing and Applications: A Survey. Computer Networks, 181:107447:1-107447:19. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447). 
+
+[**J2, PARCOM, CCF-B**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds. Parallel Computing, 81(1):85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003). 
+
+[**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
+
 ## Conference Papers
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
@@ -110,53 +157,6 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 [**C2, ICPADS, CCF-C**] Qiang Wu, Jiadi Yu, **Li Lu**, Shiyou Qian, Guangtao Xue. Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee. Proceedings of IEEE ICPADS. Tianjin, China. pp. 193-200. 2019. doi: [10.1109/ICPADS47876.2019.00037](https://www.doi.org/10.1109/ICPADS47876.2019.00037). 
 
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. Proceedings of CCF ACA. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
-
-## Journal Papers
-[**J23, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
-
-[**J22, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
-
-[**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
-
-[**J20, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
-
-[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
-
-[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
-
-[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
-
-[**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
-
-[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 19:9534-9549. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
-
-[**J14, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
-
-[**J13, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing. 21(4):3065-3081. 2024. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
-
-[**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning. IEEE Transactions on Dependable and Secure Computing, 21(1):372-387. 2023. doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
-
-[**J11, TMC, CCF-A**] Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, Jianwei Liu, **Li Lu**, Feng Lin, Jinsong Han, Kui Ren. A Resilience Evaluation Framework on Ultrasonic Microphone Jammers. IEEE Transactions on Mobile Computing, 23(2):1914-1929. 2023. doi: [10.1109/TMC.2023.3244581](https://www.doi.org/10.1109/TMC.2023.3244581).
-
-[**J10, TDSC, CCF-A**] Peng Cheng, Yuexin Wu, Yuan Hong, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. UniAP: Protecting Speech Privacy with Non-targeted Universal Adversarial Perturbations. IEEE Transactions on Dependable and Secure Computing, 21(1):31-46. 2023. doi: [10.1109/TDSC.2023.3242292](https://doi.org/10.1109/TDSC.2023.3242292).
-
-[**J9, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
-
-[**J8, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
-
-[**J7, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). The Computer Journal, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
-
-[**J6, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
-
-[**J5, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). IEEE Transactions on Mobile Computing, 20(2):337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
-
-[**J4, TMC, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Feilong Tang. Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi. IEEE Transactions on Mobile Computing, 20(11):3148-3162. 2020. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955). 
-
-[**J3, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. Acoustic-based Sensing and Applications: A Survey. Computer Networks, 181:107447:1-107447:19. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447). 
-
-[**J2, PARCOM, CCF-B**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds. Parallel Computing, 81(1):85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003). 
-
-[**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Posters
 [**CP2, MobiCom**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). Proceedings of ACM MobiCom. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
