@@ -3,7 +3,7 @@ title: "Ubiquitous Sensing and Computing on Cyber Security and Privacy"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-11-talk-zjut
-venue: "College of Information Engineering"
+venue: "College of Information Engineering, Zhejiang University of Technology"
 date: 2019-11-22
 location: "Hangzhou, Zhejiang, China"
 ---

@@ -3,7 +3,7 @@ title: "Acoustics and Voice: From Tools to Security"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-talk-njupt
-venue: "School of Computer Science"
+venue: "School of Computer Science, Nanjing University of Posts and Telecommunications"
 date: 2023-12-14
 location: "Nanjing, Jiangsu, China"
 ---

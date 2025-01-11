@@ -3,7 +3,7 @@ title: "Security of Intelligent Voice Systems"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-talk-zjnu
-venue: "School of Computer Science and Technology(School of Artifical Intelligence)"
+venue: "School of Computer Science and Technology(School of Artifical Intelligence), Zhejiang Normal University"
 date: 2024-10-18
 location: "Jinhua, Zhejiang, China"
 ---
