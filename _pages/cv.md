@@ -12,7 +12,7 @@ redirect_from:
 
 Research Experience
 ======
-* Jul. 2020-present: Research Professor
+* Jul. 2020-present: Research Professor (特聘研究员)
   * Zhejiang University
   * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include AIoT security, intelligent voice security, autonomous driving security, mobile sensing, ubiquitous computing.
 
