@@ -271,17 +271,17 @@ Professional Services
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security.
 * Technical Program Committee: 
-  * USENIX Security 2025 [Big four, CCF-A]
-  * IEEE INFOCOM 2022-2025 [CCF-A]
-  * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [CCF-B]
+  * USENIX Security 2025 [**Big four, CCF-A**]
+  * IEEE INFOCOM 2022-2025 [**CCF-A**]
+  * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025
-  * IEEE TrustCom 2024, IEEE ICPADS 2019/2022-2023, IEEE MSN 2024 [CCF-C]
+  * IEEE TrustCom 2024, IEEE ICPADS 2019/2022-2023, IEEE MSN 2024 [**CCF-C**]
   * IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
 * Reviewer: 
-  * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [CCF-A]
-  * ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation,
-  * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Knowledge-based Systems, IEEE ICASSP [CCF-B]
-  * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE IJCNN, IEEE ICC [CCF-C]
+  * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [**CCF-A**]
+  * ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation [**JCR-Q1**]
+  * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Knowledge-based Systems, IEEE ICASSP [**CCF-B**]
+  * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing
 * Membership: 
   * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
