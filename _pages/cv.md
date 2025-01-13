@@ -279,7 +279,7 @@ Professional Services
   * IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
 * Reviewer: 
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [**CCF-A**]
-  * ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation [**JCR-Q1**]
+  * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation [**JCR-Q1**]
   * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Knowledge-based Systems, IEEE ICASSP [**CCF-B**]
   * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing

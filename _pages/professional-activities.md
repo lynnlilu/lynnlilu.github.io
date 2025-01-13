@@ -40,6 +40,7 @@ Reviewer
 * IEEE Transactions on Computers
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 * ACM Computing Surveys
+* Computer Science Review
 * IEEE Transactions on Vehicular Technology
 * ACM Transactions on Sensor Networks
 * ACM Transactions on Embedded Computing Systems
