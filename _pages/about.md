@@ -167,17 +167,19 @@ Featured Publications
 
 [**C9, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
-[**J1, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024.
+[**J1, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 2025.
 
-[**J2, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. 
+[**J2, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024.
 
-[**J3, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023.
+[**J3, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. 
 
-[**J4, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1):447-460. 2019.
+[**J4, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023.
 
-[**J5, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4):720-733. 2018.
+[**J5, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). IEEE/ACM Transactions on Networking. 27(1):447-460. 2019.
 
-[**J6, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
+[**J6, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). IEEE Transactions on Parallel and Distributed Systems. 29(4):720-733. 2018.
+
+[**J7, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). Chinese Journal of Computers. 43(10):2002-2018. 2020.
 
 Professional Services
 ======
