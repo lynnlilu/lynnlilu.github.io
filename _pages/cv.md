@@ -266,6 +266,7 @@ Professional Services
 ======
 * Academic Organization Service: 
   * Executive Committee Member in CCF Technical Committee on Pervasive Computing
+  * Executive Committee Member in CCF Data Governance Development Committee
   * Executive Committee Member in CCF Technical Committee on Internet of Things
   * Autonomous Vehicles Member of IEEE Vehicular Technology Society AdHoc Committee on Autonomous Vehicles
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
