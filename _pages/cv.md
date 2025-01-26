@@ -285,7 +285,7 @@ Professional Services
   * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation [**JCR-Q1**]
   * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Knowledge-based Systems, IEEE ICASSP [**CCF-B**]
   * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE IJCNN, IEEE ICC [**CCF-C**]
-  * IEEE Access, Smart Health, Journal of Cloud Computing
+  * IEEE Access, Smart Health, Journal of Cloud Computing, ACM Transactions on Computing for Healthcare
 * Membership: 
   * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
   * Member of Association of Computing Machinery ([ACM](https://www.acm.org/)), Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))

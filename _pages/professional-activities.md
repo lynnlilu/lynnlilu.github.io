@@ -61,6 +61,7 @@ Reviewer
 * IEEE Access
 * Smart Health
 * Journal of Cloud Computing
+* ACM Transactions on Computing for Healthcare
 
 Academic Organization Membership
 ======
