@@ -20,14 +20,14 @@ Technical Program Committee Member
 ======
 * USENIX Security Symposium (USENIX Security 2025)
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2025)
-* IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
+* IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
 * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2024)
 * USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025)
-* IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022-2023)
 * The 20th IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN 2024)
-* IEEE International Conference on Metaverse (IEEE Metaverse 2023)
+* IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022-2023)
 * IEEE International Conference on Green Computing and Communication (IEEE GreenCom 2023-2024)
+* IEEE International Conference on Metaverse (IEEE Metaverse 2023)
 * CCF Annual Conference on Distributed and Parallel Computing System (CCF DPCS 2023)
 
 Reviewer
