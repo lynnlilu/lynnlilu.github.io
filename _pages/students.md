@@ -34,7 +34,7 @@ Ph.D. Students
 * Yuli Wu (吴玉立)
   * Duration: 2024-present
   * Research Interests: Safety of Intended Function for Autonomous Driving
-  * Publications on: CCF CWSN
+  * Publications on: IEEE ICC, CCF CWSN
 * Abdul Basit
   * Duration: 2024-present
   * Research Interest: AIGC watermarking
@@ -58,7 +58,7 @@ Master Students
 * Yuhan Wu (吴雨涵)
   * Duration: 2022-present
   * Research Interest: AI-enabled Testing on In-vehicular Networking
-  * Publications on: CCF CWSN, IEEE TIFS
+  * Publications on: IEEE ICC, CCF CWSN, IEEE TIFS
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
