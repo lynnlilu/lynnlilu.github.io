@@ -51,6 +51,7 @@ Reviewer
 * Knowledge-based Systems
 * ACM Multimedida
 * IEEE International Conference on Acoustics, Speech and Signal Processing
+* The Interspeech Conference
 * IEEE Internet of Things Journal
 * IEEE Network
 * Journal of Information Security and Applications
