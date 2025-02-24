@@ -96,11 +96,11 @@ Undergraduate Students
   * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Luxin.
 * Haibing Wu (吴海槟)
   * Duration: The class of 2026
-  * Major: Computer Science and Technology
+  * Major: Turing Honor Class (Computer Science and Technology)
   * SRTP: Scenario Generation for Autonomous Driving, collaborated with Ziyou.
 * Ziyou Lv (吕子优)
   * Duration: The class of 2026
-  * Major: Computer Science and Technology
+  * Major: Turing Honor Class (Computer Science and Technology)
   * SRTP: Scenario Generation for Autonomous Driving, collaborated with Haibing.
 * Sizhe Ji (纪思哲)
   * Duration: The class of 2026
@@ -126,6 +126,9 @@ Undergraduate Students
   * Duration: The class of 2027
   * Major: Mechanical Engineering (ZJU-UIUC Institute)
   * Qizhen Wenxue Innovation Program
+* Guanwen Lu (卢冠雯)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class (Artificial Intelligence)
 
 Alumni
 ======
