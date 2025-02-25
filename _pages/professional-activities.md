@@ -56,6 +56,7 @@ Reviewer
 * IEEE Network
 * Journal of Information Security and Applications
 * Automotive Innovation
+* Computer Methods and Programs in Biomedicine
 * Pervasive and Mobile Computing
 * Expert Systems with Applications
 * IEEE International Joint Conference on Neural Network 
