@@ -43,13 +43,13 @@ News
 
 \[Jul. 2024\] My advised Ph.D. student Meng Chen was granted by Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University (浙江大学争创优秀博士学位论文资助). Congratulations! [Link](https://yjsybg.zju.edu.cn/2024/0703/c61816a2942406/page.htm)
 
-\[May 2024\] My advised Ph.D. student Junhao Wang was granted by Cybersecurity College Student Innovation Funding Program. Congratulations!
+\[May 2024\] My advised Ph.D. student Junhao Wang was granted by Cybersecurity College Student Innovation Funding Program (网络安全学院学生创新资助计划项目). Congratulations!
 
 \[May 2024\] One paper was accepted by IEEE/ACM ToN.
 
 \[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.
 
-\[Mar. 2024\] My advised undergraduate student Huanyi Zheng was granted by Future Academic Rising Star Project of Zhejiang University. Congrantulations! [Link](https://bksy.zju.edu.cn/2024/0328/c28418a2895863/page.htm)
+\[Mar. 2024\] My advised undergraduate student Huanyi Zheng was granted by Future Academic Rising Star Project of Zhejiang University (浙江大学未来新星计划). Congrantulations! [Link](https://bksy.zju.edu.cn/2024/0328/c28418a2895863/page.htm)
 
 \[Feb. 2024\] I was recognized as the Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee. [Link](https://infocom2024.ieee-infocom.org/committees/technical-program-committee)
 
