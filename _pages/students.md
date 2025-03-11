@@ -19,7 +19,7 @@ Ph.D. Students
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
-  * Publications on: USENIX Security
+  * Publications on: USENIX Security, IEEE S\& P
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
@@ -31,6 +31,7 @@ Ph.D. Students
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
   * Research Interests: Biometric Security
+  * Publications on: IEEE S\& P
 * Yuli Wu (吴玉立)
   * Duration: 2024-present
   * Research Interests: Safety of Intended Function for Autonomous Driving

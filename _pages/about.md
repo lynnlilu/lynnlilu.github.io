@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Mar. 2025\] One paper was accepted with shepherding by IEEE S\& P, which was completed by my advised Ph.D.student Kun Wang. Congratulations!
+
 \[Jan. 2025\] My advised Ph.D. student Meng Chen was granted by Young Elite Scientist Sponsorship Program (Ph.D. Student) (中国科协青年人才托举工程博士生专项计划). Congratulations!
 
 \[Jan. 2025\] One paper was accepted by IEEE Transactions on Information Forensics and Security.
