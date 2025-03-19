@@ -19,13 +19,13 @@ More details can be found in my [CV](http://lynnlilu.github.io/files/cv-luli.pdf
 
 Research Interests
 ======
-His research interests include AIoT security, intelligent voice security, autonomous driving security, mobile sensing, and ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security vulerabilities underlying these techniques and applications. 
+His research interests include intelligent voice security, autonomous driving security, IoT security, mobile sensing, and ubiquitous computing. The main work is to employ signal processing and machine learning techniques in sensing and communications to realize interesting and futuristic applications as well as investigate corresponding security vulerabilities underlying these techniques and applications. 
 
 Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. (Also could be the anime LoveLive! ^_^)
 
 News
 =====
-\[Mar. 2025\] One paper was accepted with shepherding by IEEE S&P, which was completed by my advised Ph.D.student Kun Wang. Congratulations!
+\[Mar. 2025\] One paper was accepted with shepherding by IEEE S&P, which was completed by my advised Ph.D. student Kun Wang. Congratulations!
 
 \[Jan. 2025\] My advised Ph.D. student Meng Chen was granted by Young Elite Scientist Sponsorship Program (Ph.D. Student) (中国科协青年人才托举工程博士生专项计划). Congratulations!
 
