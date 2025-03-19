@@ -167,6 +167,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P15**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
+
 [**P14**] **Li Lu**, Meng Chen, Zhongjie Ba, Kui Ren. [基于神经网络生成模型的音素级声纹识别对抗样本构造系统和方法](https://lynnlilu.github.io/patents/2024-patent-1). ZL202111178765.0. 2024.
 
 [**P13**] Zhongjie Ba, Yuexin Wu, Peng Cheng, **Li Lu**, Feng Lin, Kui Ren. 基于白盒语音对抗样本的隐私保护方法与装置. ZL202210996591.7. 2024.
@@ -270,11 +272,11 @@ Professional Services
   * Executive Committee Member in CCF Technical Committee on Pervasive Computing
   * Executive Committee Member in CCF Data Governance Development Committee
   * Executive Committee Member in CCF Technical Committee on Internet of Things
-  * Autonomous Vehicles Member of IEEE Vehicular Technology Society AdHoc Committee on Autonomous Vehicles
+  * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security.
 * Technical Program Committee: 
-  * USENIX Security 2025 [**Big four, CCF-A**]
+  * USENIX Security 2025 [**Top four, CCF-A**]
   * IEEE INFOCOM 2022-2025 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025
