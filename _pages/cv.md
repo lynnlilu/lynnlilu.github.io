@@ -14,7 +14,7 @@ Research Experience
 ======
 * Jul. 2020-present: Research Professor (特聘研究员)
   * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include AIoT security, intelligent voice security, autonomous driving security, mobile sensing, ubiquitous computing.
+  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include intelligent voice security, autonomous driving security, IoT security, ubiquitous computing, mobile sensing.
 
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
@@ -82,6 +82,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Conference Papers
+[**C40, S&P, CCF-A**] Kun Wang, **Li Lu***, Meng Chen, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: to appear.
+
 [**C39, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
 
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
@@ -201,7 +203,7 @@ Teaching
 ======
 [**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2024
 
-[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2024
+[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2025
 
 [**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2024
 
@@ -273,14 +275,14 @@ Professional Services
   * Executive Committee Member in CCF Data Governance Development Committee
   * Executive Committee Member in CCF Technical Committee on Internet of Things
   * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
-  * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association
+  * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security
 * Technical Program Committee: 
   * USENIX Security 2025 [**Top four, CCF-A**]
   * IEEE INFOCOM 2022-2025 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025
-  * IEEE TrustCom 2024, IEEE ICPADS 2019/2022-2023, IEEE MSN 2024 [**CCF-C**]
+  * IEEE TrustCom 2024, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
   * IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
 * Reviewer: 
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [**CCF-A**]
