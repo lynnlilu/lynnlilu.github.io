@@ -10,7 +10,7 @@ Ph.D. Students
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
   * Research Interests: Real-time Voice Anonymization
-  * Publications on: ACM SenSys, ACM IUI, IJCNN, IEEE MSN
+  * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
@@ -46,7 +46,7 @@ Master Students
   * Duration: 2022-present
   * Research Interests: Robust Voice Synthesis
   * Award: Outstanding Bachelor Dissertation Award of 2022
-  * Publications on: IJCNN, ACM IUI
+  * Publications on: IEEE IJCNN, ACM IUI
 
 [//]: # (* Kang Fu (傅康))
 [//]: # (  * Duration: 2021-present)
@@ -56,14 +56,10 @@ Master Students
 * Lingxiao Yu (俞灵霄)
   * Duration: 2022-present
   * Research Interest: Watermarking for AIGC Detection
-* Yuhan Wu (吴雨涵)
-  * Duration: 2022-present
-  * Research Interest: AI-enabled Testing on In-vehicular Networking
-  * Publications on: IEEE ICC, CCF CWSN, IEEE TIFS
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
-  * Publications on: IJCNN
+  * Publications on: IEEE IJCNN
 * Jiacheng Jin (金佳成)
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus
@@ -152,6 +148,11 @@ Graduate Students
   * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
   * Publications on: ACM IMWUT
   * Currently: Enginner at BYD Institute of Vehicle Engineering
+* Yuhan Wu (吴雨涵)
+  * The class of 2025 graduate, M.E.
+  * Thesis: GFuzz4CAN: A Generative Model-based Fuzzing for In-vehicle Controller Area Network
+  * Publications on: IEEE ICC, CCF CWSN, IEEE TIFS
+  * Currently: Engineer at Alibaba Cloud Computing Co. Ltd.
 
 Undergraduate Students
 ------
