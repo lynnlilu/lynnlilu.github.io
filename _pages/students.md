@@ -10,7 +10,7 @@ Ph.D. Students
 * Qianniu Chen (陈钱牛)
   * Duration: 2020-present
   * Research Interests: Real-time Voice Anonymization
-  * Publications on: ACM SenSys, ACM IUI, IEEE MSN
+  * Publications on: ACM SenSys, ACM IUI, IJCNN, IEEE MSN
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
@@ -46,7 +46,7 @@ Master Students
   * Duration: 2022-present
   * Research Interests: Robust Voice Synthesis
   * Award: Outstanding Bachelor Dissertation Award of 2022
-  * Publications on: ACM IUI
+  * Publications on: IJCNN, ACM IUI
 
 [//]: # (* Kang Fu (傅康))
 [//]: # (  * Duration: 2021-present)
@@ -63,6 +63,7 @@ Master Students
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
+  * Publications on: IJCNN
 * Jiacheng Jin (金佳成)
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus

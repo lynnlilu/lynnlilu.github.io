@@ -82,9 +82,11 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Conference Papers
-[**C40, S&P, CCF-A**] Kun Wang, **Li Lu***, Meng Chen, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: to appear.
+[**C41, S&P, CCF-A**] Kun Wang, **Li Lu***, Meng Chen, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: to appear.
 
-[**C39, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
+[**C40, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
+
+[**C39, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IJCNN, Rome, Italy. Jun. 2025, doi: to appear. 
 
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
