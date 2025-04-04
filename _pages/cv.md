@@ -86,7 +86,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C40, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
 
-[**C39, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE IJCNN, Rome, Italy. Jun. 2025, doi: to appear. 
+[**C39, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE IJCNN, Rome, Italy. 2025. doi: to appear. 
 
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. doi: to appear.
 
