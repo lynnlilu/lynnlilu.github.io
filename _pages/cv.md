@@ -171,9 +171,11 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
-[**P16**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
+[**P17**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
 
-[**P15**] Qianqiu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL 202411604235.1. 2025.
+[**P16**] **Li Lu**, Qianniu Chen, Xiaodi Zhao, Meng Chen, Kui Ren. [面向语音合成系统的模型水印方法、装置、计算机设备和存储介质](https://lynnlilu.github.io/patents/2025-patent-3). ZL2024118343673. 2025.
+
+[**P15**] Qianqiu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL202411604235.1. 2025.
 
 [**P14**] **Li Lu**, Meng Chen, Zhongjie Ba, Kui Ren. [基于神经网络生成模型的音素级声纹识别对抗样本构造系统和方法](https://lynnlilu.github.io/patents/2024-patent-1). ZL202111178765.0. 2024.
 
