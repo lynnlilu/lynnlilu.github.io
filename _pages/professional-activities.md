@@ -54,6 +54,7 @@ Reviewer
 * The Interspeech Conference
 * IEEE Internet of Things Journal
 * IEEE Network
+* IEEE Transactions on Sustainable Computing
 * Journal of Information Security and Applications
 * Automotive Innovation
 * Computer Methods and Programs in Biomedicine
