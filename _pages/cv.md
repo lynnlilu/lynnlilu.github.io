@@ -215,7 +215,7 @@ Teaching
 
 [**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
-[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2024
+[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2025
 
 Awards
 ======
