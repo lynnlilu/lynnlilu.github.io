@@ -127,6 +127,53 @@ Undergraduate Students
 * Guanwen Lu (卢冠雯)
   * Duration: The class of 2027
   * Major: Turing Honor Class (Artificial Intelligence)
+* Junjie Yang (杨俊杰)
+  * Duration: The class of 2027
+  * Major: Automation
+  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Duheng.
+* Duheng Pan (潘度衡)
+  * Duration: The class of 2027
+  * Major: Computer Science and Technology
+  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Junjie.
+* Zuokai Yang (杨作凯)
+  * Duration: The class of 2027
+  * Major: Information Security
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Bojun and Xinze.
+* Bojun Zhang (张伯君)
+  * Duration: The class of 2027
+  * Major: Electrical Engineering
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Xinze.
+* Xinze Du (杜昕泽)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Bojun.
+* Xinpeng Luo (罗新鹏)
+  * Duration: The class of 2027
+  * Major: Software Engineering
+  * SRTP: Adversarial Example Detection, collaborated with Chengguo and Yu'an.
+* Chengguo Liu (刘成果)
+  * Duration: The class of 2027
+  * Major: Computer Science and Technology
+  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Yu'an.
+* Yu'an Huang (黄雨安)
+  * Duration: The class of 2027
+  * Major: Zhukezhen Honor College (Architecture and Civil Engineering)
+  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Chengguo.
+* Haocheng Yu (余昊铖)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Yekai and Jinpeng.
+* Yekai Zhang (章烨凯)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Jinpeng.
+* Jinpeng Zhang (张锦鹏)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Yekai.
 
 Alumni
 ======
