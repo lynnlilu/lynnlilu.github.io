@@ -294,7 +294,7 @@ Professional Services
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [**CCF-A**]
   * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine [**JCR-Q1**]
   * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Knowledge-based Systems, IEEE ICASSP [**CCF-B**]
-  * IEEE Transactions on Sustainable Computing, Journal of Information Security and Applications, Pervasive and Mobile Computing, ISCA Interspeech, IEEE IJCNN, IEEE ICC [**CCF-C**]
+  * IEEE Transactions on Sustainable Computing, Neurocomputing, Journal of Information Security and Applications, Pervasive and Mobile Computing, ISCA Interspeech, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing, ACM Transactions on Computing for Healthcare
 * Membership: 
   * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
