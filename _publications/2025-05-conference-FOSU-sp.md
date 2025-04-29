@@ -8,7 +8,7 @@ permalink: /publication/2025-05-conference-FOSU-sp
 date: 2025-05-13
 venue: 'Proceedings of IEEE S&P'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Kun Wang, Meng Chen, <b>Li Lu</b>*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, and Chun Chen. &quot;From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era.&quot; <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. 2025. doi: to appear.'
+citation: 'Kun Wang, Meng Chen, <b>Li Lu</b>*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, and Chun Chen. &quot;From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era.&quot; <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. 2025. doi: 10.1109/SP61157.2025.00238.'
 ---
 
 IEEE Symposium on Security and Privacy is the premier forum for presenting developments in computer security and electronic privacy, and for bringing together researchers and practitioners in the field. IEEE S&P is a Top-four security and CCF-A conference.
