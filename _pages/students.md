@@ -199,6 +199,7 @@ Graduate Students
   * The class of 2025 graduate, M.E.
   * Thesis: GFuzz4CAN: A Generative Model-based Fuzzing for In-vehicle Controller Area Network
   * Publications on: IEEE ICC, CCF CWSN, IEEE TIFS
+  * Award: Best Paper Award of IEEE ICC
   * Currently: Engineer at Alibaba Cloud Computing Co. Ltd.
 
 Undergraduate Students
