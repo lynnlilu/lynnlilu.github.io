@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Best Paper Award of IEEE ICC 2025
+
 * ACM China SIGAPP Chapter Rising Star Award
 
 ![ACM China SIGAPP Chapter Rising Star Award](../images/awards/ACM-SIGAPP-rsa.jpg){:height="25%" width="25%"}

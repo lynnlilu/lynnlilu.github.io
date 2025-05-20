@@ -219,6 +219,8 @@ Teaching
 
 Awards
 ======
+[**A20**] Best Paper Award of IEEE ICC 2025, Jun. 2025
+
 [**A19**] Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023, Apr. 2024
 
 [**A18**] Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee, Feb. 2024
