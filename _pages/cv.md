@@ -43,9 +43,9 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**J20, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
 
-[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
+[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing. 22(3): 2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
 
-[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
+[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
 
 [**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
 
