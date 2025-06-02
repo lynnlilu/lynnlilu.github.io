@@ -38,7 +38,7 @@ Ph.D. Students
   * Publications on: IEEE ICC, CCF CWSN
 * Abdul Basit
   * Duration: 2024-present
-  * Research Interest: AIGC watermarking
+  * Research Interests: AIGC watermarking
 
 Master Students
 ======
@@ -53,9 +53,6 @@ Master Students
 [//]: # (  * Research Interests: Audio Adversarial Example Attacks)
 [//]: # (  * Publications on: IEEE MSN)
 
-* Lingxiao Yu (俞灵霄)
-  * Duration: 2022-present
-  * Research Interest: Watermarking for AIGC Detection
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
@@ -63,51 +60,16 @@ Master Students
 * Jiacheng Jin (金佳成)
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus
+* Zheng Yan (闫政)
+  * Duration: 2025-present
+  * Research Interest: Autonomous Driving Security
+  * Publications on: IEEE TIFS
+* Hongshuo Jin (金鸿硕)
+  * Duration: 2025-present
+  * Research Interest: Audio Deepfake Detection
 
 Undergraduate Students
 ======
-* Zheng Yan (闫政)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * Research Interest: Autonomous Driving Security
-  * Publications on: IEEE TIFS
-* Jiaqi Sun (孙佳琦)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * Research Interest: Autonomous Driving Security
-  * Publications on: IEEE TIFS
-* Bin Li (李彬)
-  * Duration: The class of 2025
-  * Major: Cyber Science
-  * Research Interest: Fuzzing for Intelligent Driving Systems
-* Pengyu Sun (孙鹏雨)
-  * Duration: The class of 2026
-  * Major: Cyber Science
-  * SRTP: In-vehicular Intrusion Detection, collaborated with Luxin and Xuanyong.
-* Luxin Shi (史璐欣)
-  * Duration: The class of 2026
-  * Major: Cyber Science
-  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Xuanyong.
-* Xuanyong Lin (林轩永)
-  * Duration: The class of 2026
-  * Major: Cyber Science
-  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Luxin.
-* Haibing Wu (吴海槟)
-  * Duration: The class of 2026
-  * Major: Turing Honor Class (Computer Science and Technology)
-  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Ziyou.
-* Ziyou Lv (吕子优)
-  * Duration: The class of 2026
-  * Major: Turing Honor Class (Computer Science and Technology)
-  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Haibing.
-* Sizhe Ji (纪思哲)
-  * Duration: The class of 2026
-  * Major: Computer Science and Technology
-  * SRTP: LiDAR Object Detection Optimization, collaborated with Xuyang.
-* Xuyang Zheng (郑旭阳)
-  * Duration: The class of 2026
-  * Major: Computer Science and Technology
-  * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
 * Peiqi Hou (侯沛奇)
   * Duration: The class of 2026
   * Major: Computer Science and Technology
@@ -189,21 +151,34 @@ Postdoc Fellows
 
 Graduate Students
 ------
-* Lei Wang (王磊)
-  * The class of 2023 graduate, M.E.
-  * Co-advised with Prof. Kui Ren
-  * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
-  * Publications on: ACM IMWUT
-  * Currently: Enginner at BYD Institute of Vehicle Engineering
+* Lingxiao Yu (俞灵霄)
+  * The class of 2025 graduate, M.E.
+  * Thesis: Research on Fake Audio Detection based on Semi-fragile Watermark
+  * Currently: Engineer at Huawei Cloud
 * Yuhan Wu (吴雨涵)
   * The class of 2025 graduate, M.E.
   * Thesis: GFuzz4CAN: A Generative Model-based Fuzzing for In-vehicle Controller Area Network
   * Publications on: IEEE ICC, CCF CWSN, IEEE TIFS
   * Award: Best Paper Award of IEEE ICC
   * Currently: Engineer at Alibaba Cloud Computing Co. Ltd.
+* Lei Wang (王磊)
+  * The class of 2023 graduate, M.E.
+  * Co-advised with Prof. Kui Ren
+  * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
+  * Publications on: ACM IMWUT
+  * Currently: Enginner at BYD Institute of Vehicle Engineering
 
 Undergraduate Students
 ------
+* Jiaqi Sun (孙佳琦)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Cyber Science
+  * Thesis: Research on Pedestrian Emergent Danger Scene Generation based on Reinforcement Learning
+  * Publications on: IEEE TIFS
+* Bin Li (李彬)
+  * The class of 2025 undergraduate, B.E.
+  * Major: Cyber Science
+  * Thesis: Kernel Fuzzing Model Based on Syzkaller
 * Meng Cai (蔡梦)
   * The class of 2024 undergraduate, B.E.
   * Major: Computer Science and Technology
@@ -226,6 +201,34 @@ Undergraduate Students
 
 Undergraduate Students of SRTP
 ------
+* Pengyu Sun (孙鹏雨)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Luxin and Xuanyong.
+* Luxin Shi (史璐欣)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Xuanyong.
+* Xuanyong Lin (林轩永)
+  * Duration: The class of 2026
+  * Major: Cyber Science
+  * SRTP: In-vehicular Intrusion Detection, collaborated with Pengyu and Luxin.
+* Haibing Wu (吴海槟)
+  * Duration: The class of 2026
+  * Major: Turing Honor Class (Computer Science and Technology)
+  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Ziyou.
+* Ziyou Lv (吕子优)
+  * Duration: The class of 2026
+  * Major: Turing Honor Class (Computer Science and Technology)
+  * SRTP: Scenario Generation for Autonomous Driving, collaborated with Haibing.
+* Sizhe Ji (纪思哲)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: LiDAR Object Detection Optimization, collaborated with Xuyang.
+* Xuyang Zheng (郑旭阳)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  * SRTP: LiDAR Object Detection Optimization, collaborated with Sizhe.
 * Huanyi Zheng (郑焕弋)
   * Duration: The class of 2025
   * Major: Cyber Science
