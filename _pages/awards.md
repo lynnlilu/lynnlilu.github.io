@@ -6,6 +6,8 @@ author_profile: true
 ---
 * Best Paper Award of IEEE ICC 2025
 
+![Best Paper Award of IEEE ICC](../images/awards/ICC-best.jpg){:height="40%" width="40%"}
+
 * ACM China SIGAPP Chapter Rising Star Award
 
 ![ACM China SIGAPP Chapter Rising Star Award](../images/awards/ACM-SIGAPP-rsa.jpg){:height="25%" width="25%"}
