@@ -39,7 +39,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**J23, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
-[**J22, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category ActionRecognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
+[**J22, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
 
 [**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
 
