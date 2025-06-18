@@ -7,10 +7,6 @@ author_profile: true
 
 Ph.D. Students
 ======
-* Qianniu Chen (陈钱牛)
-  * Duration: 2020-present
-  * Research Interests: Real-time Voice Anonymization
-  * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
 * Meng Chen (陈锰)
   * Duration: 2021-present
   * Research Interests: Adversarial Example and Backdoor on Audio Systems
@@ -148,6 +144,14 @@ Postdoc Fellows
   * Research Interests: Vehicular Safety & Security
   * Publications on: IEEE TIFS
   * Currently: Lecturer at Zhejiang Gongshang University Hangzhou College of Commerce
+
+Ph.D. Students
+------
+* Qianniu Chen (陈钱牛)
+  * The class of 2025 graduate, Ph.D.
+  * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
+  * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
+  * Currently: Enginner at China Mobile Migu
 
 Graduate Students
 ------
