@@ -143,7 +143,7 @@ Postdoc Fellows
   * Co-advised with Prof. Feng Lin
   * Research Interests: Vehicular Safety & Security
   * Publications on: IEEE TIFS
-  * Currently: Lecturer at Zhejiang Gongshang University Hangzhou College of Commerce
+  * Currently: Lecturer at Zhejiang Institute of Communications
 
 Ph.D. Students
 ------
