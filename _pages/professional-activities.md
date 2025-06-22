@@ -48,6 +48,7 @@ Reviewer
 * IEEE Transactions on Network Science and Engineering
 * Computer Networks
 * Pattern Recognition
+* Neural Networks
 * Knowledge-based Systems
 * ACM Multimedida
 * IEEE International Conference on Acoustics, Speech and Signal Processing
