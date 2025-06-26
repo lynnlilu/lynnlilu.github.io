@@ -190,7 +190,7 @@ Featured Publications
 Professional Services
 ======
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security.
-* Technical Program Committee: USENIX Security 2025, IEEE INFOCOM 2022-2026, IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023, USENIX VehicleSec 2025, IEEE TrustCom 2024, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023, IEEE GreenCom 2023-2024, etc.
+* Technical Program Committee: USENIX Security 2025, IEEE INFOCOM 2022-2026, IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023, USENIX VehicleSec 2025, IEEE AIoTSys 2205, IEEE TrustCom 2024, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023, IEEE GreenCom 2023-2024, etc.
 * Reviewer: IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Computing Surveys, Computer Science Review, ACM MM, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Pervasive Computing, Data Governance Development Committee and Technical Committee on Internet of Things, Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles.
 
