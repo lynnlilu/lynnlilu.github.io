@@ -151,7 +151,7 @@ Ph.D. Students
   * The class of 2025 graduate, Ph.D.
   * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
   * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
-  * Currently: Enginner at China Mobile Migu
+  * Currently: Enginner at China Mobile Migu with Golden Seed Program
 
 Graduate Students
 ------
