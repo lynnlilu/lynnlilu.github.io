@@ -11,7 +11,7 @@ venue: 'Proceedings of IEEE/INNS IJCNN'
 citation: 'Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, <b>Li Lu*</b>. &quot;Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference.&quot; <i>Proceedings of IEEE/INNS IJCNN</i>. Rome, Italy. 2025. doi: 10.1109/SP61157.2025.00238.'
 ---
 
-IJCNN is the flagship conference of INNS. It brings together the brightest minds in neural networks and artificial intelligence, offering a platform for sharing ideas and fostering collaborations. IEEE/INNS IJCNN is a Top-four security and CCF-C conference.
+International Joint Conference on Neural Networks is the flagship conference of INNS. It brings together the brightest minds in neural networks and artificial intelligence, offering a platform for sharing ideas and fostering collaborations. IEEE/INNS IJCNN is a CCF-C conference.
 
 
 [To appear](https://lynnlilu.github.io/files/xxxx.pdf)
