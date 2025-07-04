@@ -179,7 +179,7 @@ Patents
 
 [**P17**] Qianniu Chen, **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于声纹识别对抗性样本的物理域身份伪装系统及方法](https://lynnlilu.github.io/patents/2025-patent-4). ZL2022104238437. 2025.
 
-[**P16**] Qianqiu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL202411604235.1. 2025.
+[**P16**] Qianniu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL202411604235.1. 2025.
 
 [**P15**] Liu Liu, Zhongjie Ba, Xiaodong Chen, Feng Lin, **Li Lu**, Kui Ren. 一种针对受软件噪声影响的相机指纹的匹配方法及装置. ZL2022117157940. 2025.
 
