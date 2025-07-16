@@ -18,7 +18,7 @@ Editorial Board Member
 
 Technical Program Committee Member
 ======
-* USENIX Security Symposium (USENIX Security 2025)
+* USENIX Security Symposium (USENIX Security 2025-2026)
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2026)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
 * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)

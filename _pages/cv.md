@@ -292,7 +292,7 @@ Professional Services
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security
 * Technical Program Committee: 
-  * USENIX Security 2025 [**Top four, CCF-A**]
+  * USENIX Security 2025-2026 [**Top four, CCF-A**]
   * IEEE INFOCOM 2022-2026 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025
