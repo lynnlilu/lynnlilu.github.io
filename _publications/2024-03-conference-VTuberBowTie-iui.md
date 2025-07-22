@@ -6,7 +6,7 @@ catogories:
 permalink: /publication/2024-03-conference-VTuberBowTie-iui
 #excerpt: ''
 date: 2024-04-05
-venue: 'Proceedings of ACM IUI'
+venue: 'Proceedings of ACM Conference on Intelligent User Interfaces (ACM IUI)'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
 citation: 'Qianniu Chen, Zhehan Gu, <b>Li Lu</b>*, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. &quot;Conan&#39;s Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming.&quot; <i>Proceedings of ACM IUI</i>. Greenville, SC, USA. pp. 35-50. 2024. doi: 10.1145/3640543.3645146.'
 ---
