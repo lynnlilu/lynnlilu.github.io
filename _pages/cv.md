@@ -102,7 +102,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C33, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. Proceedings of IEEE INFOCOM. pp. 351-360. Vancouver, BC, Canada. 2024. doi: [10.1109/INFOCOM52122.2024.10621229](https://www.doi.org/10.1109/INFOCOM52122.2024.10621229).
 
-[**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](https://lynnlilu.github.io/publication/2024-03-conference-VTuberBowTie-IUI). Proceedings of ACM IUI. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
+[**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](2024-03-conference-VTuberBowTie-iui). Proceedings of ACM IUI. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
 
 [**C31, SenSys, CCF-B**] Ziwei Liu, Feng Lin, Teshi Meng, Benaouda Chouaib Baha-eddine, **Li Lu**, Qiang Xue, Kui Ren. EMTrig: Physical Adversarial Examples Triggered by Electromagnetic Injection towards LiDAR Perception. Proceedings of ACM SenSys. pp. 351-364. Hangzhou, China. 2024, doi: [10.1145/3666025.3699343](https://www.doi.org/10.1145/3666025.3699343).
 
