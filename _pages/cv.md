@@ -293,7 +293,7 @@ Professional Services
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security
 * Technical Program Committee: 
   * USENIX Security 2025-2026 [**Top four, CCF-A**]
-  * IEEE INFOCOM 2022-2026 [**CCF-A**]
+  * IEEE INFOCOM 2022-2026, AAAI 2026 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2025, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025
   * IEEE TrustCom 2024-2025, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
