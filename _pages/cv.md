@@ -173,6 +173,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P20**]	**Li Lu**, Junhao Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向超声波声纹防伪的数据增强方法及装置](https://lynnlilu.github.io/patents/2025-patent-5). ZL202211595644.0. 2025.
+
 [**P19**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
 
 [**P18**] **Li Lu**, Qianniu Chen, Xiaodi Zhao, Meng Chen, Kui Ren. [面向语音合成系统的模型水印方法、装置、计算机设备和存储介质](https://lynnlilu.github.io/patents/2025-patent-3). ZL2024118343673. 2025.
