@@ -20,7 +20,7 @@ Ph.D. Students
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
   * Award: Cybersecurity College Student Innovation Funding Program
-  * Publications on: IEEE ICASSP
+  * Publications on: IEEE TIFS, IEEE ICASSP
 * Yihe Zhang (章怿贺)
   * Duration: 2023-present
   * Research Interest: Software Security for Intelligent Driving Systems

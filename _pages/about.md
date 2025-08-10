@@ -27,6 +27,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Aug. 2025\] One paper was accepted by IEEE Transactions on Information Forensics and Security, which was completed by my advised Ph.D. student Junhao Wang. Congratulations!
+
 \[Jun. 2025\] We received Best Paper Award from IEEE ICC 2025, which is completed by my advised master student Yuhan Wu. Congratulations!
 
 \[Mar. 2025\] One paper was accepted by IEEE S&P, which was completed by my advised Ph.D. student Kun Wang. Congratulations!
@@ -49,7 +51,7 @@ News
 
 \[May 2024\] My advised Ph.D. student Junhao Wang was granted by Cybersecurity College Student Innovation Funding Program (网络安全学院学生创新资助计划项目). Congratulations!
 
-\[May 2024\] One paper was accepted by IEEE/ACM ToN.
+\[May 2024\] One paper was accepted by IEEE/ACM Transactions on Networking.
 
 \[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.
 
