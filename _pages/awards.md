@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Notable Reviewer of USENIX Security 2025
+
+![Notable Reviewer of USENIX Security](../images/awards/Notable-reviewer-USENIXSEC25.jpg){:height="25%" width="25%"}
+
 * Best Paper Award of IEEE ICC 2025
 
 ![Best Paper Award of IEEE ICC](../images/awards/ICC-best.jpg){:height="40%" width="40%"}

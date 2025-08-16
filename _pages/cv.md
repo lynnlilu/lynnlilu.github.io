@@ -229,6 +229,8 @@ Teaching
 
 Awards
 ======
+[**A21**] Notable Reviewer of USENIX Security 2025, Aug. 2025
+
 [**A20**] Best Paper Award of IEEE ICC 2025, Jun. 2025
 
 [**A19**] Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023, Apr. 2024
