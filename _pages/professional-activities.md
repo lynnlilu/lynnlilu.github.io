@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Professional Activities"
+title: "Services"
 permalink: /professional-activities/
 author_profile: true
 ---
-I have served for many professional activities.
+I have served for many professional services and activities.
 
 Academic Organization Service
 ======
