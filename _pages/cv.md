@@ -35,7 +35,7 @@ Publications
 ======
 I have published over 60 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J25, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security. 2025. doi: 10.1109/TIFS.2025.3598472. 
+[**J25, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security.20:8628-8642. 2025. doi: 10.1109/TIFS.2025.3598472. 
 
 [**J24, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 

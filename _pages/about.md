@@ -179,7 +179,7 @@ Featured Publications
 
 [**C10, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). Proceedings of IEEE INFOCOM. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
-[**J1, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security. 2025.
+[**J1, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security. 20:8628-8642. 2025.
 
 [**J2, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025.
 
