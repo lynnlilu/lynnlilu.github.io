@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Services"
-permalink: /professional-activities/
+permalink: /services/
 author_profile: true
 ---
 I have served for many professional services and activities.
