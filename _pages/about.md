@@ -43,7 +43,7 @@ News
 
 \[Sep. 2024\] I was elevated to a Senior Member of CCF. [Pic](https://lynnlilu.github.io/images/awards/CCFsm.jpg)
 
-\[Sep. 2024\] I was invited to be Autonomous Vehicles Member of IEEE VTS AdHoc Committee on Autonomous Vehicles. [Link](https://vtsociety.org/contact/dr-li-lu)
+\[Sep. 2024\] I was invited to be an Autonomous Vehicles Member of IEEE VTS Technical Committee on Autonomous Vehicles. [Link](https://vtsociety.org/contact/dr-li-lu)
 
 \[Jul. 2024\] One paper was recognized as a highly cited paper of Essential Science Indicators. [Link](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000607805200004)
 
