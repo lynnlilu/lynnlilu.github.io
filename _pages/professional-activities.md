@@ -34,41 +34,29 @@ Technical Program Committee Member
 
 Reviewer
 ======
-* IEEE Transactions on Information Forensics and Security
-* IEEE Transactions on Dependable and Secure Computing
-* IEEE Transactions on Mobile Computing
-* IEEE/ACM Transactions on Networking
-* IEEE Transactions on Services Computing
-* IEEE Transactions on Computers
-* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
-* ACM Computing Surveys
-* Computer Science Review
-* IEEE Transactions on Vehicular Technology
-* ACM Transactions on Sensor Networks
-* ACM Transactions on Embedded Computing Systems
-* IEEE Transactions on Multimedia
-* IEEE Transactions on Network Science and Engineering
-* Computer Networks
-* Pattern Recognition
-* Neural Networks
-* Knowledge-based Systems
-* ACM Multimedida
-* IEEE International Conference on Acoustics, Speech and Signal Processing
-* The Interspeech Conference
-* IEEE Internet of Things Journal
-* IEEE Network
-* Neurocomputing
-* IEEE Transactions on Sustainable Computing
-* Journal of Information Security and Applications
-* Automotive Innovation
-* Computer Methods and Programs in Biomedicine
-* ACM Transactions on Computing for Healthcare
-* Pervasive and Mobile Computing
-* Expert Systems with Applications
-* IEEE International Joint Conference on Neural Network 
-* IEEE Access
-* Smart Health
-* Journal of Cloud Computing
+* CCF-A:
+
+IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Services Computing (TSC), IEEE Transactions on Computers (TC), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), ACM Multimedida (MM)
+
+* JCR-Q1:
+
+ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering (TNSE), IEEE Transactions on Vehicular Technology (TVT), IEEE Network, IEEE Internet of Things Journal (IoTJ), Expert Systems with Applications (ESWA), Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare
+
+* T1:
+
+Chinese Journal of Electronics, Chinese Journal of Computers
+
+* CCF-B:
+
+ACM Transactions on Sensor Networks (TOSN), ACM Transactions on Embedded Computing Systems (TECS), IEEE Transactions on Multimedia (TMM), Computer Networks, Pattern Recognition, Neural Networks, Knowledge-based Systems (KBS), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+* CCF-C:
+
+IEEE Transactions on Sustainable Computing (TOSC), Neurocomputing, Journal of Information Security and Applications (JISA), Pervasive and Mobile Computing (PMC), The Interspeech Conference, IEEE International Joint Conference on Neural Network (IJCNN)
+
+* Others:
+
+IEEE Access, Smart Health, Journal of Cloud Computing
 
 Academic Organization Membership
 ======
