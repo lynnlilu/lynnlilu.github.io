@@ -35,13 +35,15 @@ Publications
 ======
 I have published over 60 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J25, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security.20:8628-8642. 2025. doi: 10.1109/TIFS.2025.3598472. 
+[**J26, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security.20:8628-8642. 2025. doi: 10.1109/TIFS.2025.3598472. 
 
-[**J24, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
+[**J25, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 
-[**J23, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
+[**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
-[**J22, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
+[**J23, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
+
+[**J22, JSA, CCF-B**]	Yu Xin, Xiaohang Wang, **Li Lu**, Shuguo Zhuo, Yingtao Jiang, Amit Kumar Singh, Kui Ren, Mei Yang, Kaiwei Wu. LUFT-CAN: A lightweight unsupervised learning based intrusion detection system with frequency-time analysis for vehicular CAN bus. Journal of Systems Architecture. 168, 103567. 2025. doi: [10.1016/j.sysarc.2025.103567](https://authors.elsevier.com/c/1llNQ4weOvwXQR).
 
 [**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
 
