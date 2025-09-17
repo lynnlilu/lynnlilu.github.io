@@ -38,17 +38,6 @@ Ph.D. Students
 
 Master Students
 ======
-* Zhehan Gu (顾哲涵)
-  * Duration: 2022-present
-  * Research Interests: Robust Voice Synthesis
-  * Award: Outstanding Bachelor Dissertation Award of 2022
-  * Publications on: IEEE IJCNN, ACM IUI
-
-[//]: # (* Kang Fu (傅康))
-[//]: # (  * Duration: 2021-present)
-[//]: # (  * Research Interests: Audio Adversarial Example Attacks)
-[//]: # (  * Publications on: IEEE MSN)
-
 * Xiaodi Zhao (赵小迪)
   * Duration: 2023-present
   * Research Interest: AIGC watermarking
@@ -151,10 +140,16 @@ Ph.D. Students
   * The class of 2025 graduate, Ph.D.
   * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
   * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
-  * Currently: Enginner at China Mobile Migu with Golden Seed Program
+  * Currently: Enginner at China Mobile Migu with Golden Seed Talent Program
 
 Graduate Students
 ------
+* Zhehan Gu (顾哲涵)
+  * The class of 2025 graduate, M.E.
+  * Thesis: Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference
+  * Award: Outstanding Bachelor Dissertation Award of 2022
+  * Publications on: IEEE IJCNN, ACM IUI
+  * Currently: Engineer at Huawei 2012 Laboratory
 * Lingxiao Yu (俞灵霄)
   * The class of 2025 graduate, M.E.
   * Thesis: Research on Fake Audio Detection based on Semi-fragile Watermark
@@ -171,6 +166,11 @@ Graduate Students
   * Thesis: Model-driven and Universal Speaker Side Channel Eavesdropping Attack
   * Publications on: ACM IMWUT
   * Currently: Enginner at BYD Institute of Vehicle Engineering
+
+[//]: # (* Kang Fu (傅康))
+[//]: # (  * Duration: 2021-present)
+[//]: # (  * Research Interests: Audio Adversarial Example Attacks)
+[//]: # (  * Publications on: IEEE MSN)
 
 Undergraduate Students
 ------
