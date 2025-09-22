@@ -39,7 +39,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**J25, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 
-[**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
+[**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 22(4): 3307-3323. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
 [**J23, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
 
