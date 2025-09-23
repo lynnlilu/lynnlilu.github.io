@@ -35,33 +35,33 @@ Publications
 ======
 I have published over 60 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J26, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security.20:8628-8642. 2025. doi: 10.1109/TIFS.2025.3598472. 
+[**J26, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security, 20:8628-8642. 2025. doi: 10.1109/TIFS.2025.3598472. 
 
-[**J25, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security. 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
+[**J25, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). IEEE Transactions on Information Forensics and Security, 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 
-[**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing. 22(4): 3307-3323. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
+[**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing, 22(4): 3307-3323. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
 [**J23, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
 
-[**J22, JSA, CCF-B**]	Yu Xin, Xiaohang Wang, **Li Lu**, Shuguo Zhuo, Yingtao Jiang, Amit Kumar Singh, Kui Ren, Mei Yang, Kaiwei Wu. LUFT-CAN: A lightweight unsupervised learning based intrusion detection system with frequency-time analysis for vehicular CAN bus. Journal of Systems Architecture. 168, 103567. 2025. doi: [10.1016/j.sysarc.2025.103567](https://authors.elsevier.com/c/1llNQ4weOvwXQR).
+[**J22, JSA, CCF-B**]	Yu Xin, Xiaohang Wang, **Li Lu**, Shuguo Zhuo, Yingtao Jiang, Amit Kumar Singh, Kui Ren, Mei Yang, Kaiwei Wu. LUFT-CAN: A lightweight unsupervised learning based intrusion detection system with frequency-time analysis for vehicular CAN bus. Journal of Systems Architecture, 168, 103567. 2025. doi: [10.1016/j.sysarc.2025.103567](https://authors.elsevier.com/c/1llNQ4weOvwXQR).
 
-[**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking. 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
+[**J21, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). IEEE/ACM Transactions on Networking, 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
 
-[**J20, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security. 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+[**J20, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). IEEE Transactions on Information Forensics and Security, 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
 
-[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing. 22(3): 2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
+[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. IEEE Transactions on Dependable and Secure Computing, 22(3): 2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
 
-[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing. 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
+[**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. IEEE Transactions on Dependable and Secure Computing, 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
 
-[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security. 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
+[**J17, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. IEEE Transactions on Information Forensics and Security, 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
 
-[**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security. 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
+[**J16, TIFS, CCF-A**] Feng Lin, Hao Yan, Jin Li, Ziwei Liu, **Li Lu**, Zhongjie Ba, Kui Ren. PhaDe: Practical Phantom Spoofing Attack Detection for Autonomous Vehicles. IEEE Transactions on Information Forensics and Security, 19:4199-4214. 2024. doi: [10.1109/TIFS.2024.3376192](https://www.doi.org/10.1109/TIFS.2024.3376192).
 
-[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security. 19:9534-9549. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
+[**J15, TIFS, CCF-A**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. IEEE Transactions on Information Forensics and Security, 19:9534-9549. 2024. doi: [10.1109/TIFS.2024.3410014](https://www.doi.org/10.1109/TIFS.2024.3410014).
 
-[**J14, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing. 21(4):3065-3081. 2024. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
+[**J14, TDSC, CCF-A**] Feng Lin, Chao Wang, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. High-quality Speech Recovery Through Soundproof Protections via mmWave Sensing. IEEE Transactions on Dependable and Secure Computing, 21(4):3065-3081. 2024. doi: [10.1109/TDSC.2023.3322295](https://www.doi.org/10.1109/TDSC.2023.3322295).
 
-[**J13, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking. 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
+[**J13, ToN, CCF-A**] Hao Kong, **Li Lu***, Jiadi Yu, Yingying Chen, Xiangyu Xu, Feng Lyu. [Towards Multi-User Authentication Using WiFi Signals](https://lynnlilu.github.io/publication/2022-12-journal-MultiAuth-ToN). IEEE/ACM Transactions on Networking, 31(5):2117-2132. 2023. doi: [10.1109/TNET.2023.3237686](https://www.doi.org/10.1109/TNET.2023.3237686).
 
 [**J12, TDSC, CCF-A**] Yijie Shen, Feng Lin, Chao Wang, Tiantian Liu, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MotoPrint: Reconfigurable Vibration Motor Fingerprint via Homologous Signals Learning. IEEE Transactions on Dependable and Secure Computing, 21(1):372-387. 2023. doi: [10.1109/TDSC.2023.3253507](https://www.doi.org/10.1109/TDSC.2023.3253507).
 
@@ -110,7 +110,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](2024-03-conference-VTuberBowTie-iui). Proceedings of ACM IUI. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
 
-[**C31, SenSys, CCF-B**] Ziwei Liu, Feng Lin, Teshi Meng, Benaouda Chouaib Baha-eddine, **Li Lu**, Qiang Xue, Kui Ren. EMTrig: Physical Adversarial Examples Triggered by Electromagnetic Injection towards LiDAR Perception. Proceedings of ACM SenSys. pp. 351-364. Hangzhou, China. 2024, doi: [10.1145/3666025.3699343](https://www.doi.org/10.1145/3666025.3699343).
+[**C31, SenSys, CCF-B**] Ziwei Liu, Feng Lin, Teshi Meng, Benaouda Chouaib Baha-eddine, **Li Lu**, Qiang Xue, Kui Ren. EMTrig: Physical Adversarial Examples Triggered by Electromagnetic Injection towards LiDAR Perception. Proceedings of ACM SenSys. pp. 351-364. Hangzhou, China. 2024. doi: [10.1145/3666025.3699343](https://www.doi.org/10.1145/3666025.3699343).
 
 [**C30, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
 
@@ -221,11 +221,11 @@ Patents
 
 Teaching
 ======
-[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2024
+[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2025
 
 [**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2025
 
-[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2024
+[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2025
 
 [**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
