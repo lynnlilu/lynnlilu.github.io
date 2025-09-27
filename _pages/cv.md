@@ -88,11 +88,13 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Conference Papers
-[**C42, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu***, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
+[**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu***, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
-[**C41, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
+[**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
 
-[**C40, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE/INNS IJCNN. Rome, Italy. 2025. doi: to appear. 
+[**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE/INNS IJCNN. Rome, Italy. 2025. doi: to appear. 
+
+[**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. Proceedings of ACM MobiSys 2025. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
 
 [**C39, DAC, CCF-A**] Yunlang Cai, Hanxue Shi, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren. On Bit-level Reverse Engineering of Vehicular CAN Bus. Proceedings of DAC. Moscone West, San Francisco, USA. 2025, doi: to appear.
 
