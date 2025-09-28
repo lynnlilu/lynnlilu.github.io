@@ -8,7 +8,7 @@ permalink: /publication/2024-08-conference-FraudWhistler-usenixsec
 date: 2024-08-14
 venue: 'Proceedings of USENIX Security Symposium'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Kun Wang, Xiangyu Xu, <b>Li Lu</b>*, Zhongjie Ba, Feng Lin, Kui Ren. &quot;FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition.&quot; <i>Proceedings of USENIX Security Symposium</i>. Philadelphia, PA, USA. 2024. doi: to appear.'
+citation: 'Kun Wang, Xiangyu Xu, <b>Li Lu</b>*, Zhongjie Ba, Feng Lin, Kui Ren. &quot;FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition.&quot; <i>Proceedings of USENIX Security Symposium</i>. Philadelphia, PA, USA. 2024.'
 ---
 
 USENIX Security Symposium is one of the Top-Four international conferences on cyber security. USENIX SEC is a CCF-A conference.
