@@ -90,7 +90,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 ## Conference Papers
 [**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu***, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
-[**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: to appear.
+[**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: [10.1109/ICC52391.2025.11160828](https://www.doi.org/10.1109/ICC52391.2025.11160828).
 
 [**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE/INNS IJCNN. Rome, Italy. 2025. doi: to appear. 
 
