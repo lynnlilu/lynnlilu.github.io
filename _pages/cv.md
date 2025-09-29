@@ -96,7 +96,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. Proceedings of ACM MobiSys 2025. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
 
-[**C39, DAC, CCF-A**] Yunlang Cai, Hanxue Shi, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren. On Bit-level Reverse Engineering of Vehicular CAN Bus. Proceedings of DAC. Moscone West, San Francisco, USA. 2025, doi: to appear.
+[**C39, DAC, CCF-A**] Yunlang Cai, Hanxue Shi, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren. On Bit-level Reverse Engineering of Vehicular CAN Bus. Proceedings of DAC. Moscone West, San Francisco, USA. 2025, doi: [10.1109/DAC63849.2025.11132421](https://www.doi.org/10.1109/DAC63849.2025.11132421).
 
 [**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). Proceedings of USENIX Security Symposium. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-meng).
 
