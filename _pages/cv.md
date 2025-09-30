@@ -181,6 +181,10 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P23**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向音频伪造算法的通用测试方法](https://lynnlilu.github.io/patents/2025-patent-8). ZL202411832268.1. 2025.
+
+[**P22**] **Li Lu**, Kang Fu, Qianniu Chen, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种针对声纹识别防御模块的对抗样本构造方法](https://lynnlilu.github.io/patents/2025-patent-7). ZL202211595730.1. 2025.
+
 [**P21**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于时空特征注意力模型的伪造音频检测方法及装置](https://lynnlilu.github.io/patents/2025-patent-6). ZL202310772789.1. 2025.
 
 [**P20**]	**Li Lu**, Junhao Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向超声波声纹防伪的数据增强方法及装置](https://lynnlilu.github.io/patents/2025-patent-5). ZL202211595644.0. 2025.
