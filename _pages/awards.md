@@ -6,7 +6,7 @@ author_profile: true
 ---
 * Notable Reviewer of USENIX Security 2025
 
-![Notable Reviewer of USENIX Security](../images/awards/Notable-reviewer-USENIXSEC25.jpg){:height="25%" width="25%"}
+![Notable Reviewer of USENIX Security](../images/awards/sec25_notable-reviewer.jpg){:height="25%" width="25%"}
 
 * Best Paper Award of IEEE ICC 2025
 
