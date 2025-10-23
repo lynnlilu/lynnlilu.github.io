@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-* Notable Reviewer of USENIX Security 2025
+* Notable Reviewer Award of USENIX Security 2025
 
 ![Notable Reviewer of USENIX Security](../images/awards/sec25_notable-reviewer.jpg){:height="25%" width="25%"}
 
