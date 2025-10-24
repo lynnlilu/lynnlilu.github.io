@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Aug. 2025\] I was recognized as a notable reviewer of USENIX Security 2025. [Pic](https://lynnlilu.github.io/images/awards/Notable-reviewer-USENIXSEC25.jpg)
+\[Aug. 2025\] I was recognized as a notable reviewer of USENIX Security 2025. [Link](https://www.usenix.org/sites/default/files/sec25_message_addendum.pdf)
 
 \[Aug. 2025\] One paper was accepted by IEEE Transactions on Information Forensics and Security, which was completed by my advised Ph.D. student Junhao Wang. Congratulations!
 
