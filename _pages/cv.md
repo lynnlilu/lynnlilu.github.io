@@ -41,7 +41,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. IEEE Transactions on Dependable and Secure Computing, 22(4): 3307-3323. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
-[**J23, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
+[**J23, TMC, CCF-A**]	Biyun Sheng, Jiabin Li, Hui Cai, Yiping Zuo, **Li Lu**, Fu Xiao. mmZeAR: Zero-effort Cross-category Action Recognition with MmWave Radar. IEEE Transactions on Mobile Computing, 24(10): 11164-11179. 2025. doi: [10.1109/TMC.2025.3573168](https://www.doi.org/10.1109/TMC.2025.3573168).
 
 [**J22, JSA, CCF-B**]	Yu Xin, Xiaohang Wang, **Li Lu**, Shuguo Zhuo, Yingtao Jiang, Amit Kumar Singh, Kui Ren, Mei Yang, Kaiwei Wu. LUFT-CAN: A lightweight unsupervised learning based intrusion detection system with frequency-time analysis for vehicular CAN bus. Journal of Systems Architecture, 168, 103567. 2025. doi: [10.1016/j.sysarc.2025.103567](https://authors.elsevier.com/c/1llNQ4weOvwXQR).
 
