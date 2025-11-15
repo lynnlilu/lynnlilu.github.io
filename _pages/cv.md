@@ -92,7 +92,7 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 [**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). Proceedings of IEEE ICC. Montreal, Canada. 2025. doi: [10.1109/ICC52391.2025.11160828](https://www.doi.org/10.1109/ICC52391.2025.11160828).
 
-[**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE/INNS IJCNN. Rome, Italy. 2025. doi: to appear. 
+[**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). Proceedings of IEEE/INNS IJCNN. Rome, Italy. 2025. doi: [10.1109/IJCNN64981.2025.11227796](https://doi.org/10.1109/IJCNN64981.2025.11227796). 
 
 [**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. Proceedings of ACM MobiSys 2025. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
 
