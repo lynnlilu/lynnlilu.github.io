@@ -55,7 +55,7 @@ News
 
 \[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.
 
-\[Mar. 2024\] My advised undergraduate student Huanyi Zheng was granted by Future Academic Rising Star Project of Zhejiang University (浙江大学未来新星计划). Congrantulations! [Link](https://bksy.zju.edu.cn/2024/0328/c28418a2895863/page.htm)
+\[Mar. 2024\] My advised undergraduate student Huanyi Zheng was granted by Future Academic Rising Star Project of Zhejiang University (浙江大学未来学术新星计划). Congrantulations! [Link](https://bksy.zju.edu.cn/2024/0328/c28418a2895863/page.htm)
 
 \[Feb. 2024\] I was recognized as the Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee. [Link](https://infocom2024.ieee-infocom.org/committees/technical-program-committee)
 
