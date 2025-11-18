@@ -181,6 +181,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P25**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962, 2025.
+
 [**P24**] **Li Lu**, Lingxiao Yu, Qianniu Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于半脆弱水印的音频溯源装置及方法](https://lynnlilu.github.io/patents/2025-patent-9). ZL202410887938.3. 2025.
 
 [**P23**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向音频伪造算法的通用测试方法](https://lynnlilu.github.io/patents/2025-patent-8). ZL202411832268.1. 2025.
