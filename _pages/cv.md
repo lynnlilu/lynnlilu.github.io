@@ -181,6 +181,8 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P26**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941, 2025.
+
 [**P25**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962, 2025.
 
 [**P24**] **Li Lu**, Lingxiao Yu, Qianniu Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于半脆弱水印的音频溯源装置及方法](https://lynnlilu.github.io/patents/2025-patent-9). ZL202410887938.3. 2025.
