@@ -181,29 +181,31 @@ I have published over 60 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
-[**P27**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7, 2025.
+[**P28**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7, 2025.
 
-[**P26**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941, 2025.
+[**P27**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941, 2025.
 
-[**P25**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962, 2025.
+[**P26**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962, 2025.
 
-[**P24**] **Li Lu**, Lingxiao Yu, Qianniu Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于半脆弱水印的音频溯源装置及方法](https://lynnlilu.github.io/patents/2025-patent-9). ZL202410887938.3. 2025.
+[**P25**] **Li Lu**, Lingxiao Yu, Qianniu Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于半脆弱水印的音频溯源装置及方法](https://lynnlilu.github.io/patents/2025-patent-9). ZL202410887938.3. 2025.
 
-[**P23**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向音频伪造算法的通用测试方法](https://lynnlilu.github.io/patents/2025-patent-8). ZL202411832268.1. 2025.
+[**P24**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向音频伪造算法的通用测试方法](https://lynnlilu.github.io/patents/2025-patent-8). ZL202411832268.1. 2025.
 
-[**P22**] **Li Lu**, Kang Fu, Qianniu Chen, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种针对声纹识别防御模块的对抗样本构造方法](https://lynnlilu.github.io/patents/2025-patent-7). ZL202211595730.1. 2025.
+[**P23**] **Li Lu**, Kang Fu, Qianniu Chen, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种针对声纹识别防御模块的对抗样本构造方法](https://lynnlilu.github.io/patents/2025-patent-7). ZL202211595730.1. 2025.
 
 [**P21**] **Li Lu**, Kun Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于时空特征注意力模型的伪造音频检测方法及装置](https://lynnlilu.github.io/patents/2025-patent-6). ZL202310772789.1. 2025.
 
-[**P20**]	**Li Lu**, Junhao Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向超声波声纹防伪的数据增强方法及装置](https://lynnlilu.github.io/patents/2025-patent-5). ZL202211595644.0. 2025.
+[**P21**]	**Li Lu**, Junhao Wang, Zhongjie Ba, Feng Lin, Kui Ren. [一种面向超声波声纹防伪的数据增强方法及装置](https://lynnlilu.github.io/patents/2025-patent-5). ZL202211595644.0. 2025.
 
-[**P19**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
+[**P20**]	**Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于对抗样本的非侵入自适应说话人匿名系统及方法](https://lynnlilu.github.io/patents/2025-patent-1). ZL202210423544.3. 2025.
 
-[**P18**] **Li Lu**, Qianniu Chen, Xiaodi Zhao, Meng Chen, Kui Ren. [面向语音合成系统的模型水印方法、装置、计算机设备和存储介质](https://lynnlilu.github.io/patents/2025-patent-3). ZL2024118343673. 2025.
+[**P19**] **Li Lu**, Qianniu Chen, Xiaodi Zhao, Meng Chen, Kui Ren. [面向语音合成系统的模型水印方法、装置、计算机设备和存储介质](https://lynnlilu.github.io/patents/2025-patent-3). ZL2024118343673. 2025.
 
-[**P17**] Qianniu Chen, **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于声纹识别对抗性样本的物理域身份伪装系统及方法](https://lynnlilu.github.io/patents/2025-patent-4). ZL2022104238437. 2025.
+[**P18**] Qianniu Chen, **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [基于声纹识别对抗性样本的物理域身份伪装系统及方法](https://lynnlilu.github.io/patents/2025-patent-4). ZL2022104238437. 2025.
 
-[**P16**] Qianniu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL202411604235.1. 2025.
+[**P17**] Qianniu Chen, **Li Lu**, Meng Chen, Xiaodi Zhao, Kui Ren. [一种隐私保护的深度语音数字水印流式嵌入与检测方法](https://lynnlilu.github.io/patents/2025-patent-2). ZL202411604235.1. 2025.
+
+[**P16**] Zhongjie Ba, Xiaodong Chen, Liu Liu, Yunjia Qian, Peng Cheng, **Li Lu**, Feng Lin, Kui Ren. 一种针对链接攻击与伪造攻击的相机指纹隐私保护方法. ZL202211674524X. 2025.
 
 [**P15**] Liu Liu, Zhongjie Ba, Xiaodong Chen, Feng Lin, **Li Lu**, Kui Ren. 一种针对受软件噪声影响的相机指纹的匹配方法及装置. ZL2022117157940. 2025.
 
