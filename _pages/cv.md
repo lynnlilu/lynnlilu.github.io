@@ -33,7 +33,7 @@ Education Background
 
 Publications
 ======
-I have published over 60 papers on peer-reviewed conferences and journals.
+I have published over 70 papers on peer-reviewed conferences and journals.
 ## Journal Papers
 [**J26, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). IEEE Transactions on Information Forensics and Security, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
 
