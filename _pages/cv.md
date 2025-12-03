@@ -333,8 +333,9 @@ Professional Services
   * IEEE Transactions on Sustainable Computing, Neurocomputing, Journal of Information Security and Applications, Pervasive and Mobile Computing, ISCA Interspeech, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing
 * Membership: 
+  * Senior Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
   * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
-  * Member of Association of Computing Machinery ([ACM](https://www.acm.org/)), Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
+  * Professional Member of Association of Computing Machinery ([ACM](https://www.acm.org/))
 
 Talks
 ======
