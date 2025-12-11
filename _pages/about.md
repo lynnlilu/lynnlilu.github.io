@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Dec. 2025\] I was elevated to a Senior Member of IEEE. [Pic](https://lynnlilu.github.io/images/awards/SMNoti.jpg)
+\[Dec. 2025\] I was elevated to a Senior Member of IEEE. [Pic](https://lynnlilu.github.io/images/awards/IEEESM.png)
 
 \[Aug. 2025\] I was recognized as a notable reviewer of USENIX Security 2025. [Link](https://www.usenix.org/sites/default/files/sec25_message_addendum.pdf)
 
