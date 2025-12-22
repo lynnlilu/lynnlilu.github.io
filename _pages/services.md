@@ -24,7 +24,7 @@ Technical Program Committee Member
 * AAAI Conference on Artificial Intelligence (AAAI 2026)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
 * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
-* USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025)
+* USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025-2026)
 * The International conference on Artificial Intelligence of Things and Systems (AIoTSys 2025)
 * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2024-2025)
 * The 20th IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN 2024)
