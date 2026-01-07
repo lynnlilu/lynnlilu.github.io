@@ -9,7 +9,7 @@ Ph.D. Students
 ======
 * Meng Chen (陈锰)
   * Duration: 2021-present
-  * Research Interests: Adversarial Example and Backdoor on Audio Systems
+  * Research Interests: Attacks on Audio Systems
   * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Young Elite Scientist Sponsorship Program (Ph.D. Student), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
   * Publications on: USENIX Security, ACM IMWUT, IEEE TIFS, IEEE INFOCOM
 * Kun Wang (王琨)
@@ -53,6 +53,21 @@ Master Students
 * Hongshuo Jin (金鸿硕)
   * Duration: 2025-present
   * Research Interest: Audio Deepfake Detection
+
+Research Assistants
+======
+* Puhe Hao (郝谱合)
+  * Duration: 2025-present
+  * Master Student of Nanjing University of Posts and Telecommunications
+  * Research Interests: Audio Watermarking
+* Jiaqi Sun (孙佳琦)
+  * Duration: 2025-present
+  * Master Student of Hong Kong University
+  * Research Interests: Safety Evaluation Scenario Generation for Autonomous Driving
+* Hongtao Li (李宏涛)
+  * Duration: 2025-present
+  * Undergraduate Student of Beihang University, and Prospective Ph.D. Student
+  * Research Interests: Attacks on Watermarking
 
 Undergraduate Students
 ======
