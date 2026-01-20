@@ -16,6 +16,10 @@ Editorial Board Member
 ======
 * Associate Editor of IEEE Transactions on Information Forensics and Security (IEEE T-IFS)
 
+Award Committee Member
+======
+ * IEEE International Conference on Communications (IEEE ICC 2026)
+
 Technical Program Committee Member
 ======
 * USENIX Security Symposium (USENIX Security 2025-2026)
@@ -46,6 +50,11 @@ Reviewer
 * **CCF-C**: IEEE Transactions on Sustainable Computing (TOSC), Neurocomputing, Journal of Information Security and Applications (JISA), Pervasive and Mobile Computing (PMC), The Interspeech Conference, IEEE International Joint Conference on Neural Network (IJCNN)
 
 * **Others**: IEEE Access, Smart Health, Journal of Cloud Computing
+
+Academic Conference Service
+======
+* Session Chair of PCC 2024 at CCF HHME 2024
+* Moderator of FISITA Intelligent Safety Conference 2025 Cybersecurity Track
 
 Academic Organization Membership
 ======
