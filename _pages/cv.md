@@ -185,6 +185,8 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P29**] Zhongjie Ba, Bin Gong, Peng Cheng, Yuwei Wang, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 基于硬件特性的非线性注入攻击检测方法与装置. ZL2022113990841, 2026.
+
 [**P28**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7, 2025.
 
 [**P27**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941, 2025.
@@ -332,7 +334,7 @@ Professional Services
   * IEEE AIoTSys 2025, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
 * Reviewer: 
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies [**CCF-A**]
-  * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare [**JCR-Q1**]
+  * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare [**JCR-Q1**]
   * ACM Transactions on Sensor Networks, ACM Transactions on Embedded Computing Systems, IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Multimedia, Computer Networks, Pattern Recognition, Neural Networks, Knowledge-based Systems, IEEE ICASSP [**CCF-B**]
   * IEEE Transactions on Sustainable Computing, Neurocomputing, Journal of Information Security and Applications, Pervasive and Mobile Computing, ISCA Interspeech, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing
