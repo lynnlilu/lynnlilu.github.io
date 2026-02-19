@@ -25,6 +25,7 @@ Technical Program Committee Member
 * USENIX Security Symposium (USENIX Security 2025-2026)
 * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2026)
 * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)
+* ACM Multimedia (MM 2026)
 * AAAI Conference on Artificial Intelligence (AAAI 2026)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
 * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
@@ -39,7 +40,7 @@ Technical Program Committee Member
 
 Reviewer
 ======
-* **CCF-A**: IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Services Computing (TSC), IEEE Transactions on Computers (TC), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), ACM Multimedia (MM), ACL
+* **CCF-A**: IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Services Computing (TSC), IEEE Transactions on Computers (TC), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), ACL
 
 * **JCR-Q1**: ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering (TNSE), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Network, IEEE Internet of Things Journal (IoTJ), Expert Systems with Applications (ESWA), Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare
 
