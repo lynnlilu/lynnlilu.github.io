@@ -20,23 +20,27 @@ Award Committee Member
 ======
  * IEEE International Conference on Communications (IEEE ICC 2026)
 
-Technical Program Committee Member
+Area Chair & Technical Program Committee Member
 ======
-* USENIX Security Symposium (USENIX Security 2025-2026)
-* IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2026)
-* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)
-* ACM Multimedia (MM 2026)
-* AAAI Conference on Artificial Intelligence (AAAI 2026)
-* IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
-* IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
-* USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025-2026)
-* The International conference on Artificial Intelligence of Things and Systems (AIoTSys 2025)
-* IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2024-2025)
-* The 20th IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN 2024)
-* IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022-2023)
-* IEEE International Conference on Green Computing and Communication (IEEE GreenCom 2023-2024)
-* IEEE International Conference on Metaverse (IEEE Metaverse 2023)
-* CCF Annual Conference on Distributed and Parallel Computing System (CCF DPCS 2023)
+* Area Chair
+  * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2026)
+
+* Technical Program Committee Member
+  * USENIX Security Symposium (USENIX Security 2025-2026)
+  * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2026)
+  * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)
+  * ACM Multimedia (MM 2026)
+  * AAAI Conference on Artificial Intelligence (AAAI 2026)
+  * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2025)
+  * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
+  * USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025-2026)
+  * The International conference on Artificial Intelligence of Things and Systems (AIoTSys 2025)
+  * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2024-2025)
+  * The 20th IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN 2024)
+  * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022-2023)
+  * IEEE International Conference on Green Computing and Communication (IEEE GreenCom 2023-2024)
+  * IEEE International Conference on Metaverse (IEEE Metaverse 2023)
+  * CCF Annual Conference on Distributed and Parallel Computing System (CCF DPCS 2023)
 
 Reviewer
 ======

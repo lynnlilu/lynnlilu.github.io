@@ -325,6 +325,10 @@ Professional Services
   * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
 * Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security
+* Award Committee:
+  * IEEE ICC 2026 [**CCF-C**]
+* Area Chair: 
+  * ACM BCB 2026
 * Technical Program Committee: 
   * USENIX Security 2025-2026 [**Top four, CCF-A**]
   * IEEE INFOCOM 2022-2026, CVPR 2026, ACM MM 2026, AAAI 2026 [**CCF-A**]
