@@ -14,7 +14,7 @@ Research Experience
 ======
 * Jul. 2020-present: Research Professor (特聘研究员)
   * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. My research interests include intelligent voice security, autonomous driving security, IoT security, ubiquitous computing, mobile sensing.
+  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of College of [Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and [School of Cyber Science and Technology](https://icsr.zju.edu.cn/icsren/) at Zhejiang University, also affiliated with the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/). My research interests include intelligent voice security, autonomous driving security, IoT security, ubiquitous computing, mobile sensing.
 
 * Aug. 2015-Jun. 2020: Research Assistant
   * Shanghai Jiao Tong University
@@ -23,7 +23,7 @@ Research Experience
 
 * Oct. 2018-Sep. 2019: Visiting Research Student
   * Rutgers, The State University of New Jersey (Rutgers University)
-  * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory (WINLAB) and Department of Electrical and Computer Engineering. And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
+  * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://ece.rutgers.edu/). And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
   * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (ACM/IEEE/NAI Fellow)
 
 Education Background
