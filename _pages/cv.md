@@ -185,6 +185,8 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P30**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
+
 [**P29**] Zhongjie Ba, Bin Gong, Peng Cheng, Yuwei Wang, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 基于硬件特性的非线性注入攻击检测方法与装置. ZL2022113990841, 2026.
 
 [**P28**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7, 2025.
