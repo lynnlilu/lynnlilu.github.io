@@ -321,6 +321,7 @@ Media Coverage
 Professional Services
 ======
 * Academic Organization Service: 
+  * Executive Committee Member in CCF Technical Committee on Network and System Security
   * Executive Committee Member in CCF Technical Committee on Pervasive Computing
   * Executive Committee Member in CCF Data Governance Development Committee
   * Executive Committee Member in CCF Technical Committee on Internet of Things
