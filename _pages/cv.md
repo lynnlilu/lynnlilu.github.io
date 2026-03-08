@@ -327,7 +327,7 @@ Professional Services
   * Executive Committee Member in CCF Technical Committee on Internet of Things
   * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
-* Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security
+* Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security, Editorial Board Member of Journal of Networking and Network Applications
 * Award Committee:
   * IEEE ICC 2026 [**CCF-C**]
 * Area Chair: 
