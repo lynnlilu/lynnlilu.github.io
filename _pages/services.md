@@ -51,7 +51,7 @@ Reviewer
 
 * **T1**: Chinese Journal of Electronics, Chinese Journal of Computers, ENGINEERING Information Technology & Electronic Engineering
 
-* **CCF-B**: ACM Transactions on Embedded Computing Systems (TECS), IEEE Transactions on Audio, Speech and Language Processing (TASLP), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), The Interspeech Conference
+* **CCF-B**: ACM Transactions on Embedded Computing Systems (TECS), IEEE Transactions on Audio, Speech and Language Processing (TASLP), ACM Transactions on Privacy and Security (TOPS), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), The Interspeech Conference
 
 * **CCF-C**: Journal of Information Security and Applications (JISA), Pervasive and Mobile Computing (PMC), IEEE International Joint Conference on Neural Network (IJCNN)
 

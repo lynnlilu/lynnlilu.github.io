@@ -344,7 +344,7 @@ Professional Services
 * Reviewer: 
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Transactions on Multimedia, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACL [**CCF-A**]
   * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare, Pattern Recognition, Neural Networks, Knowledge-based Systems, Computer Networks, ACM Transactions on Sensor Networks, IEEE Transactions on Sustainable Computing, Neurocomputing [**JCR-Q1**]
-  * ACM Transactions on Embedded Computing Systems, IEEE Transactions on Audio, Speech and Language Processing, IEEE ICASSP, ISCA Interspeech [**CCF-B**]
+  * ACM Transactions on Embedded Computing Systems, IEEE Transactions on Audio, Speech and Language Processing, ACM Transactions on Privacy and Security, IEEE ICASSP, ISCA Interspeech [**CCF-B**]
   * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing, IET Communications
 * Membership: 
