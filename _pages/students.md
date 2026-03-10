@@ -11,7 +11,7 @@ Ph.D. Students
   * Duration: 2021-present
   * Research Interests: Attacks on Audio Systems
   * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Young Elite Scientist Sponsorship Program (Ph.D. Student), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
-  * Publications on: USENIX Security, ACM IMWUT, IEEE TIFS, IEEE INFOCOM
+  * Publications on: IEEE S&P, USENIX Security, ACM IMWUT/UbiComp, IEEE TIFS, IEEE INFOCOM
 * Kun Wang (王琨)
   * Duration: 2021-present
   * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
