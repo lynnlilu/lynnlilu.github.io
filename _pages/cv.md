@@ -92,6 +92,8 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. Smart Health, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Conference Papers
+[**C45, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu***, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2026, doi: to appear.
+
 [**C44, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. Proceedings of AAAI. Singapore. 2026. doi: to appear. 
 
 [**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu***, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). Proceedings of IEEE S&P. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
@@ -187,6 +189,8 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
+[**P31**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
+
 [**P30**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
 
 [**P29**] Zhongjie Ba, Bin Gong, Peng Cheng, Yuwei Wang, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 基于硬件特性的非线性注入攻击检测方法与装置. ZL2022113990841, 2026.
