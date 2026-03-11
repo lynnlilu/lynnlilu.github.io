@@ -14,8 +14,8 @@ Academic Organization Service
 
 Editorial Board Member
 ======
-* Associate Editor of IEEE Transactions on Information Forensics and Security (IEEE T-IFS)
-* Editorial Board Member of Journal of Networking and Network Applications
+* Associate Editor of [IEEE Transactions on Information Forensics and Security(https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board) (IEEE T-IFS)
+* Editorial Board Member of [Journal of Networking and Network Applications](https://iecscience.org/journals/J-NaNA)
 
 Award Committee Member
 ======
