@@ -30,7 +30,7 @@ Area Chair & Technical Program Committee Member
   * USENIX Security Symposium (USENIX Security 2025-2026)
   * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2026)
   * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)
-  * ACM Multimedia (MM 2026)
+  * ACM International Conference on Multimedia (MM 2026)
   * AAAI Conference on Artificial Intelligence (AAAI 2026)
   * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2026)
   * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
