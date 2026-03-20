@@ -253,7 +253,7 @@ Patents
 
 Teaching
 ======
-[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2025
+[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2026
 
 [**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2025
 
