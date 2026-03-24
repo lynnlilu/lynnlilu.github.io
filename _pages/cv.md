@@ -94,7 +94,7 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 ## Conference Papers
 [**C45, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. 2026, doi: to appear.
 
-[**C44, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. Singapore. 2026. doi: to appear. 
+[**C44, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
 
 [**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
