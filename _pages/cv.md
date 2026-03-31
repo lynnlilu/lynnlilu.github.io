@@ -35,6 +35,8 @@ Publications
 ======
 I have published over 70 papers on peer-reviewed conferences and journals.
 ## Journal Papers
+[**J29, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
+
 [**J28, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, Li Lu, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
 
 [**J27, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
@@ -333,7 +335,10 @@ Professional Services
   * Executive Committee Member in CCF Technical Committee on Internet of Things
   * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
   * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
-* Editorial Board Member: Associate Editor of IEEE Transactions on Information Forensics and Security, Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), Editorial Board Member of Journal of Networking and Network Applications
+* Editorial Board Member: 
+  * Associate Editor of IEEE Transactions on Information Forensics and Security
+  * Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
+  * Editorial Board Member of Journal of Networking and Network Applications
 * Award Committee:
   * IEEE ICC 2026 [**CCF-C**]
 * Area Chair: 
