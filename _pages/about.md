@@ -163,7 +163,7 @@ News
 
 Featured Publications
 ======
-[**C1, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. 2025.
+[**C1, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 4663-4681. 2025.
 
 [**C2, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
 
@@ -173,7 +173,7 @@ Featured Publications
 
 [**C5, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(1):32:1-32:22. Cancun, Mexico. 2023.
 
-[**C6, INFOCOM, CCF-A**] Meng Chen, **Li Lu**\*, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. Virtual. 2022.
+[**C6, INFOCOM, CCF-A**] Meng Chen, **Li Lu**\*, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. Virtual. pp. 1419-1428. 2022.
 
 [**C7, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 4(2):51:1-51:24. Cancun, Mexico. 2020.
 
