@@ -43,7 +43,7 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 [**J26, TIFS, CCF-A**] Meng Zhang, **Li Lu**\*, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). *IEEE Transactions on Information Forensics and Security*, 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 
-[**J25, TC, CCF-A**] Hanxue Shi, Yunlang Cai, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren, Kaiwei Wu, Yinhe Shen. FBRE: Fuzzing Based Bit-level Reverse Engineering of Vehicular CAN Bus. *IEEE Transactions on Computers*. 2025. doi: [10.1109/TC.2025.3647888](https://www.doi.org/10.1109/TC.2025.3647888).
+[**J25, TC, CCF-A**] Hanxue Shi, Yunlang Cai, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren, Kaiwei Wu, Yinhe Shen. FBRE: Fuzzing Based Bit-level Reverse Engineering of Vehicular CAN Bus. *IEEE Transactions on Computers*, 75(4):1403-1417. 2025. doi: [10.1109/TC.2025.3647888](https://www.doi.org/10.1109/TC.2025.3647888).
 
 [**J24, TDSC, CCF-A**] Ziwei Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Kui Ren. MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection. *IEEE Transactions on Dependable and Secure Computing*, 22(4): 3307-3323. 2025. doi: [10.1109/TDSC.2025.3529197](https://www.doi.org/10.1109/TDSC.2025.3529197).
 
@@ -55,7 +55,7 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 [**J20, TIFS, CCF-A**] Meng Chen, **Li Lu**\*, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). *IEEE Transactions on Information Forensics and Security*, 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
 
-[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. *IEEE Transactions on Dependable and Secure Computing*, 22(3): 2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
+[**J19, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. *IEEE Transactions on Dependable and Secure Computing*, 22(3):2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
 
 [**J18, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. *IEEE Transactions on Dependable and Secure Computing*, 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
 
