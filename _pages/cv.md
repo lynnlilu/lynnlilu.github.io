@@ -191,17 +191,19 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
-[**P31**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
+[**P32**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
 
-[**P30**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
+[**P31**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
 
-[**P29**] Zhongjie Ba, Bin Gong, Peng Cheng, Yuwei Wang, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 基于硬件特性的非线性注入攻击检测方法与装置. ZL2022113990841, 2026.
+[**P30**] Zhongjie Ba, Peng Huang, Yao Wei, Peng Cheng, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 一种基于人类语音结构的语音干扰噪声设计方法. ZL2022114278110. 2026.
 
-[**P28**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7, 2025.
+[**P29**] Zhongjie Ba, Bin Gong, Peng Cheng, Yuwei Wang, **Li Lu**, Feng Lin, Zhenguang Liu, Kui Ren. 基于硬件特性的非线性注入攻击检测方法与装置. ZL2022113990841. 2026.
 
-[**P27**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941, 2025.
+[**P28**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于房间脉冲响应的语音后门验证方法和装置](https://lynnlilu.github.io/patents/2025-patent-12). ZL202310533603.7. 2025.
 
-[**P26**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962, 2025.
+[**P27**] **Li Lu**, Xiaodi Zhao, Meng Chen, Kui Ren. [基于声纹识别系统服务拒绝后门的安全性测试方法和装置](https://lynnlilu.github.io/patents/2025-patent-11). ZL2024110915941. 2025.
+
+[**P26**] **Li Lu**, Qianniu Chen, Zhan Qin, Kui Ren. [用于流式音频的高精度动态水印方法和装置](https://lynnlilu.github.io/patents/2025-patent-10). ZL2025109849962. 2025.
 
 [**P25**] **Li Lu**, Lingxiao Yu, Qianniu Chen, Zhongjie Ba, Feng Lin, Kui Ren. [一种基于半脆弱水印的音频溯源装置及方法](https://lynnlilu.github.io/patents/2025-patent-9). ZL202410887938.3. 2025.
 
