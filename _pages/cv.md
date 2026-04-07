@@ -98,13 +98,13 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 [**C44, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
 
-[**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
+[**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. pp. 4663-4681. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
 [**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu**\*, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). *Proceedings of IEEE ICC*. Montreal, Canada. 2025. doi: [10.1109/ICC52391.2025.11160828](https://www.doi.org/10.1109/ICC52391.2025.11160828).
 
 [**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu**\*. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). *Proceedings of IEEE/INNS IJCNN*. Rome, Italy. 2025. doi: [10.1109/IJCNN64981.2025.11227796](https://doi.org/10.1109/IJCNN64981.2025.11227796). 
 
-[**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. *Proceedings of ACM MobiSys*. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
+[**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. *Proceedings of ACM MobiSys*. pp. 515-527. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
 
 [**C39, DAC, CCF-A**] Yunlang Cai, Hanxue Shi, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren. On Bit-level Reverse Engineering of Vehicular CAN Bus. *Proceedings of DAC*. Moscone West, San Francisco, USA. 2025, doi: [10.1109/DAC63849.2025.11132421](https://www.doi.org/10.1109/DAC63849.2025.11132421).
 
@@ -112,7 +112,7 @@ I have published over 70 papers on peer-reviewed conferences and journals.
 
 [**C37, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun).
 
-[**C36, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. *Proceedings of IEEE S&P*. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
+[**C36, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. *Proceedings of IEEE S&P*. pp. 1628-1645. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
 
 [**C35, USENIX SEC, CCF-A**] Tiantian Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Zhan Qin, Kui Ren. MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices. *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian).
 
