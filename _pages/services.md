@@ -42,6 +42,7 @@ Area Chair & Technical Program Committee Member
   * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2019/2022-2023)
   * IEEE International Conference on Green Computing and Communication (IEEE GreenCom 2023-2024)
   * IEEE International Conference on Metaverse (IEEE Metaverse 2023)
+  * CCF Annual Conference on Wireless Sensor Networks (CCF CWSN 2025)
   * CCF Annual Conference on Distributed and Parallel Computing System (CCF DPCS 2023)
 
 Reviewer
@@ -60,6 +61,7 @@ Reviewer
 
 Academic Conference Service
 ======
+* Sponsorship Co-chair of ACM Turing Award Celebration Conference China 2026
 * Session Chair of PCC 2024 at CCF HHME 2024
 * Moderator of FISITA Intelligent Safety Conference 2025 Cybersecurity Track
 
