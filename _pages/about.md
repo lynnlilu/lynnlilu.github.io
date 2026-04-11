@@ -203,7 +203,8 @@ Professional Services
 ======
 * Editorial Board Member: IEEE Transactions on Information Forensics and Security, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), Journal of Networking and Network Applications.
 * Technical Program Committee: USENIX Security 2025-2026, IEEE INFOCOM 2022-2027, CVPR 2026, ACM MM 2026, AAAI 2026, IEEE/ACM IWQoS 2021/2023-2026, IEEE ICDCS 2022-2023, USENIX VehicleSec 2025-2026, IEEE TrustCom 2024-2025, IEEE GreenCom 2023-2024, etc.
-* Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, ACM Computing Surveys, Computer Science Review, ACL, IEEE ICASSP, etc.
 * Academic Organization Service: Executive Committee Member in CCF Technical Committee on Network and System Security, Technical Committee on Pervasive Computing, Data Governance Development Committee and Technical Committee on Internet of Things, Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles.
+
+[//]: # (* Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, ACM Computing Surveys, Computer Science Review, ACL, IEEE ICASSP, etc.)
 
 [//]: # (* Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)), Association of Computing Machinery ([ACM](https://www.acm.org/)), Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)), Chinese Institute of Electronics ([CIE](https://www.cie.org.cn/)), Chinese Association for Artifical Intelligence ([CAAI](https://www.caai.cn)).)
