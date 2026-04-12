@@ -55,7 +55,7 @@ Reviewer
 
 * **CCF-B**: ACM Transactions on Embedded Computing Systems (TECS), IEEE Transactions on Audio, Speech and Language Processing (TASLP), ACM Transactions on Privacy and Security (TOPS), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), The Interspeech Conference
 
-* **CCF-C**: Journal of Information Security and Applications (JISA), Pervasive and Mobile Computing (PMC), IEEE International Joint Conference on Neural Network (IJCNN)
+* **CCF-C**: Journal of Information Security and Applications (JISA), Pervasive and Mobile Computing (PMC), IEEE Spoken Language Technology (SLT), IEEE International Joint Conference on Neural Network (IJCNN)
 
 * **Others**: IEEE Access, Smart Health, Journal of Cloud Computing, IET Communications
 
