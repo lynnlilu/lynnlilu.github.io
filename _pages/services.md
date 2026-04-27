@@ -16,7 +16,7 @@ Editorial Board Member
 ======
 * Associate Editor of [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board) (IEEE T-IFS)
 * Associate Editor of [Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut/editorial-board) (ACM IMWUT/UbiComp)
-* Editorial Board Member of [Journal of Networking and Network Applications](https://iecscience.org/journals/J-NaNA)
+* Editorial Board Member of [Journal of Networking and Network Applications](https://iecscience.org/journals/J-NaNA) (J-NaNA)
 
 Award Committee Member
 ======
