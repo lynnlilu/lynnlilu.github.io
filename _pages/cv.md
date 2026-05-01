@@ -359,9 +359,9 @@ Professional Services
   * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE SLT, IEEE IJCNN, IEEE ICC [**CCF-C**]
   * IEEE Access, Smart Health, Journal of Cloud Computing, IET Communications
 * Membership: 
+  * Senior Member of Association of Computing Machinery ([ACM](https://www.acm.org/))
   * Senior Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
   * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
-  * Professional Member of Association of Computing Machinery ([ACM](https://www.acm.org/))
 
 Talks
 ======
