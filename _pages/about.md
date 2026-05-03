@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[May 2026\] I was elevated to a Senior Member of ACM. [Pic](https://lynnlilu.github.io/images/awards/ACMSM.png)
+\[May 2026\] I was elevated to a Senior Member of ACM. [Link](https://awards.acm.org/senior-members/award-recipients?year=2026&award=159&region=Asia&submit=Submit&isSpecialCategory=) [Pic](https://lynnlilu.github.io/images/awards/ACMSM.png)
 
 \[Mar. 2026\] I was invited to serve as an Associate Editor of ACM IMWUT(UbiComp).
 
