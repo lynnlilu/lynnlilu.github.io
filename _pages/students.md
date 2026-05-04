@@ -24,6 +24,7 @@ Ph.D. Students
 * Yihe Zhang (章怿贺)
   * Duration: 2023-present
   * Research Interest: Software Security for Intelligent Driving Systems
+  * Publications on: IEEE/ACM IWQoS
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
   * Research Interests: Biometric Security
@@ -46,7 +47,7 @@ Master Students
 * Jiacheng Jin (金佳成)
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus
-  * Publications on: IEEE IWQoS
+  * Publications on: IEEE/ACM IWQoS
 * Zheng Yan (闫政)
   * Duration: 2025-present
   * Research Interest: Autonomous Driving Security
