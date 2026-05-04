@@ -27,7 +27,7 @@ News
 =====
 \[May 2026\] I was elevated to a Senior Member of ACM. [Link](https://awards.acm.org/senior-members/award-recipients?year=2026&award=159&region=Asia&submit=Submit&isSpecialCategory=)
 
-\[Apr. 2026\] One paper was accepted by IEEE IWQoS, which was completed by my advised master student Jiacheng Jin. Congratulations!
+\[Apr. 2026\] One paper was accepted by IEEE/ACM IWQoS, which was completed by my advised master student Jiacheng Jin. Congratulations!
 
 \[Mar. 2026\] I was invited to serve as an Associate Editor of ACM IMWUT(UbiComp).
 
