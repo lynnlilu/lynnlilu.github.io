@@ -46,6 +46,7 @@ Master Students
 * Jiacheng Jin (金佳成)
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus
+  * Publications on: IEEE IWQoS
 * Zheng Yan (闫政)
   * Duration: 2025-present
   * Research Interest: Autonomous Driving Security
