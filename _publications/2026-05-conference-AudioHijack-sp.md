@@ -5,7 +5,7 @@ catogories:
     - conference
 permalink: /publication/2026-05-conference-AudioHijack-sp
 #excerpt: ''
-date: 2026-05-19
+date: 2026-05-20
 venue: 'Proceedings of IEEE S&P'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
 citation: 'Meng Chen, Kun Wang, <b>Li Lu</b>*, Jiaheng Zhang, Tianwei Zhang. &quot;Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection.&quot; <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. 2026. doi: to appear.'
