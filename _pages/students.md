@@ -60,7 +60,7 @@ Research Assistants
 ======
 * Puhe Hao (郝谱合)
   * Duration: 2025-present
-  * Master Student of Nanjing University of Posts and Telecommunications
+  * Master Student of Nanjing University of Posts and Telecommunications, and Prospective Ph.D. Student
   * Research Interests: Audio Watermarking
 * Jiaqi Sun (孙佳琦)
   * Duration: 2025-present
@@ -77,29 +77,17 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * Qizhen Wenxue Innovation Program
-* Ning Ding (丁宁)
-  * Duration: The class of 2027
-  * Major: Engineering (Information Science)
-  * Qizhen Wenxue Innovation Program
-* Rongyang Zhu (朱容阳)
-  * Duration: The class of 2027
-  * Major: Engineering (Information Science)
-  * Qizhen Wenxue Innovation Program
-* Junhan Xu (徐浚涵)
-  * Duration: The class of 2027
-  * Major: Mechanical Engineering (ZJU-UIUC Institute)
-  * Qizhen Wenxue Innovation Program
 * Guanwen Lu (卢冠雯)
   * Duration: The class of 2027
   * Major: Turing Honor Class (Artificial Intelligence)
-* Junjie Yang (杨俊杰)
-  * Duration: The class of 2027
-  * Major: Automation
-  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Duheng.
 * Duheng Pan (潘度衡)
   * Duration: The class of 2027
   * Major: Computer Science and Technology
   * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Junjie.
+* Junjie Yang (杨俊杰)
+  * Duration: The class of 2027
+  * Major: Automation
+  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Duheng.
 * Zuokai Yang (杨作凯)
   * Duration: The class of 2027
   * Major: Information Security
@@ -220,6 +208,18 @@ Undergraduate Students
   * Major: Cyber Science
   * Thesis: Anti-spoofing Techniques for Voiceprint Authentication based on Multi-modal Sensing Fusion
   * Award: Outstanding Bachelor Dissertation Award of 2022
+* Ning Ding (丁宁)
+  * Duration: The class of 2027
+  * Major: Engineering (Information Science)
+  * Qizhen Wenxue Innovation Program
+* Rongyang Zhu (朱容阳)
+  * Duration: The class of 2027
+  * Major: Engineering (Information Science)
+  * Qizhen Wenxue Innovation Program
+* Junhan Xu (徐浚涵)
+  * Duration: The class of 2027
+  * Major: Mechanical Engineering (ZJU-UIUC Institute)
+  * Qizhen Wenxue Innovation Program
 
 Undergraduate Students of SRTP
 ------
