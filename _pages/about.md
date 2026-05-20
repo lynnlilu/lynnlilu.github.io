@@ -65,13 +65,13 @@ News
 
 \[May 2024\] One paper was accepted by IEEE/ACM Transactions on Networking.
 
-\[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.
+[//]: #  (\[Apr. 2024\] I was recognized as the Excellent Reviewer of IEEE Transactions on Network Science and Engineering at 2023.)
 
 \[Mar. 2024\] My advised undergraduate student Huanyi Zheng was granted by Future Academic Rising Star Project of Zhejiang University (浙江大学未来学术新星计划). Congrantulations! [Link](https://bksy.zju.edu.cn/2024/0328/c28418a2895863/page.htm)
 
 \[Feb. 2024\] I was recognized as the Distinguished Member of the IEEE INFOCOM 2024 Technical Program Committee. [Link](https://infocom2024.ieee-infocom.org/committees/technical-program-committee)
 
-\[Jan. 2024\] I recieved the Distinguished Service Award of IEEE GreenCom.
+[//]: #  (\[Jan. 2024\] I recieved the Distinguished Service Award of IEEE GreenCom.)
 
 \[Dec. 2023\] I received the Outstanding Collaboration Award of HW-ZJU Joint Lab.
 
@@ -119,9 +119,9 @@ News
 
 [//]: # (\[Jan. 2021\] One paper was accepted by IEEE ICC 2021.)
 
-\[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638)
+[//]: #  (\[Dec. 2020\] I received the 2020 Shanghai Computer Society Doctoral Dissertation Award Nominations. [Link](http://scs.sh.cn/shhash/shjsjxh/hash/hyhdzj/2020/12/21/2c93fc15764be4a101768338cb092724.html?tm=1608519346638))
 
-\[Nov. 2020\] I received the 2020 ACM China SIGAPP Chapter Doctoral Dissertation Award. [Link](http://www.acmturc.com/2021/cn/doctoral_thesis_award.html)
+[//]: #  (\[Nov. 2020\] I received the 2020 ACM China SIGAPP Chapter Doctoral Dissertation Award. [Link](http://www.acmturc.com/2021/cn/doctoral_thesis_award.html))
 
 [//]: # (\[Oct. 2020\] One paper was accepted by ACM SenSys 2020.)
 
