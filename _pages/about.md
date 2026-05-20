@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[May 2026\] Our work on &quot;Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/voice-ai-audio-attacks).
+
 \[May 2026\] I was elevated to a Senior Member of ACM. [Link](https://awards.acm.org/senior-members/award-recipients?year=2026&award=159&region=Asia&submit=Submit&isSpecialCategory=)
 
 \[Apr. 2026\] One paper was accepted by IEEE/ACM IWQoS, which was completed by my advised master student Jiacheng Jin. Congratulations!
@@ -167,25 +169,27 @@ News
 
 Featured Publications
 ======
-[**C1, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 4663-4681. 2025.
+[**C1, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. 2026.
 
-[**C2, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
+[**C2, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 4663-4681. 2025.
 
-[**C3, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
+[**C3, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
 
-[**C4, UbiComp, CCF-A**] Meng Chen, **Li Lu**\*, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(2):48:1-48:21. Cancun, Mexico. 2023.
+[**C4, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
 
-[**C5, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(1):32:1-32:22. Cancun, Mexico. 2023.
+[**C5, UbiComp, CCF-A**] Meng Chen, **Li Lu**\*, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(2):48:1-48:21. Cancun, Mexico. 2023.
 
-[**C6, INFOCOM, CCF-A**] Meng Chen, **Li Lu**\*, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. Virtual. pp. 1419-1428. 2022.
+[**C6, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(1):32:1-32:22. Cancun, Mexico. 2023.
 
-[**C7, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 4(2):51:1-51:24. Cancun, Mexico. 2020.
+[**C7, INFOCOM, CCF-A**] Meng Chen, **Li Lu**\*, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. Virtual. pp. 1419-1428. 2022.
 
-[**C8, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 3(3):97:1-97:22. London, England. 2019.
+[**C8, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 4(2):51:1-51:24. Cancun, Mexico. 2020.
 
-[**C9, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). *Proceedings of IEEE INFOCOM*. Paris, France. pp. 775-783. 2019. 
+[**C9, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 3(3):97:1-97:22. London, England. 2019.
 
-[**C10, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). *Proceedings of IEEE INFOCOM*. Honolulu, HI, USA. pp. 1466-1474. 2018.
+[**C10, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). *Proceedings of IEEE INFOCOM*. Paris, France. pp. 775-783. 2019. 
+
+[**C11, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). *Proceedings of IEEE INFOCOM*. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
 [**J1, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*. 20:8628-8642. 2025.
 

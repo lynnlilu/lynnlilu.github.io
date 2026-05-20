@@ -317,6 +317,7 @@ Awards
 
 Media Coverage
 ======
+* IEEE Spectrum, ["Voice AI Systems Are Vulnerable to Hidden Audio Attacks > Research shows sounds unheard by human ears can hijack models’ behavior"](https://spectrum.ieee.org/voice-ai-audio-attacks)
 * IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
 * 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
 * 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
