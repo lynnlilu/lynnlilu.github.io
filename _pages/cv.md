@@ -318,10 +318,8 @@ Awards
 Media Coverage
 ======
 * IEEE Spectrum, ["Voice AI Systems Are Vulnerable to Hidden Audio Attacks > Research shows sounds unheard by human ears can hijack models’ behavior"](https://spectrum.ieee.org/voice-ai-audio-attacks)
-* RobotToday，[“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://robottoday.com/industry-briefing/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks/2209)
-* AI ForeSights, [“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://www.aiforesights.com/article/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks-mpb3l8a6)
-* Ideaverse.ai, [“Hidden Audio Attacks: How Voice AI Can Be Hijacked by Inaudible Signals”](https://ideaverse.ai/blog/hidden-audio-attacks-how-voice-ai-can-be-hijacked-by-inaudible-signals-mpbozvq4)
 * IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
+* 新浪科技, [“语音 AI 系统易遭受隐秘音频攻击”](https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhymivk0030928.shtml)
 * 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
 * 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
 * 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
@@ -329,6 +327,11 @@ Media Coverage
 * 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
 * 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
 * 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
+* RobotToday，[“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://robottoday.com/industry-briefing/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks/2209)
+* AI ForeSights, [“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://www.aiforesights.com/article/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks-mpb3l8a6)
+* Ideaverse.ai, [“Hidden Audio Attacks: How Voice AI Can Be Hijacked by Inaudible Signals”](https://ideaverse.ai/blog/hidden-audio-attacks-how-voice-ai-can-be-hijacked-by-inaudible-signals-mpbozvq4)
+* Futurism, [“Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot”](https://futurism.com/artificial-intelligence/hackers-inaudible-recordings-hijack-ai-voice-chatbots)
+* Cybernews, [“AI voice assistances hijacked by hidden audio commands”](https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks)
 * ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
 * BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
 * TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
