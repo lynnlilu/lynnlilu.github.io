@@ -35,9 +35,9 @@ Publications
 ======
 I have published over 70 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J30, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
+[**J30, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
 
-[**J29, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
+[**J29, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
 [**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*. 2026. doi: to appear.
 
