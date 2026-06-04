@@ -263,15 +263,15 @@ Patents
 
 Teaching
 ======
-[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2026
+[**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2025
 
-[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2025
+[**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2026
 
-[**T3**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2025
+[**T3**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2026
 
-[**T2**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
+[**T2**] Wireless and IoT Security, Graduate Course, Fall-Winter 2020-2025
 
-[**T1**] Foundations of Wireless and IoT Security, Undergraduate Course, Spring-Summer 2021-2025
+[**T1**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
 Awards
 ======
