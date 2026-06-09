@@ -12,10 +12,6 @@ Ph.D. Students
   * Research Interests: Attacks on Audio Systems
   * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Doctoral Student Program of the Young S&T Talents Cultivation Project (CAST), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
   * Publications on: IEEE S&P, USENIX Security, ACM IMWUT/UbiComp, IEEE TIFS, IEEE INFOCOM
-* Kun Wang (王琨)
-  * Duration: 2021-present
-  * Research Interests: Voice Anti-spoofing in Physical and Cyber Spaces
-  * Publications on: USENIX Security, IEEE S&P
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
@@ -77,56 +73,21 @@ Undergraduate Students
   * Duration: The class of 2026
   * Major: Computer Science and Technology
   * Qizhen Wenxue Innovation Program
-* Guanwen Lu (卢冠雯)
-  * Duration: The class of 2027
-  * Major: Turing Honor Class (Artificial Intelligence)
-* Duheng Pan (潘度衡)
-  * Duration: The class of 2027
-  * Major: Computer Science and Technology
-  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Junjie.
-* Junjie Yang (杨俊杰)
-  * Duration: The class of 2027
-  * Major: Automation
-  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Duheng.
-* Zuokai Yang (杨作凯)
-  * Duration: The class of 2027
-  * Major: Information Security
-  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Bojun and Xinze.
-* Bojun Zhang (张伯君)
-  * Duration: The class of 2027
-  * Major: Electrical Engineering
-  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Xinze.
-* Xinze Du (杜昕泽)
-  * Duration: The class of 2027
-  * Major: Turing Honor Class
-  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Bojun.
-* Xinpeng Luo (罗新鹏)
-  * Duration: The class of 2027
-  * Major: Software Engineering
-  * SRTP: Adversarial Example Detection, collaborated with Chengguo and Yu'an.
-* Chengguo Liu (刘成果)
-  * Duration: The class of 2027
-  * Major: Computer Science and Technology
-  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Yu'an.
-* Yu'an Huang (黄雨安)
-  * Duration: The class of 2027
-  * Major: Zhukezhen Honor College (Architecture and Civil Engineering)
-  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Chengguo.
 * Haocheng Yu (余昊铖)
   * Duration: The class of 2027
   * Major: Turing Honor Class
-  * Co-advised with Prof. Tianhang Zheng
-  * SRTP: Kernel Fuzzing Optimization, collaborated with Yekai and Jinpeng.
-* Yekai Zhang (章烨凯)
+  * Research Interest: Kernel Fuzzing
+* Guanwen Lu (卢冠雯)
   * Duration: The class of 2027
-  * Major: Turing Honor Class
-  * Co-advised with Prof. Tianhang Zheng
-  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Jinpeng.
-* Jinpeng Zhang (张锦鹏)
-  * Duration: The class of 2027
-  * Major: Turing Honor Class
-  * Co-advised with Prof. Tianhang Zheng
-  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Yekai.
+  * Major: Turing Honor Class (Artificial Intelligence)
+* Chang Qin (秦畅)
+  * Duration: The class of 2028
+  * Major: Computer Science and Technology
+  * SRTP: Watermarking for Music Copyright Protection, collaborated with Zhengyu
+* Zhengyu Yuan (袁峥予)
+  * Duration: The class of 2028
+  * Major: Energy and Environmental System Engineering
+  * SRTP: Watermarking for Music Copyright Protection, collaborated with Chang
 
 Alumni
 ======
@@ -147,6 +108,11 @@ Ph.D. Students
   * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
   * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
   * Currently: Enginner at China Mobile Migu with Golden Seed Talent Program
+* Kun Wang (王琨)
+  * The class of 2026 graduate, Ph.D.
+  * Thesis: Research on Speech Attack Detection and Forgery Threat Analysis Towards Speaker Identity Security
+  * Publications on: USENIX Security, IEEE S&P
+  * Currently: 
 
 Graduate Students
 ------
@@ -223,6 +189,57 @@ Undergraduate Students
 
 Undergraduate Students of SRTP
 ------
+* Peiqi Hou (侯沛奇)
+  * Duration: The class of 2026
+  * Major: Computer Science and Technology
+  SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Duheng and Junjie.
+* Duheng Pan (潘度衡)
+  * Duration: The class of 2027
+  * Major: Computer Science and Technology
+  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Junjie.
+* Junjie Yang (杨俊杰)
+  * Duration: The class of 2027
+  * Major: Automation
+  * SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Peiqi and Duheng.
+* Zuokai Yang (杨作凯)
+  * Duration: The class of 2027
+  * Major: Information Security
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Bojun and Xinze.
+* Bojun Zhang (张伯君)
+  * Duration: The class of 2027
+  * Major: Electrical Engineering
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Xinze.
+* Xinze Du (杜昕泽)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * SRTP: Autonmous Driving Testing Scenario Generation, collaborated with Zuokai and Bojun.
+* Haocheng Yu (余昊铖)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Yekai and Jinpeng.
+* Yekai Zhang (章烨凯)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Jinpeng.
+* Jinpeng Zhang (张锦鹏)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class
+  * Co-advised with Prof. Tianhang Zheng
+  * SRTP: Kernel Fuzzing Optimization, collaborated with Haocheng and Yekai.
+* Xinpeng Luo (罗新鹏)
+  * Duration: The class of 2027
+  * Major: Software Engineering
+  * SRTP: Adversarial Example Detection, collaborated with Chengguo and Yu'an.
+* Chengguo Liu (刘成果)
+  * Duration: The class of 2027
+  * Major: Computer Science and Technology
+  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Yu'an.
+* Yu'an Huang (黄雨安)
+  * Duration: The class of 2027
+  * Major: Zhukezhen Honor College (Architecture and Civil Engineering)
+  * SRTP: Adversarial Example Detection, collaborated with Xinpeng and Chengguo.
 * Pengyu Sun (孙鹏雨)
   * Duration: The class of 2026
   * Major: Cyber Science
