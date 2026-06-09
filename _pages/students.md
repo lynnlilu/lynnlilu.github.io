@@ -107,12 +107,12 @@ Ph.D. Students
   * The class of 2025 graduate, Ph.D.
   * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
   * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
-  * Currently: Enginner at China Mobile Migu with Golden Seed Talent Program
+  * Currently: Research Scientist at China Mobile Migu with Golden Seed Talent Program
 * Kun Wang (王琨)
   * The class of 2026 graduate, Ph.D.
   * Thesis: Research on Speech Attack Detection and Forgery Threat Analysis Towards Speaker Identity Security
   * Publications on: USENIX Security, IEEE S&P
-  * Currently: 
+  * Currently: Research Scientist at Alibaba Group
 
 Graduate Students
 ------
