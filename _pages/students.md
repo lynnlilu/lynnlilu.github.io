@@ -70,7 +70,7 @@ Research Assistants
 Undergraduate Students
 ======
 * Peiqi Hou (侯沛奇)
-  * Duration: The class of 2026
+  * Duration: The class of 2027
   * Major: Computer Science and Technology
   * Qizhen Wenxue Innovation Program
 * Haocheng Yu (余昊铖)
@@ -190,7 +190,7 @@ Undergraduate Students
 Undergraduate Students of SRTP
 ------
 * Peiqi Hou (侯沛奇)
-  * Duration: The class of 2026
+  * Duration: The class of 2027
   * Major: Computer Science and Technology
   SRTP: Abnormal Autonmous Driving Scenario Generation and Evaluation, collaborated with Duheng and Junjie.
 * Duheng Pan (潘度衡)
