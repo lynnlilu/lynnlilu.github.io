@@ -363,7 +363,7 @@ Professional Services
 * Area Chair: 
   * ACM BCB 2026
 * Technical Program Committee: 
-  * USENIX Security 2025-2026 [**Top four, CCF-A**]
+  * USENIX Security 2025-2027 [**Top four, CCF-A**]
   * IEEE INFOCOM 2022-2027, CVPR 2026, ACM MM 2026, AAAI 2026 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2026, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025-2026
