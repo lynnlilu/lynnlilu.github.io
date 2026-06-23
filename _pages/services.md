@@ -28,11 +28,11 @@ Area Chair & Technical Program Committee Member
   * ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2026)
 
 * Technical Program Committee Member
-  * USENIX Security Symposium (USENIX Security 2025-2026)
+  * USENIX Security Symposium (USENIX Security 2025-2027)
   * IEEE International Conference on Computer Communications (IEEE INFOCOM 2022-2027)
   * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)
   * ACM International Conference on Multimedia (MM 2026)
-  * AAAI Conference on Artificial Intelligence (AAAI 2026)
+  * AAAI Conference on Artificial Intelligence (AAAI 2026-2027)
   * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS 2021/2023-2026)
   * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2022-2023)
   * USENIX Symposium on Vehicle Security and Privacy (USENIX VehicleSec 2025-2026)
