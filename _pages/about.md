@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jun. 2026\] One paper was accepted by IEEE TMC, which was completed by my asvised Ph.D. student Qianniu Chen. Congratulations!
+
 \[May 2026\] Our work on &quot;Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection&quot; has been reported by [IEEE Spectrum](https://spectrum.ieee.org/voice-ai-audio-attacks).
 
 \[May 2026\] I was elevated to a Senior Member of ACM. [Link](https://awards.acm.org/senior-members/award-recipients?year=2026&award=159&region=Asia&submit=Submit&isSpecialCategory=)

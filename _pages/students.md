@@ -106,7 +106,7 @@ Ph.D. Students
 * Qianniu Chen (陈钱牛)
   * The class of 2025 graduate, Ph.D.
   * Thesis: Research on Multi-dimensional Personal Information Protection for Real-time Voice Interaction
-  * Publications on: ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
+  * Publications on: IEEE TMC, ACM SenSys, ACM IUI, IEEE IJCNN, IEEE MSN
   * Currently: Research Scientist at China Mobile Migu with Golden Seed Talent Program
 * Kun Wang (王琨)
   * The class of 2026 graduate, Ph.D.
