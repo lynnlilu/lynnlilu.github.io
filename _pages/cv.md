@@ -33,13 +33,15 @@ Education Background
 
 Publications
 ======
-I have published over 70 papers on peer-reviewed conferences and journals.
+I have published over 80 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J30, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
+[**J31, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
 
-[**J29, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
+[**J30, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
-[**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*. 2026. doi: to appear.
+[**J29, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B. **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*. 2026. doi: to appear. 
+
+[**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
 
 [**J27, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
 
