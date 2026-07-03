@@ -44,6 +44,7 @@ Master Students
   * Duration: 2024-present
   * Research Interest: IDS for CAN Bus
   * Publications on: IEEE/ACM IWQoS
+  * Award: Best Paper Runner-up Award of IEEE/ACM ICWQoS
 * Zheng Yan (闫政)
   * Duration: 2025-present
   * Research Interest: Autonomous Driving Security
