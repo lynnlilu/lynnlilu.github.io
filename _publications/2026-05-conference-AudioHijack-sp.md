@@ -8,7 +8,7 @@ permalink: /publication/2026-05-conference-AudioHijack-sp
 date: 2026-05-20
 venue: 'Proceedings of IEEE S&P'
 #paperurl: 'http://lynnlilu.github.io/files/.pdf'
-citation: 'Meng Chen, Kun Wang, <b>Li Lu</b>*, Jiaheng Zhang, Tianwei Zhang. &quot;Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection.&quot; <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. 2026. doi: to appear.'
+citation: 'Meng Chen, Kun Wang, <b>Li Lu</b>*, Jiaheng Zhang, Tianwei Zhang. &quot;Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection.&quot; <i>Proceedings of IEEE S&P</i>. San Francisco, CA, USA. pp. 310-328. 2026. doi: 10.1109/SP63933.2026.00214.'
 ---
 
 This work was reported by [IEEE Spectrum](https://spectrum.ieee.org/voice-ai-audio-attacks) on May, 2026. We also have a live interview with [The Agenda of Dubai Eye 103.8](https://omny.fm/shows/the-agenda-with-georgia-tolley/hottest-may-in-the-uae) to talk about this work.
