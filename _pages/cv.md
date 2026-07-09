@@ -41,7 +41,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**J30, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
-[**J29, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*. 2026. doi: to appear. 
+[**J29, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269). 
 
 [**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
 
