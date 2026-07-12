@@ -25,6 +25,8 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
+\[Jul. 2026\] One paper was accepted by ACM MM, which was completed by my asvised Ph.D. student Junhao Wang. Congratulations!
+
 \[Jul. 2026\] We received Best Paper Runner-up Award from IEEE/ACM IWQoS 2026, which is completed by my advised master student Jiacheng Jin. Congratulations!
 
 \[Jun. 2026\] One paper was accepted by IEEE TMC, which was completed by my asvised Ph.D. student Qianniu Chen. Congratulations!
