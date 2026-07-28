@@ -205,9 +205,11 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 Patents
 ======
-[**P33**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
+[**P34**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
 
-[**P32**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
+[**P33**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
+
+[**P32**] Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, Li Lu, Zhenguang Liu, Kui Ren. 基于跨领域自适应的深度伪造语音检测方法. ZL202211533985.5. 2026.
 
 [**P31**] Xiaohang Wang, Yu Xin, **Li Lu**, Kui Ren. 一种基于无监督深度学习的CAN总线流量异常检测方法. ZL2025102027929. 2026.
 
