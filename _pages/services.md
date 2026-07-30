@@ -62,6 +62,7 @@ Reviewer
 Academic Conference Service
 ======
 * Sponsorship Co-chair of ACM Turing Award Celebration Conference China 2026
+* Organizing Committee Member of The 1st CCF Network and System Security Conference
 * Session Chair of PCC 2024 at CCF HHME 2024
 * Moderator of FISITA Intelligent Safety Conference 2025 Cybersecurity Track
 
