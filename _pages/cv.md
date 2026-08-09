@@ -108,7 +108,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C46, ICML, CCF-A**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. *Proceedings of ICML*. Seoul, South Korea. 2026, doi: to appear.
 
-[**C45, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
+[**C45, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. 40(1):21-29. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
 
 [**C44, Interspeech, CCF-B**] Miao He, Peng Cheng, Zhongjie Ba, Qing Wen, **Li Lu**, Xin Yang, Kui Ren. Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection. *Proceedings of ISCA Interspeech*. Sydney, Australia. 2026. doi: to appear.
 
@@ -128,9 +128,9 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C36, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. *Proceedings of IEEE S&P*. pp. 1628-1645. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
 
-[**C35, USENIX SEC, CCF-A**] Tiantian Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Zhan Qin, Kui Ren. MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices. *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian).
+[**C35, USENIX SEC, CCF-A**] Tiantian Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Zhan Qin, Kui Ren. MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices. *Proceedings of USENIX Security Symposium*. pp. 3963-3978. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian).
 
-[**C34, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. *Proceedings of AAAI*. Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
+[**C34, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. *Proceedings of AAAI*. 38(2):719-728, Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
 
 [**C33, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. *Proceedings of IEEE INFOCOM*. pp. 351-360. Vancouver, BC, Canada. 2024. doi: [10.1109/INFOCOM52122.2024.10621229](https://www.doi.org/10.1109/INFOCOM52122.2024.10621229).
 
