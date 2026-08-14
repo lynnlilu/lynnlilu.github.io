@@ -100,15 +100,17 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. *Smart Health*, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
 ## Conference Papers
-[**C49, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. pp. 310-328. San Francisco, CA, USA. 2026. doi: [10.1109/SP63933.2026.00214](https://doi.org/10.1109/SP63933.2026.00214).
+[**C50, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. pp. 310-328. San Francisco, CA, USA. 2026. doi: [10.1109/SP63933.2026.00214](https://doi.org/10.1109/SP63933.2026.00214).
 
-[**C48, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
+[**C49, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
 
-[**C47, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: to appear.
+[**C48, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: to appear.
 
-[**C46, ICML, CCF-A**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. *Proceedings of ICML*. Seoul, South Korea. 2026, doi: to appear.
+[**C47, ICML, CCF-A**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. *Proceedings of ICML*. Seoul, South Korea. 2026. doi: to appear.
 
-[**C45, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. 40(1):21-29. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
+[**C46, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. 40(1):21-29. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
+
+[**C45, MM, CCF-A**] Zheng Guo, Xiaobai Li, Jieyi Ge, Hao Zou, Jing Zheng, **Li Lu**, Feng Lin, Jingwen Feng, Ying Chen, Youchen Luo. RemoPhysEmo: A Multimodal Emotion Dataset with Remotely Sensed Physiological Signals via Video and Radar. *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3838666](https://www.doi.org/10.1145/3767308.3838666).
 
 [**C44, Interspeech, CCF-B**] Miao He, Peng Cheng, Zhongjie Ba, Qing Wen, **Li Lu**, Xin Yang, Kui Ren. Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection. *Proceedings of ISCA Interspeech*. Sydney, Australia. 2026. doi: to appear.
 
