@@ -8,6 +8,10 @@ author_profile: true
 
 ![Best Paper Runner-up Award of IEEE-ACM IWQoS](../images/awards/IWQoS-bestrunnerup.jpg){:height="40%" width="40%"}
 
+* 3rd Award of National College Student Information Security Contest - Advisor (第十九届全国大学生信息安全竞赛(作品赛)暨第三届“长城杯“网数智安全大赛(作品赛)三等奖-指导教师)
+
+![3rd Award of 19th National College Student Information Security Contest](../images/awards/26ncsisc.jpg){:height="40%" width="40%"}
+
 * Notable Reviewer Award of USENIX Security 2025
 
 ![Notable Reviewer of USENIX Security](../images/awards/sec25_notable-reviewer.jpg){:height="40%" width="40%"}
