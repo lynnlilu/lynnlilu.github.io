@@ -34,6 +34,12 @@ Ph.D. Students
 [//]: # (  * Duration: 2024-present)
 [//]: # (  * Research Interests: AIGC watermarking)
 
+* Puhe Hao (郝谱合)
+  * Duration: 2026-present
+  * Research Interests: Audio Watermarking
+* Hongtao Li (李宏涛)
+  * Duration: 2026-present
+  * Research Interests: Attacks on Watermarking
 Master Students
 ======
 * Xiaodi Zhao (赵小迪)
@@ -52,21 +58,16 @@ Master Students
 * Hongshuo Jin (金鸿硕)
   * Duration: 2025-present
   * Research Interest: Audio Deepfake Detection
+* Xuefei Bi (毕雪飞)
+  * Duration: 2026-present
+  * Research Interest: Attack and Defense on LALM
 
 Research Assistants
 ======
-* Puhe Hao (郝谱合)
-  * Duration: 2025-present
-  * Master Student of Nanjing University of Posts and Telecommunications, and Prospective Ph.D. Student
-  * Research Interests: Audio Watermarking
 * Jiaqi Sun (孙佳琦)
   * Duration: 2025-present
   * Master Student of Hong Kong University
   * Research Interests: Safety Evaluation Scenario Generation for Autonomous Driving
-* Hongtao Li (李宏涛)
-  * Duration: 2025-present
-  * Undergraduate Student of Beihang University, and Prospective Ph.D. Student
-  * Research Interests: Attacks on Watermarking
 
 Undergraduate Students
 ======
