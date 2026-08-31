@@ -289,7 +289,9 @@ Teaching
 
 Awards
 ======
-[**A22**] Best Paper Runner-up Award of IEEE/ACM IWQoS 2026, Jul. 2026
+[**A23**] Best Paper Runner-up Award of IEEE/ACM IWQoS 2026, Jul. 2026
+
+[**A22**] 3rd Award of National College Student Information Security Contest - Advisor (第十九届全国大学生信息安全竞赛(作品赛)暨第三届“长城杯“网数智安全大赛(作品赛)三等奖-指导教师), Aug. 2026
 
 [**A21**] Notable Reviewer Award of USENIX Security 2025, Aug. 2025
 
