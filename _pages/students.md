@@ -24,7 +24,7 @@ Ph.D. Students
 * Jingwen Feng (冯静雯)
   * Duration: 2023-present
   * Research Interests: Biometric Security
-  * Publications on: IEEE S&P
+  * Publications on: Journal of Zhejiang University (Engineering Science), IEEE S&P
 * Yuli Wu (吴玉立)
   * Duration: 2024-present
   * Research Interests: Safety of Intended Function for Autonomous Driving
