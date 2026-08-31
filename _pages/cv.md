@@ -39,11 +39,11 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**J31, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
 
-[**J30, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
+[**J30, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*, 23(4):8002-8017. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
 [**J29, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269). 
 
-[**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
+[**J28, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*, 25(9):15251-15266. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
 
 [**J27, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
 
@@ -104,7 +104,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C49, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
 
-[**C48, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: to appear.
+[**C48, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: [10.1109/IWQoS70441.2026.11661132](https://www.doi.org/10.1109/IWQoS70441.2026.11661132).
 
 [**C47, ICML, CCF-A**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. *Proceedings of ICML*. Seoul, South Korea. 2026. doi: to appear.
 
