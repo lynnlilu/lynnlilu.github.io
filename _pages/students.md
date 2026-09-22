@@ -7,11 +7,6 @@ author_profile: true
 
 Ph.D. Students
 ======
-* Meng Chen (陈锰)
-  * Duration: 2021-present
-  * Research Interests: Attacks on Audio Systems
-  * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Doctoral Student Program of the Young S&T Talents Cultivation Project (CAST), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
-  * Publications on: IEEE S&P, USENIX Security, ACM IMWUT/UbiComp, IEEE TIFS, IEEE INFOCOM
 * Junhao Wang (王俊皓)
   * Duration: 2021-present
   * Research Interests: Multi-modal Biometric Anti-spoofing
@@ -77,12 +72,9 @@ Undergraduate Students
   * Major: Computer Science and Technology
   * Qizhen Wenxue Innovation Program
 * Haocheng Yu (余昊铖)
-  * Duration: The class of 2027
+  * Duration: The class of 2027, Prospetive Master Student
   * Major: Turing Honor Class
   * Research Interest: Kernel Fuzzing
-* Guanwen Lu (卢冠雯)
-  * Duration: The class of 2027
-  * Major: Turing Honor Class (Artificial Intelligence)
 * Chang Qin (秦畅)
   * Duration: The class of 2028
   * Major: Computer Science and Technology
@@ -116,6 +108,12 @@ Ph.D. Students
   * Thesis: Research on Speech Attack Detection and Forgery Threat Analysis Towards Speaker Identity Security
   * Publications on: USENIX Security, IEEE S&P
   * Currently: Research Scientist at Alibaba Group
+* Meng Chen (陈锰)
+  * The class of 2026 graduate, Ph.D.
+  * Thesis: Research on Multidimensional Threats to Intelligent Speech Models Based on Convolutional Reverberation Carriers
+  * Award: Young Student Fundamental Research Grant of NSFC (Ph.D. Student), Doctoral Student Program of the Young S&T Talents Cultivation Project (CAST), Best Poster Runner-up Poster Award of ACM MobiCom, Student Travel Grant of IEEE INFOCOM, Outstanding Bachelor Dissertation Award of 2021, Supporting Outstanding Doctoral Dissertation Scholarship of Zhejiang University
+  * Publications on: IEEE S&P, USENIX Security, ACM IMWUT/UbiComp, IEEE TIFS, IEEE INFOCOM
+  * Currently: Research Scientisit at ByteDance with Frontier Technique Domain Talent Program
 
 Graduate Students
 ------
@@ -189,6 +187,9 @@ Undergraduate Students
   * Duration: The class of 2027
   * Major: Mechanical Engineering (ZJU-UIUC Institute)
   * Qizhen Wenxue Innovation Program
+* Guanwen Lu (卢冠雯)
+  * Duration: The class of 2027
+  * Major: Turing Honor Class (Artificial Intelligence)
 
 Undergraduate Students of SRTP
 ------
