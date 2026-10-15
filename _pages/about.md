@@ -25,7 +25,7 @@ Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name no
 
 News
 =====
-\[Oct. 2026\] One paper was accepted by CCF TPCI, which was completed by my advised Ph.D. student Yuli Wu. Congratudations!
+\[Oct. 2026\] One paper was accepted by CCF TPCI, which was completed by my advised Ph.D. student Yuli Wu. Congratulations!
 
 \[Jul. 2026\] One paper was accepted by ACM MM, which was completed by my asvised Ph.D. student Junhao Wang. Congratulations!
 
