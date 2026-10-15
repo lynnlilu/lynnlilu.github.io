@@ -35,15 +35,17 @@ Publications
 ======
 I have published over 80 papers on peer-reviewed conferences and journals.
 ## Journal Papers
-[**J33, TMC, CCF-A**]	Qianniu Chen, **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*, 25(11):19859–19873. 2026. doi: [10.1109/TMC.2026.3709188](https://www.doi.org/10.1109/TMC.2026.3709188). 
+[**J34, TMC, CCF-A**]	Qianniu Chen, **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*, 25(11):19859–19873. 2026. doi: [10.1109/TMC.2026.3709188](https://www.doi.org/10.1109/TMC.2026.3709188). 
 
-[**J32, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
+[**J33, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
 
-[**J31, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*, 23(4):8002-8017. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
+[**J32, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*, 23(4):8002-8017. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
-[**J30, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*, 25(11):19523-19540. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269). 
+[**J31, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*, 25(11):19523-19540. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269). 
 
-[**J29, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*, 25(9):15251-15266. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
+[**J30, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*, 25(9):15251-15266. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
+
+[**J29, TPCI, CCF-B**] Yuli Wu, Duheng Pan, Puhe Hao, Yu\'an Huang, Feng Lin, **Li Lu**\*. [ReaLiDAR: Material-Aware LiDAR Simulation for Robust 3D Sensing in Complex Environments](https://lynnlilu.github.io/publication/2026-10-journal-realidar-tpci). *CCF Transactions on Pervasive Computing and Interaction*. 2026. doi: to appear. 
 
 [**J28, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
 
