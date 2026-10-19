@@ -50,7 +50,7 @@ Master Students
 * Zheng Yan (闫政)
   * Duration: 2025-present
   * Research Interest: Autonomous Driving Security
-  * Publications on: IEEE TIFS
+  * Publications on: CBD, IEEE TIFS
 * Hongshuo Jin (金鸿硕)
   * Duration: 2025-present
   * Research Interest: Audio Deepfake Detection
