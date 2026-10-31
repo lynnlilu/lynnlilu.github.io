@@ -1,11 +1,11 @@
-\---  
+---  
 layout: archive  
 title: "CV"  
 permalink: <u>cv</u>  
 author_profile: true  
 redirect_from:  
-  \- /resume  
-\---
+- /resume  
+---
 
 {% include base_path %}  
 [Full CV](http://lynnlilu.github.io/files/cv-luli.pdf)
@@ -209,7 +209,6 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. *Proceedings of CCF ACA*. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8\_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
 
-
 ## Posters
 
 [**CP2, MobiCom**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). *Proceedings of ACM MobiCom*. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
@@ -409,6 +408,6 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 # Talks
 
-  <ul>{% for post in site.talks reversed %}  
-    {% include archive-single-talk-cv.html %}  
+  <ul>{% for post in site.talks reversed %}    
+    {% include archive-single-talk-cv.html %}    
   {% endfor %}</ul>
