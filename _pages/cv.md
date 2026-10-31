@@ -1,55 +1,56 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+\---  
+layout: archive  
+title: "CV"  
+permalink: <u>cv</u>  
+author_profile: true  
+redirect_from:  
+  \- /resume  
+\---
 
-{% include base_path %}
+{% include base_path %}  
 [Full CV](http://lynnlilu.github.io/files/cv-luli.pdf)
 
-Research Experience
-======
-* Jul. 2020-present: Research Professor (特聘研究员)
-  * Zhejiang University
-  * Duties included: I am a tenure-track Research Professor and Ph.D. advisor of College of [Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and [School of Cyber Science and Technology](https://icsr.zju.edu.cn/icsren/) at Zhejiang University, also affiliated with the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/). My research interests include intelligent voice security, autonomous driving security, IoT security, ubiquitous computing, mobile sensing.
+# Research Experience
 
-* Aug. 2015-Jun. 2020: Research Assistant
-  * Shanghai Jiao Tong University
-  * Duties included: My previous research interest was cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
-  * Advisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93) (IEEE Fellow)
+- Jul. 2020-present: Research Professor (特聘研究员)
+  - Zhejiang University
+  - Duties included: I am a tenure-track Research Professor and Ph.D. advisor of College of [Computer Science and Technology](http://www.en.cs.zju.edu.cn/) and [School of Cyber Science and Technology](https://icsr.zju.edu.cn/icsren/) at Zhejiang University, also affiliated with the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/). My research interests include intelligent voice security, autonomous driving security, IoT security, ubiquitous computing, mobile sensing.
+- Aug. 2015-Jun. 2020: Research Assistant
+  - Shanghai Jiao Tong University
+  - Duties included: My previous research interest was cloud computing and network economic, now I mainly work on mobile and ubiquitous computing, cyber security and privacy, human-computer interactions. The main work is to adopt signal processing and machine learning techniques in mobile network and applications.
+  - Advisor: Prof. [Jiadi Yu](http://www.cs.sjtu.edu.cn/~jdyu/), Prof. [Minglu Li](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=93) (IEEE Fellow)
+- Oct. 2018-Sep. 2019: Visiting Research Student
+  - Rutgers, The State University of New Jersey (Rutgers University)
+  - Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://ece.rutgers.edu/). And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)).
+  - Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (AAAS/ACM/IEEE/NAI Fellow)
 
-* Oct. 2018-Sep. 2019: Visiting Research Student
-  * Rutgers, The State University of New Jersey (Rutgers University)
-  * Duties included: Mainly worked on acoustic-based communication system and mmWave radar-based sensing applications. This research experience is at Wireless Information Network Laboratory ([WINLAB](https://winlab.rutgers.edu/)) and [Department of Electrical and Computer Engineering](https://ece.rutgers.edu/). And the joint Ph.D. training program is supported by China Scholarship Council ([CSC](https://www.csc.edu.cn)). 
-  * Advisor: Prof. [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (AAAS/ACM/IEEE/NAI Fellow)
+# Education Background
 
-Education Background
-======
-* Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, Hangzhou, China, 2020
-* B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, Xi'an, China, 2015
+- Ph.D. in Computer Science and Technology, Shanghai Jiao Tong University, Hangzhou, China, 2020
+- B.E. in Computer Science and Technology & B.Admin in Business Administration, Xi'an Jiaotong University, Xi'an, China, 2015
 
-Publications
-======
+# Publications
+
 I have published over 80 papers on peer-reviewed conferences and journals.
-## Journal Papers
-[**J34, TMC, CCF-A**]	Qianniu Chen, **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*, 25(11):19859–19873. 2026. doi: [10.1109/TMC.2026.3709188](https://www.doi.org/10.1109/TMC.2026.3709188). 
 
-[**J33, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515). 
+
+## Journal Papers
+
+[**J34, TMC, CCF-A**]	Qianniu Chen, **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*, 25(11):19859–19873. 2026. doi: [10.1109/TMC.2026.3709188](https://www.doi.org/10.1109/TMC.2026.3709188).
+
+[**J33, COMST, JCR-Q1**] Aya El-Fatyany, Jabar Mahmood, Michael Abebe Berwo, Xiaohang Wang, **Li Lu**, Qiang Xue, Kui Ren. Intrusion Detection and Prevention for Intra- and Inter-vehicle Networks: A Comprehensive Survey. *IEEE Communications Surveys and Tutorials*, 28:5345-5378. 2026. doi: [10.1109/COMST.2026.3674515](https://www.doi.org/10.1109/COMST.2026.3674515).
 
 [**J32, TDSC, CCF-A**] Feng Lin, Tiantian Liu, Teshi Meng, Tong Wu, Zhongjie Ba, **Li Lu**, Kui Ren. A Passive Defense Against Out-of-Band Injection Threats to Microphone-Based Devices. *IEEE Transactions on Dependable and Secure Computing*, 23(4):8002-8017. 2026. doi: [10.1109/TDSC.2026.3679695](https://www.doi.org/10.1109/TDSC.2026.3679695).
 
-[**J31, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*, 25(11):19523-19540. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269). 
+[**J31, TMC, CCF-A**]	Feng Lin, Ziwei Liu, Teshi Meng, Benaouda Chouaib B., **Li Lu**, Qiang Xue, Kui Ren. Physical Adversarial Example Attacks towards LiDAR Perception via Electromagnetic Injection. *IEEE Transactions on Mobile Computing*, 25(11):19523-19540. 2026. doi: [10.1109/TMC.2026.3712269](https://www.doi.org/10.1109/TMC.2026.3712269).
 
 [**J30, TMC, CCF-A**] Biyun Sheng, Wangquan Qin, Hui Cai, Jun Li, **Li Lu**, Tie Qiu, Fu Xiao. AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals. *IEEE Transactions on Mobile Computing*, 25(9):15251-15266. 2026. doi: [10.1109/TMC.2026.3698565](https://www.doi.org/10.1109/TMC.2026.3698565).
 
-[**J29, TPCI, CCF-B**] Yuli Wu, Duheng Pan, Puhe Hao, Yu\'an Huang, Feng Lin, **Li Lu**\*. [ReaLiDAR: Material-Aware LiDAR Simulation for Robust 3D Sensing in Complex Environments](https://lynnlilu.github.io/publication/2026-10-journal-realidar-tpci). *CCF Transactions on Pervasive Computing and Interaction*. 2026. doi: to appear. 
+[**J29, TPCI, CCF-B**] Yuli Wu, Duheng Pan, Puhe Hao, Yu'an Huang, Feng Lin, **Li Lu***. [ReaLiDAR: Material-Aware LiDAR Simulation for Robust 3D Sensing in Complex Environments](https://lynnlilu.github.io/publication/2026-10-journal-realidar-tpci). *CCF Transactions on Pervasive Computing and Interaction*. 2026. doi: [10.1007/s42486-026-00286-4](https://www.doi.org/10.1007/s42486-026-00286-4).
 
-[**J28, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472). 
+[**J28, TIFS, CCF-A**] Junhao Wang, **Li Lu***, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*, 20:8628-8642. 2025. doi: [10.1109/TIFS.2025.3598472](https://www.doi.org/10.1109/TIFS.2025.3598472).
 
-[**J27, TIFS, CCF-A**] Meng Zhang, **Li Lu**\*, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). *IEEE Transactions on Information Forensics and Security*, 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
+[**J27, TIFS, CCF-A**] Meng Zhang, **Li Lu***, Yuhan Wu, Zheng Yan, Jiaqi Sun, Feng Lin, Kui Ren. [DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery](https://lynnlilu.github.io/publication/2025-01-journal-droneaudioid-tifs). *IEEE Transactions on Information Forensics and Security*, 20:1447-1461. 2025. doi: [10.1109/TIFS.2025.3527814](https://www.doi.org/10.1109/TIFS.2025.3527814).
 
 [**J26, TC, CCF-A**] Hanxue Shi, Yunlang Cai, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren, Kaiwei Wu, Yinhe Shen. FBRE: Fuzzing Based Bit-level Reverse Engineering of Vehicular CAN Bus. *IEEE Transactions on Computers*, 75(4):1403-1417. 2025. doi: [10.1109/TC.2025.3647888](https://www.doi.org/10.1109/TC.2025.3647888).
 
@@ -59,13 +60,13 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**J23, JSA, CCF-B**]	Yu Xin, Xiaohang Wang, **Li Lu**, Shuguo Zhuo, Yingtao Jiang, Amit Kumar Singh, Kui Ren, Mei Yang, Kaiwei Wu. LUFT-CAN: A lightweight unsupervised learning based intrusion detection system with frequency-time analysis for vehicular CAN bus. *Journal of Systems Architecture*, 168, 103567. 2025. doi: [10.1016/j.sysarc.2025.103567](https://authors.elsevier.com/c/1llNQ4weOvwXQR).
 
-[**J22, ToN, CCF-A**] **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). *IEEE/ACM Transactions on Networking*, 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839). 
+[**J22, ToN, CCF-A**] **Li Lu***, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Jinsong Han, Yanmin Zhu, Kui Ren. [An Imperceptible Eavesdropping Attack on WiFi Sensing Systems](https://lynnlilu.github.io/publication/2024-05-journal-ActListener-ton). *IEEE/ACM Transactions on Networking*, 32(5):4009-4024. 2024. doi: [10.1109/TNET.2024.3403839](https://www.doi.org/10.1109/TNET.2024.3403839).
 
-[**J21, TIFS, CCF-A**] Meng Chen, **Li Lu**\*, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). *IEEE Transactions on Information Forensics and Security*, 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
+[**J21, TIFS, CCF-A**] Meng Chen, **Li Lu***, Jiadi Yu, Zhongjie Ba, Feng Lin, Kui Ren. [AdvReverb: Rethinking the Stealthiness of Audio Adversarial Examples to Human Perception](https://lynnlilu.github.io/publication/2023-12-journal-AdvReverb-tifs). *IEEE Transactions on Information Forensics and Security*, 19:1948-1962. 2024. doi: [10.1109/TIFS.2023.3345639](https://www.doi.org/10.1109/TIFS.2023.3345639).
 
-[**J20, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. *IEEE Transactions on Dependable and Secure Computing*, 22(3):2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117). 
+[**J20, TDSC, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. ACL: Account Linking in Online Social Networks with Robust Camera Fingerprint Matching. *IEEE Transactions on Dependable and Secure Computing*, 22(3):2925-2942. 2024. doi: [10.1109/TDSC.2024.3522117](https://www.doi.org/10.1109/TDSC.2024.3522117).
 
-[**J19, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. *IEEE Transactions on Dependable and Secure Computing*, 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695). 
+[**J19, TDSC, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. *IEEE Transactions on Dependable and Secure Computing*, 22(3):1924-1940. 2024. doi: [10.1109/TDSC.2024.3473695](https://www.doi.org/10.1109/TDSC.2024.3473695).
 
 [**J18, TIFS, CCF-A**] Zhongjie Ba, Bin Gong, Yuwei Wang, Yuxuan Liu, Peng Cheng, Feng Lin, **Li Lu**, Kui Ren. Indelible Footprints of Inaudible Command Injection. *IEEE Transactions on Information Forensics and Security*, 19:8485-8499. 2024. doi: [10.1109/TIFS.2024.3459728](https://www.doi.org/10.1109/TIFS.2024.3459728).
 
@@ -83,82 +84,84 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**J11, TDSC, CCF-A**] Peng Cheng, Yuexin Wu, Yuan Hong, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. UniAP: Protecting Speech Privacy with Non-targeted Universal Adversarial Perturbations. *IEEE Transactions on Dependable and Secure Computing*, 21(1):31-46. 2023. doi: [10.1109/TDSC.2023.3242292](https://doi.org/10.1109/TDSC.2023.3242292).
 
-[**J10, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). *The Computer Journal*, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153). 
+[**J10, Computer Journal, CCF-B**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [Enable Traditional Laptops with Virtual Writing Capability Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2020-01-journal-VPad-CompJ). *The Computer Journal*, 64(12):1814-1831. 2021. doi: [10.1093/comjnl/bxz153](https://www.doi.org/10.1093/comjnl/bxz153).
 
-[**J9, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). *Chinese Journal of Computers*, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002). 
+[**J9, CJC, T1**] **Li Lu**, Jiadi Yu, Minglu Li. [Towards a Real-Time Anti-Theft Method for Mobile Devices Leveraging Acoustic Sensing](https://lynnlilu.github.io/publication/2020-02-journal-EchoScan-CJC). *Chinese Journal of Computers*, 43(10):2002-2018. 2020. doi: [10.11897/SP.J.1016.2020.02002](https://www.doi.org/10.11897/SP.J.1016.2020.02002).
 
-[**J8, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). *IEEE Transactions on Mobile Computing*, 20(2):337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468). 
+[**J8, TMC, CCF-A**] Jiadi Yu, **Li Lu**, Yingying Chen, Yanmin Zhu, Linghe Kong. [An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing](https://lynnlilu.github.io/publication/2019-10-journal-KeyListener-TMC). *IEEE Transactions on Mobile Computing*, 20(2):337-351. 2020. doi: [10.1109/TMC.2019.2947468](10.1109/TMC.2019.2947468).
 
-[**J7, TMC, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Feilong Tang. Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi. *IEEE Transactions on Mobile Computing*, 20(11):3148-3162. 2020. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955). 
+[**J7, TMC, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Feilong Tang. Continuous Authentication through Finger Gesture Interaction for Smart Homes Using WiFi. *IEEE Transactions on Mobile Computing*, 20(11):3148-3162. 2020. doi: [10.1109/TMC.2020.2994955](https://www.doi.org/10.1109/TMC.2020.2994955).
 
-[**J6, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. Acoustic-based Sensing and Applications: A Survey. *Computer Networks*, 181:107447:1-107447:19. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447). 
+[**J6, COMNET, CCF-B**] Yang Bai, **Li Lu**, Jerry Cheng, Jian Liu, Yingying Chen, Jiadi Yu. Acoustic-based Sensing and Applications: A Survey. *Computer Networks*, 181:107447:1-107447:19. 2020. doi: [10.1016/j.comnet.2020.107447](https://www.doi.org/10.1016/j.comnet.2020.107447).
 
-[**J5, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). *IEEE/ACM Transactions on Networking*, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733). 
+[**J5, ToN, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Linghe Kong, Minglu Li. [Lip Reading-based User Authentication through Acoustic Sensing on Smartphones](https://lynnlilu.github.io/publication/2019-01-journal-LipPass-TON). *IEEE/ACM Transactions on Networking*, 27(1):447-460. 2019. doi: [10.1109/TNET.2019.2891733](https://www.doi.org/10.1109/TNET.2019.2891733).
 
-[**J4, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). *IEEE Transactions on Parallel and Distributed Systems*, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236). 
+[**J4, TPDS, CCF-A**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Minglu Li. [A Double Auction Mechanism to Bridge Users Task Requirements and Providers Resources in Two-Sided Cloud Markets](https://lynnlilu.github.io/publication/2018-04-journal-Auction-TPDS). *IEEE Transactions on Parallel and Distributed Systems*, 29(4):720-733. 2018. doi: [10.1109/TPDS.2017.2781236](https://www.doi.org/10.1109/TPDS.2017.2781236).
 
-[**J3, PARCOM, CCF-B**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds. *Parallel Computing*, 81(1):85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003). 
+[**J3, PARCOM, CCF-B**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li. Online Cost-rejection Rate Scheduling for Resource Requests in Hybrid Clouds. *Parallel Computing*, 81(1):85-103. 2018. doi: [10.1016/j.parco.2018.12.003](https://www.doi.org/10.1016/j.parco.2018.12.003).
 
 [**J2, LSENS**] Hao Kong, Ruiqi Shen, Yuehua Liu, Xiangyu Xu, **Li Lu**. Rail-Free mmWave Synthetic Aperture Radar Enabled by Quadruped Robots. *IEEE Sensors Letters*. 2026. doi: [10.1109/LSENS.2026.3731658](https://www.doi.org/10.1109/LSENS.2026.3731658).
 
 [**J1, Smart Health**] Cong Shi, **Li Lu**, Jian Liu, Yan Wang, Yingying Chen, Jiadi Yu. mPose: Environment- and Subject-Agnostic 3D Skeleton Posture Reconstruction Leveraging a Single mmWave Device. *Smart Health*, 23:100228:1-100228:14. 2022. doi: [10.1016/j.smhl.2021.100228](https://doi.org/10.1016/j.smhl.2021.100228).
 
+
 ## Conference Papers
-[**C51, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. pp. 310-328. San Francisco, CA, USA. 2026. doi: [10.1109/SP63933.2026.00214](https://doi.org/10.1109/SP63933.2026.00214).
 
-[**C50, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
+[**C51, S\&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu***, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S\&P*. pp. 310-328. San Francisco, CA, USA. 2026. doi: [10.1109/SP63933.2026.00214](https://doi.org/10.1109/SP63933.2026.00214).
 
-[**C49, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: [10.1109/IWQoS70441.2026.11661132](https://www.doi.org/10.1109/IWQoS70441.2026.11661132).
+[**C50, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu***, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
+
+[**C49, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu***. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: [10.1109/IWQoS70441.2026.11661132](https://www.doi.org/10.1109/IWQoS70441.2026.11661132).
 
 [**C48, ICML, CCF-A**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. *Proceedings of ICML*. Seoul, South Korea. 2026. doi: to appear.
 
-[**C47, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. 40(1):21-29. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960). 
+[**C47, AAAI, CCF-A**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. *Proceedings of AAAI*. 40(1):21-29. Singapore. 2026. doi: [10.1609/aaai.v40i1.36960](https://www.doi.org/10.1609/aaai.v40i1.36960).
 
 [**C46, MM, CCF-A**] Zheng Guo, Xiaobai Li, Jieyi Ge, Hao Zou, Jing Zheng, **Li Lu**, Feng Lin, Jingwen Feng, Ying Chen, Youchen Luo. RemoPhysEmo: A Multimodal Emotion Dataset with Remotely Sensed Physiological Signals via Video and Radar. *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3838666](https://www.doi.org/10.1145/3767308.3838666).
 
 [**C45, Interspeech, CCF-B**] Miao He, Peng Cheng, Zhongjie Ba, Qing Wen, **Li Lu**, Xin Yang, Kui Ren. Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection. *Proceedings of ISCA Interspeech*. Sydney, Australia. 2026. doi: to appear.
 
-[**C44, CBD, EI**] Zheng Yan, Hao Kong, **Li Lu**\*. From Natural Language to Driving Scenarios: Agentic Generation for Scenario-Based Testing. *Proceedings CBD*. Kunming, China. 2026. doi: to appear.
+[**C44, CBD, EI**] Zheng Yan, Hao Kong, **Li Lu***. From Natural Language to Driving Scenarios: Agentic Generation for Scenario-Based Testing. *Proceedings CBD*. Kunming, China. 2026. doi: to appear.
 
-[**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. pp. 4663-4681. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
+[**C43, S\&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu***, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S\&P*. pp. 4663-4681. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
-[**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu**\*, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). *Proceedings of IEEE ICC*. Montreal, Canada. 2025. doi: [10.1109/ICC52391.2025.11160828](https://www.doi.org/10.1109/ICC52391.2025.11160828).
+[**C42, ICC, CCF-C**] Yuhan Wu, **Li Lu***, Yuli Wu, Shuguo Zhuo, Zhan Qin, Kui Ren. [GFuzz4CAN: A Generative Model-based Fuzzing Method for In-vehicle Controller Area Network](https://lynnlilu.github.io/publication/2025-06-conference-GFuzz4CAN-icc). *Proceedings of IEEE ICC*. Montreal, Canada. 2025. doi: [10.1109/ICC52391.2025.11160828](https://www.doi.org/10.1109/ICC52391.2025.11160828).
 
-[**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu**\*. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). *Proceedings of IEEE/INNS IJCNN*. Rome, Italy. 2025. doi: [10.1109/IJCNN64981.2025.11227796](https://doi.org/10.1109/IJCNN64981.2025.11227796). 
+[**C41, IJCNN, CCF-C**]	Qianniu Chen, Xiaodi Zhao, Zhehan Gu, Xiao Li, **Li Lu***. [Evaluating Robustness of Voice Conversion Systems under Multi-source Channel Interference](https://lynnlilu.github.io/publications/2025-06-conference-VCE-ijcnn). *Proceedings of IEEE/INNS IJCNN*. Rome, Italy. 2025. doi: [10.1109/IJCNN64981.2025.11227796](https://doi.org/10.1109/IJCNN64981.2025.11227796).
 
 [**C40, MobiSys, CCF-B**] Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, **Li Lu**, Zhongjie Ba, Kui Ren, SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication. *Proceedings of ACM MobiSys*. pp. 515-527. Anaheim, CA, USA. 2025. doi: [10.1145/3711875.3729142](https://www.doi.org/10.1145/3711875.3729142).
 
 [**C39, DAC, CCF-A**] Yunlang Cai, Hanxue Shi, Xiaohang Wang, Haoting Shen, **Li Lu**, Kui Ren. On Bit-level Reverse Engineering of Vehicular CAN Bus. *Proceedings of DAC*. Moscone West, San Francisco, USA. 2025, doi: [10.1109/DAC63849.2025.11132421](https://www.doi.org/10.1109/DAC63849.2025.11132421).
 
-[**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. pp. 7285-7302. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-meng).
+[**C38, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. pp. 7285-7302. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-meng).
 
-[**C37, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. pp. 7303-7320. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun).
+[**C37, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. pp. 7303-7320. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-kun).
 
-[**C36, S&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. *Proceedings of IEEE S&P*. pp. 1628-1645. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
+[**C36, S\&P, CCF-A**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features. *Proceedings of IEEE S\&P*. pp. 1628-1645. San Francisco, CA, USA. 2024. doi: [10.1109/SP54263.2024.00056](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00056).
 
 [**C35, USENIX SEC, CCF-A**] Tiantian Liu, Feng Lin, Zhongjie Ba, **Li Lu**, Zhan Qin, Kui Ren. MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices. *Proceedings of USENIX Security Symposium*. pp. 3963-3978. Philadelphia, PA, USA. 2024. [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian).
 
-[**C34, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. *Proceedings of AAAI*. 38(2):719-728, Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829). 
+[**C34, AAAI, CCF-A**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgeries Clues for Deepfake Detection. *Proceedings of AAAI*. 38(2):719-728, Vancouver, BC, Canada. 2024. doi: [10.1609/aaai.v38i2.27829](https://ojs.aaai.org/index.php/AAAI/article/view/27829).
 
 [**C33, INFOCOM, CCF-A**] Xiangyu Xu, Yu Chen, Zhen Ling, **Li Lu**, Junzhou Luo, Xinwen Fu. mmEar: Push the Limit of COTS mmWave Eavesdropping on Headphones. *Proceedings of IEEE INFOCOM*. pp. 351-360. Vancouver, BC, Canada. 2024. doi: [10.1109/INFOCOM52122.2024.10621229](https://www.doi.org/10.1109/INFOCOM52122.2024.10621229).
 
-[**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu**\*, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](2024-03-conference-VTuberBowTie-iui). *Proceedings of ACM IUI*. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
+[**C32, IUI, CCF-B**] Qianniu Chen, Zhehan Gu, **Li Lu***, Xiangyu Xu, Zhongjie Ba, Feng Lin, Zhenguang Liu, Kui Ren. [Conan's Bow Tie: A Streaming Voice Conversion for Real-Time VTuber Livestreaming](2024-03-conference-VTuberBowTie-iui). *Proceedings of ACM IUI*. pp. 35-50. Greenville, SC, USA. 2024. doi: [10.1145/3640543.3645146](https://doi.org/10.1145/3640543.3645146).
 
 [**C31, SenSys, CCF-B**] Ziwei Liu, Feng Lin, Teshi Meng, Benaouda Chouaib Baha-eddine, **Li Lu**, Qiang Xue, Kui Ren. EMTrig: Physical Adversarial Examples Triggered by Electromagnetic Injection towards LiDAR Perception. *Proceedings of ACM SenSys*. pp. 351-364. Hangzhou, China. 2024. doi: [10.1145/3666025.3699343](https://www.doi.org/10.1145/3666025.3699343).
 
-[**C30, UbiComp, CCF-A**] Meng Chen, **Li Lu**\*, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
+[**C30, UbiComp, CCF-A**] Meng Chen, **Li Lu***, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 7(2), pp. 48:1-48:21. Cancun, Mexico. 2023. doi: [10.1145/3596266](https://www.doi.org/10.1145/3596266).
 
-[**C29, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
+[**C29, UbiComp, CCF-A**] Lei Wang, Meng Chen, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceListener: A Training-free and Universal Eavesdropping Attack on Built-in Speakers of Mobile Devices](https://lynnlilu.github.io/publication/2023-03-conference-VoiceListener-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 7(1), pp. 32:1-32:22. Cancun, Mexico. 2023. doi: [10.1145/3580789](https://www.doi.org/10.1145/3580789).
 
 [**C28, WWW, CCF-A**]	Zhongjie Ba, Qing Wen, Peng Cheng, Yuwei Wang, Feng Lin, **Li Lu**, Zhenguang Liu. Transferring Audio Deepfake Detection Capability across Languages. *Proceedings of ACM WWW*. pp. 2033-2044. Austin, TX, USA. 2023. doi: [10.1145/3543507.3583222](https://www.doi.org/10.1145/3543507.3583222).
 
-[**C27, ICASSP, CCF-B**] Junhao Wang, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). *Proceedings of IEEE ICASSP*. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
+[**C27, ICASSP, CCF-B**] Junhao Wang, **Li Lu***, Zhongjie Ba, Feng Lin, Kui Ren. [Shift to Your Device: Data Augmentation for Device-Independent Speaker Verification Anti-Spoofing](https://lynnlilu.github.io/publication/2023-06-conference-DeAug-icassp). *Proceedings of IEEE ICASSP*. Rhodes Island, Greece. 2023. doi: [10.1109/ICASSP49357.2023.10097168](https://www.doi.org/10.1109/ICASSP49357.2023.10097168).
 
-[**C26, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu**\*, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnlilu.github.io/publication/2023-12-conference-BypTalker-MSN). *Proceedings of IEEE MSN*. pp. 496-503. Nanjing, China. 2023. doi: [10.1109/MSN60784.2023.00077](https://www.doi.org/10.1109/MSN60784.2023.00077). 
+[**C26, MSN, CCF-C**] Qianniu Chen, Kang Fu, **Li Lu***, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [BypTalker: An Adaptive Adversarial Example Attack to Bypass Prefilter-enabled Speaker Recognition](https://lynnlilu.github.io/publication/2023-12-conference-BypTalker-MSN). *Proceedings of IEEE MSN*. pp. 496-503. Nanjing, China. 2023. doi: [10.1109/MSN60784.2023.00077](https://www.doi.org/10.1109/MSN60784.2023.00077).
 
 [**C25, CCS, CCF-A**] Liu Liu, Xinwen Fu, Xiaodong Chen, Jianpeng Wang, Zhongjie Ba, Feng Lin, **Li Lu**, Kui Ren. FITS: Matching Camera Fingerprints Subject to Software Noise Pollution. *Proceedings of ACM CCS*. Copenhagen, Denmark. pp. 1660–1674. 2023. doi: [10.1145/3576915.3616600](https://www.doi.org/10.1145/3576915.3616600).
 
-[**C24, S&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection. *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 3416-3431. 2023. doi: [10.1109/SP46215.2023.00132](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00132).
+[**C24, S\&P, CCF-A**]	Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. MagBackdoor: Beaware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection. *Proceedings of IEEE S\&P*. San Francisco, CA, USA. pp. 3416-3431. 2023. doi: [10.1109/SP46215.2023.00132](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00132).
 
 [**C23, NDSS, CCF-A**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Fan Zhang, Kui Ren. InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise. *Proceedings of NDSS*. San Diego, CA, USA. 2023. doi: [10.14722/ndss.2023.24457](https://www.doi.org/10.14722/ndss.2023.24457).
 
@@ -166,7 +169,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C21, SenSys, CCF-B**]	Yijie Shen, Zhe Ma, Feng Lin, Hao Yan, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. FingerFaker: Spoofing Attack on COTS Fingerprint Recognition Without Victim's Knowledge. *Proceedings of ACM SenSys*. pp. 167-180. Istanbul, Turkiye. 2023. doi: [10.1145/3625687.3625783](https://www.doi.org/10.1145/3625687.3625783).
 
-[**C20, INFOCOM, CCF-A**] Meng Chen, **Li Lu**\*, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. London, United Kingdom. pp. 1419-1428. 2022. doi: [10.1109/INFOCOM48880.2022.9796934](https://doi.org/10.1109/INFOCOM48880.2022.9796934).
+[**C20, INFOCOM, CCF-A**] Meng Chen, **Li Lu***, Zhongjie Ba, Kui Ren. [PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition](https://lynnlilu.github.io/publication/2022-05-conference-PhoneyTalker-infocom). *Proceedings of IEEE INFOCOM*. London, United Kingdom. pp. 1419-1428. 2022. doi: [10.1109/INFOCOM48880.2022.9796934](https://doi.org/10.1109/INFOCOM48880.2022.9796934).
 
 [**C19, INFOCOM, CCF-A**] Hao Kong, **Li Lu**, Jiadi Yu, Yanmin Zhu, Feilong Tang, Yi-Chao Chen, Linghe Kong, Feng Lyu. [Push the Limit of WiFi-based User Authentication towards Undefined Gestures](https://lynnlilu.github.io/publication/2022-05-conference-FreeAuth-infocom). *Proceedings of IEEE INFOCOM*. London, United Kingdom. pp. 410-419. 2022. doi: [10.1109/INFOCOM48880.2022.9796740](https://doi.org/10.1109/INFOCOM48880.2022.9796740).
 
@@ -174,7 +177,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C17, INFOCOM, CCF-A**] Chao Wang, Feng Lin, Tiantian Liu, Ziwei Liu, Yijie Shen, Zhongjie Ba, **Li Lu**, Wenyao Xu, Kui Ren. mmPhone: Acoustic Eavesdropping on Loudspeakers via mmWave-characterized Piezoelectric Effect. *Proceedings of IEEE INFOCOM*. London, United Kingdom. pp. 820-829. 2022. doi: [10.1109/INFOCOM48880.2022.9796806](https://doi.org/10.1109/INFOCOM48880.2022.9796806).
 
-[**C16, SenSys, CCF-B**] Qianniu Chen, Meng Chen, **Li Lu**\*, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [Push the Limit of Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2022-10-conference-PhyTalker-sensys). *Proceedings of ACM SenSys*. Boston, MA, USA. pp. 710-724. 2022. doi: [10.1145/3560905.3568518](https://www.doi.org/10.1145/3560905.3568518).
+[**C16, SenSys, CCF-B**] Qianniu Chen, Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [Push the Limit of Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2022-10-conference-PhyTalker-sensys). *Proceedings of ACM SenSys*. Boston, MA, USA. pp. 710-724. 2022. doi: [10.1145/3560905.3568518](https://www.doi.org/10.1145/3560905.3568518).
 
 [**C15, ICDCS, CCF-B**]	**Li Lu**, Zhongjie Ba, Feng Lin, Jinsong Han, Kui Ren. [ActListener: Imperceptible Activity Surveillance by Pervasive Wireless Infrastructures](https://lynnlilu.github.io/publication/2022-07-conference-ActListener-icdcs). *Proceedings of IEEE ICDCS*. Bologna, Italy. pp. 776-786. 2022. doi: [10.1109/ICDCS54860.2022.00080](https://www.doi.org/10.1109/ICDCS54860.2022.00080).
 
@@ -182,37 +185,39 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C13, ICC, CCF-C**] Liu Liu, Hanlin Yu, Zhongjie Ba, **Li Lu**, Feng Lin, Kui Ren. PassFace: Enabling Practical Anti-Spoofing Facial Recognition with Camera Fingerprinting. *Proceedings of IEEE ICC*. Montreal, Canada. pp. 1-6. 2021. doi: [10.1109/ICC42927.2021.9501053](https://www.doi.org/10.1109/ICC42927.2021.9501053).
 
-[**C12, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320). 
+[**C12, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yan Wang. [VocalLock: Sensing Vocal Tract for Passphrase-Independent User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2020-06-conference-VocalLock-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 4(2), pp. 51:1-51:24. Cancun, Mexico. 2020. doi: [10.1145/3397320](https://www.doi.org/10.1145/3397320).
 
 [**C11, SenSys, CCF-B**] Yang Bai, Jian Liu, **Li Lu**, Yilin Yang, Yingying Chen, Jiadi Yu. BatComm: Enabling Inaudible Acoustic Communication with High-throughput for Mobile Devices. *Proceedings of ACM SenSys*. Yokohama, Japan. 2020. doi: [10.1145/3384419.3430773](https://www.doi.org/10.1145/3384419.3430773).
 
-[**C10, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255). 
+[**C10, UbiComp, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Minglu Li, Xiangyu Xu. [I^3: Sensing Scrolling Human-Computer Interactions for Intelligent Interest Inference on Smartphones](https://lynnlilu.github.io/publication/2019-09-conference-I3-ubicomp). *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/ACM UbiComp*. 3(3), pp. 97:1-97:22. London, England. 2019. doi: [10.1145/3351255](https://www.doi.org/10.1145/3351255).
 
-[**C9, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). *Proceedings of IEEE INFOCOM*. Paris, France. pp. 775-783. 2019. doi: [10.1109/INFOCOM.2019.8737591](https://www.doi.org/10.1109/INFOCOM.2019.8737591). 
+[**C9, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Guangtao Xue, Minglu Li. [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://lynnlilu.github.io/publication/2019-04-conference-KeyListener-infocom). *Proceedings of IEEE INFOCOM*. Paris, France. pp. 775-783. 2019. doi: [10.1109/INFOCOM.2019.8737591](https://www.doi.org/10.1109/INFOCOM.2019.8737591).
 
-[**C8, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi](https://lynnlilu.github.io/publication/2019-07-conference-FingerPass-mobihoc). *Proceedings of ACM MobiHoc*. Catania, Italy. pp. 201-210. 2019. doi: [10.1145/3323679.3326518](https://www.doi.org/10.1145/3323679.3326518). 
+[**C8, MobiHoc, CCF-B**] Hao Kong, **Li Lu**, Jiadi Yu, Yingying Chen, Yanmin Zhu, Linghe Kong, Minglu Li. [FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi](https://lynnlilu.github.io/publication/2019-07-conference-FingerPass-mobihoc). *Proceedings of ACM MobiHoc*. Catania, Italy. pp. 201-210. 2019. doi: [10.1145/3323679.3326518](https://www.doi.org/10.1145/3323679.3326518).
 
 [**C7, SECON, CCF-B**] Hua Xue, Jiadi Yu, Yanmin Zhu, **Li Lu**, Shiyou Qian, Minglu Li. WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth. *Proceedings of IEEE SECON*. Boston, MA, USA. pp. 1-9. 2019. doi: [10.1109/SAHCN.2019.8824859](https://www.doi.org/10.1109/SAHCN.2019.8824859).
 
-[**C6, ICPADS, CCF-C**] Qiang Wu, Jiadi Yu, **Li Lu**, Shiyou Qian, Guangtao Xue. Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee. *Proceedings of IEEE ICPADS*. Tianjin, China. pp. 193-200. 2019. doi: [10.1109/ICPADS47876.2019.00037](https://www.doi.org/10.1109/ICPADS47876.2019.00037). 
+[**C6, ICPADS, CCF-C**] Qiang Wu, Jiadi Yu, **Li Lu**, Shiyou Qian, Guangtao Xue. Dynamically Adjusting Scale of a Kubernetes Cluster Under QoS Guarantee. *Proceedings of IEEE ICPADS*. Tianjin, China. pp. 193-200. 2019. doi: [10.1109/ICPADS47876.2019.00037](https://www.doi.org/10.1109/ICPADS47876.2019.00037).
 
-[**C5, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). *Proceedings of IEEE INFOCOM*. Honolulu, HI, USA. pp. 1466-1474. 2018. doi: [10.1109/INFOCOM.2018.8486283](https://www.doi.org/10.1109/INFOCOM.2018.8486283). 
+[**C5, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). *Proceedings of IEEE INFOCOM*. Honolulu, HI, USA. pp. 1466-1474. 2018. doi: [10.1109/INFOCOM.2018.8486283](https://www.doi.org/10.1109/INFOCOM.2018.8486283).
 
-[**C4, ICPADS, CCF-C**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Minglu Li. [VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2018-12-conference-VPad-ICPADS). *Proceedings of IEEE ICPADS*. Sentosa, Singapore. pp. 244-251. 2018. doi: [10.1109/PADSW.2018.8644615](https://www.doi.org/10.1109/PADSW.2018.8644615). 
+[**C4, ICPADS, CCF-C**] **Li Lu**, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, Xiangyu Xu, Minglu Li. [VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals](https://lynnlilu.github.io/publication/2018-12-conference-VPad-ICPADS). *Proceedings of IEEE ICPADS*. Sentosa, Singapore. pp. 244-251. 2018. doi: [10.1109/PADSW.2018.8644615](https://www.doi.org/10.1109/PADSW.2018.8644615).
 
-[**C3, ICC, CCF-C**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. [Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy](https://lynnlilu.github.io/publication/2017-05-conference-VM-ICC). *Proceedings of IEEE ICC*. Paris, France. pp. 1-6. 2017. doi: [10.1109/ICC.2017.7997241](https://www.doi.org/10.1109/ICC.2017.7997241). 
+[**C3, ICC, CCF-C**] **Li Lu**, Jiadi Yu, Yanmin Zhu, Guangtao Xue, Shiyou Qian, Minglu Li. [Cost-Efficient VM Configuration Algorithm in the Cloud using Mix Scaling Strategy](https://lynnlilu.github.io/publication/2017-05-conference-VM-ICC). *Proceedings of IEEE ICC*. Paris, France. pp. 1-6. 2017. doi: [10.1109/ICC.2017.7997241](https://www.doi.org/10.1109/ICC.2017.7997241).
 
-[**C2, WISE, CCF-C**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, et al. Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting. *Proceedings of WISE*. Moscow, Russia. pp. 259-274. 2017. doi: [10.1007/978-3-319-68783-4_18](https://www.doi.org/10.1007/978-3-319-68783-4_18).
+[**C2, WISE, CCF-C**] Yanhua Cao, **Li Lu**, Jiadi Yu, Shiyou Qian, Yanmin Zhu, Minglu Li, Jian Cao, et al. Online Cost-Aware Service Requests Scheduling in Hybrid Clouds for Cloud Bursting. *Proceedings of WISE*. Moscow, Russia. pp. 259-274. 2017. doi: [10.1007/978-3-319-68783-4\_18](https://www.doi.org/10.1007/978-3-319-68783-4_18).
 
-[**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. *Proceedings of CCF ACA*. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
+[**C1, ACA**] Ahmad Ali, **Li Lu**, Yanmin Zhu, Jiadi Yu. An Energy Efficient Algorithm for Virtual Machine Allocation in Cloud Datacenters. *Proceedings of CCF ACA*. Weihai, Shandong, China. pp. 61-72. 2016. doi: [10.1007/978-981-10-2209-8\_6](https://www.doi.org/0.1007/978-981-10-2209-8_6).
+
 
 ## Posters
-[**CP2, MobiCom**] Meng Chen, **Li Lu**\*, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). *Proceedings of ACM MobiCom*. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
 
-[**CP1, MobiCom**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. Poster: Inaudible High-throughput Communication Through Acoustic Signals. *Proceedings of ACM MobiCom*. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405). 
+[**CP2, MobiCom**] Meng Chen, **Li Lu***, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. [A Non-intrusive and Adaptive Speaker De-Identification Scheme Using Adversarial Examples](https://lynnlilu.github.io/publication/2022-08-conference-VoiceCloak_poster-mobicom). *Proceedings of ACM MobiCom*. Sydney, Australia. pp. 853-855. 2022. doi: [10.1145/3495243.3558260](https://doi.org/10.1145/3495243.3558260).
 
-Patents
-======
+[**CP1, MobiCom**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. Poster: Inaudible High-throughput Communication Through Acoustic Signals. *Proceedings of ACM MobiCom*. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405).
+
+# Patents
+
 [**P34**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
 
 [**P33**] **Li Lu**, Meng Chen, Zhongjie Ba, Feng Lin, Kui Ren. [面向语音身份匿名的卷积性对抗样本构造方法及装置](https://lynnlilu.github.io/patents/2026-patent-1). ZL202211283900.2. 2026.
@@ -271,18 +276,18 @@ Patents
 
 [**P6**] Jiadi Yu, **Li Lu**. [基于滑动式交互操作的推荐系统及方法](https://lynnlilu.github.io/patents/2018-patent-3). ZL201710315487.6. 2018.
 
-[**P5**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019. 
+[**P5**] Guangtao Xue, **Li Lu**, Jiadi Yu, Shiyou Qian. [基于混合扩展方式的云端虚拟机的优化配置方法及其系统](https://lynnlilu.github.io/patents/2019-patent-2). ZL201610668665.9. 2019.
 
 [**P4**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行多人用户认证方法及系统](https://lynnlilu.github.io/patents/2021-patent-1). ZL202011081529.2. 2021.
 
 [**P3**] Jiadi Yu, Hao Kong, **Li Lu**. [基于无线信号进行姿态无关的连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-3). ZL201911140817.8. 2020.
 
-[**P2**] Jiadi Yu, Hao Kong, **Li Lu**. [基于细粒度手指姿态的智能家居连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-1). ZL201811206918.6. 2020.  
+[**P2**] Jiadi Yu, Hao Kong, **Li Lu**. [基于细粒度手指姿态的智能家居连续用户认证方法及系统](https://lynnlilu.github.io/patents/2020-patent-1). ZL201811206918.6. 2020.
 
 [**P1**] Jiadi Yu, Guancheng Liang, **Li Lu**, Xiangyu Xu. [用于手部可穿戴设备的基于直拳动作检测的用户认证方法](https://lynnlilu.github.io/patents/2018-patent-2). ZL201710328296.3. 2018.
 
-Teaching
-======
+# Teaching
+
 [**T5**] Computer Systems II, Undergraduate Course, Fall-Winter 2021-2026
 
 [**T4**] Computer Systems I, Undergraduate Course, Spring-Summer 2021-2026
@@ -293,8 +298,8 @@ Teaching
 
 [**T1**] Froutier Techniques and Research Methodoloty in Cyber Science, Graduate Course, Fall-Winter 2021-2022
 
-Awards
-======
+# Awards
+
 [**A23**] Best Paper Runner-up Award of IEEE/ACM IWQoS 2026, Jul. 2026
 
 [**A22**] 3rd Award of National College Student Information Security Contest - Advisor (第十九届全国大学生信息安全竞赛(作品赛)暨第三届“长城杯“网数智安全大赛(作品赛)三等奖-指导教师), Aug. 2026
@@ -311,7 +316,7 @@ Awards
 
 [**A16**] Outstanding Collaboration Award of HW-ZJU Joint Laboratory of System and Data Security (企业联合实验室优秀合作奖), Dec. 2023
 
-[**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023 
+[**A15**] ACM China SIGAPP Chapter Rising Star Award, Oct. 2023
 
 [**A14**] 3rd Award of National College Student Information Security Contest - Advisor (全国大学生信息安全竞赛三等奖-指导教师), Aug. 2023
 
@@ -319,92 +324,91 @@ Awards
 
 [**A12**] Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖), Dec. 2020
 
-[**A11**] ACM China SIGAPP Chapter Doctoral Dissertation Award, Oct. 2020 
+[**A11**] ACM China SIGAPP Chapter Doctoral Dissertation Award, Oct. 2020
 
-[**A10**] Outstanding Graduate of Shanghai (上海市优秀毕业生), Jun. 2020 
+[**A10**] Outstanding Graduate of Shanghai (上海市优秀毕业生), Jun. 2020
 
-[**A9**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Dec. 2019 
+[**A9**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Dec. 2019
 
-[**A8**] Travel Grant of Global Young Scientists Summit (GYSS) Singapore 2020, Nov. 2019 
+[**A8**] Travel Grant of Global Young Scientists Summit (GYSS) Singapore 2020, Nov. 2019
 
-[**A7**] First Runner-up Poster Award of ACM MobiCom 2019, Oct. 2019 
+[**A7**] First Runner-up Poster Award of ACM MobiCom 2019, Oct. 2019
 
-[**A6**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Nov. 2018 
+[**A6**] National Scholarship for Doctoral Students (博士研究生国家奖学金), Nov. 2018
 
-[**A5**] Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助), Jun. 2018 
+[**A5**] Joint Ph.D. Training Grant of China Scholarship Council (国家留学基金委联合博士培养资助), Jun. 2018
 
-[**A4**] Outstanding Graduate of Xi'an Jiaotong University (西安交通大学优秀毕业生), Apr. 2015 
+[**A4**] Outstanding Graduate of Xi'an Jiaotong University (西安交通大学优秀毕业生), Apr. 2015
 
-[**A3**] National Encouragement Scholarship (国家励志奖学金), Nov. 2014 
+[**A3**] National Encouragement Scholarship (国家励志奖学金), Nov. 2014
 
-[**A2**] Lu Shidi 2nd Scholarship (陆诗娣二等奖学金), Nov. 2013 
+[**A2**] Lu Shidi 2nd Scholarship (陆诗娣二等奖学金), Nov. 2013
 
-[**A1**] National Encouragement Scholarship (国家励志奖学金), Nov. 2012 
+[**A1**] National Encouragement Scholarship (国家励志奖学金), Nov. 2012
 
-Media Coverage
-======
-* IEEE Spectrum, ["Voice AI Systems Are Vulnerable to Hidden Audio Attacks > Research shows sounds unheard by human ears can hijack models’ behavior"](https://spectrum.ieee.org/voice-ai-audio-attacks)
-* IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
-* The Agenda - Dubai Eye 103.8, [“AI voice bots and their susceptibility to hidden audio 'hijack' attacks”](https://omny.fm/shows/the-agenda-with-georgia-tolley/hottest-may-in-the-uae)
-* 浙江日报潮新闻，[“潮声丨记者暗访AI声音克隆乱象：几十元就能批量“偷”走你的声音”](https://tidenews.com.cn/news.html?id=3463221&from_channel=63e60cad5476b20001d52d62&top_id=3463254)
-* 新浪科技, [“语音 AI 系统易遭受隐秘音频攻击”](https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhymivk0030928.shtml)
-* 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
-* 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
-* 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
-* EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
-* 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
-* 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
-* 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
-* RobotToday，[“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://robottoday.com/industry-briefing/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks/2209)
-* AI ForeSights, [“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://www.aiforesights.com/article/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks-mpb3l8a6)
-* Ideaverse.ai, [“Hidden Audio Attacks: How Voice AI Can Be Hijacked by Inaudible Signals”](https://ideaverse.ai/blog/hidden-audio-attacks-how-voice-ai-can-be-hijacked-by-inaudible-signals-mpbozvq4)
-* Futurism, [“Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot”](https://futurism.com/artificial-intelligence/hackers-inaudible-recordings-hijack-ai-voice-chatbots)
-* Cybernews, [“AI voice assistances hijacked by hidden audio commands”](https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks)
-* ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
-* BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
-* TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
-* The Block，[“LipPass will read your lips to keep your phone and wallet secure”](https://www.theblockcrypto.com/tiny/lippass-will-read-your-lips-to-keep-your-phone-and-wallet-secure/)
-* BitcoinExchangeGuide，[“Lip Reading User ID Authentication System LipPass to Help Secure Phone and Wallet”](https://bitcoinexchangeguide.com/lip-reading-user-id-authentication-system-lippass-to-help-secure-phone-and-wallet/)
-* BoingBoing，[“Your locked phone could verify it's you by listening to your lips move”](https://boingboing.net/2019/02/08/your-locked-phone-could-verify.html)
+# Media Coverage
 
-Professional Services
-======
-* Academic Organization Service: 
-  * Executive Committee Member in CCF Technical Committee on Network and System Security
-  * Executive Committee Member in CCF Technical Committee on Pervasive Computing
-  * Executive Committee Member in CCF Data Governance Development Committee
-  * Executive Committee Member in CCF Technical Committee on Internet of Things
-  * Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
-  * Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
-* Editorial Board Member: 
-  * Associate Editor of IEEE Transactions on Information Forensics and Security
-  * Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
-  * Editorial Board Member of Journal of Networking and Network Applications
-* Award Committee:
-  * IEEE ICC 2026 [**CCF-C**]
-* Area Chair: 
-  * ACM BCB 2026
-* Technical Program Committee: 
-  * USENIX Security 2025-2027 [**Top four, CCF-A**]
-  * IEEE INFOCOM 2022-2027, AAAI 2026-2027, CVPR 2026, ACM MM 2026 [**CCF-A**]
-  * IEEE/ACM IWQoS 2021/2023-2026, IEEE ICDCS 2022-2023 [**CCF-B**]
-  * USENIX VehicleSec 2025-2026
-  * IEEE TrustCom 2024-2025, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
-  * IEEE AIoTSys 2025, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
-* Reviewer: 
-  * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Transactions on Multimedia, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACL [**CCF-A**]
-  * ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare, Pattern Recognition, Neural Networks, Knowledge-based Systems, Computer Networks, ACM Transactions on Sensor Networks, IEEE Transactions on Sustainable Computing, Neurocomputing [**JCR-Q1**]
-  * ACM Transactions on Embedded Computing Systems, IEEE Transactions on Audio, Speech and Language Processing, ACM Transactions on Privacy and Security, IEEE ICASSP, ISCA Interspeech [**CCF-B**]
-  * Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE SLT, IEEE IJCNN, IEEE ICC [**CCF-C**]
-  * IEEE Access, Smart Health, Journal of Cloud Computing, IET Communications
-* Membership: 
-  * Senior Member of Association of Computing Machinery ([ACM](https://www.acm.org/))
-  * Senior Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
-  * Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
+- IEEE Spectrum, ["Voice AI Systems Are Vulnerable to Hidden Audio Attacks > Research shows sounds unheard by human ears can hijack models’ behavior"](https://spectrum.ieee.org/voice-ai-audio-attacks)
+- IEEE Spectrum, ["LipPass Authenticates Users Based On the Way They Move Their Mouths"](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/this-new-approach-for-user-identification-allows-phones-to-read-your-lips)
+- The Agenda - Dubai Eye 103.8, [“AI voice bots and their susceptibility to hidden audio 'hijack' attacks”](https://omny.fm/shows/the-agenda-with-georgia-tolley/hottest-may-in-the-uae)
+- 浙江日报潮新闻，[“潮声丨记者暗访AI声音克隆乱象：几十元就能批量“偷”走你的声音”](https://tidenews.com.cn/news.html?id=3463221\&from_channel=63e60cad5476b20001d52d62\&top_id=3463254)
+- 新浪科技, [“语音 AI 系统易遭受隐秘音频攻击”](https://finance.sina.com.cn/tech/roll/2026-05-19/doc-inhymivk0030928.shtml)
+- 搜狐科技，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.sohu.com/a/295748477_100014117)
+- 凤凰网，[“新的智能手机用户身份认证方法读取嘴唇！”](https://feng.ifeng.com/c/7kPoPkAVyX1)
+- 与非网，[“声纹识别技术的机会和挑战”](https://www.eefocus.com/sensor/387327/r0)
+- EEToday电子头条，[“上海交大团队开发出动动嘴唇完成手机验证新平台”](https://www.eetoday.com/news/AI/201902/50153.html)
+- 移动支付网，[“唇语识别LipPass：一种用于手机的新型用户身份验证方式”](http://www.mpaypass.com.cn/news/201902/19101438.html)
+- 电子说，[“一种用于手机的新型用户身份验证方式”](http://www.elecfans.com/d/871753.html)
+- 360doc个人图书馆，[“交大研究新的手机身份验证方式：读唇法LipPass”](http://www.360doc.com/content/19/0218/10/1751130_815707765.shtml)
+- RobotToday，[“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://robottoday.com/industry-briefing/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks/2209)
+- AI ForeSights, [“Voice AI Systems Are Vulnerable to Hidden Audio Attacks”](https://www.aiforesights.com/article/voice-ai-systems-are-vulnerable-to-hidden-audio-attacks-mpb3l8a6)
+- Ideaverse.ai, [“Hidden Audio Attacks: How Voice AI Can Be Hijacked by Inaudible Signals”](https://ideaverse.ai/blog/hidden-audio-attacks-how-voice-ai-can-be-hijacked-by-inaudible-signals-mpbozvq4)
+- Futurism, [“Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot”](https://futurism.com/artificial-intelligence/hackers-inaudible-recordings-hijack-ai-voice-chatbots)
+- Cybernews, [“AI voice assistances hijacked by hidden audio commands”](https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks)
+- ETHNews，[“New Smartphone Authentication Method Reads Lips”](https://www.ethnews.com/new-smartphone-authentication-method-reads-lips)
+- BiometricUpdate.com，[“Two behavioral biometric lip-reading techniques emerge”](https://www.biometricupdate.com/201902/two-behavioral-biometric-lip-reading-techniques-emerge)
+- TechTheLead，[“LipPass Can Unlock Your Phone By Tracking Your Lips”](https://techthelead.com/lippass-unlock-phone-tracking-lips/)
+- The Block，[“LipPass will read your lips to keep your phone and wallet secure”](https://www.theblockcrypto.com/tiny/lippass-will-read-your-lips-to-keep-your-phone-and-wallet-secure/)
+- BitcoinExchangeGuide，[“Lip Reading User ID Authentication System LipPass to Help Secure Phone and Wallet”](https://bitcoinexchangeguide.com/lip-reading-user-id-authentication-system-lippass-to-help-secure-phone-and-wallet/)
+- BoingBoing，[“Your locked phone could verify it's you by listening to your lips move”](https://boingboing.net/2019/02/08/your-locked-phone-could-verify.html)
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
+# Professional Services
+
+- Academic Organization Service:
+  - Executive Committee Member in CCF Technical Committee on Network and System Security
+  - Executive Committee Member in CCF Technical Committee on Pervasive Computing
+  - Executive Committee Member in CCF Data Governance Development Committee
+  - Executive Committee Member in CCF Technical Committee on Internet of Things
+  - Member of IEEE Vehicular Technology Society Technical Committee on Autonomous Vehicles
+  - Deputy Secretary-general of Technical Committee in Zhejiang Cyber Space Security Association (2021-2024)
+- Editorial Board Member:
+  - Associate Editor of IEEE Transactions on Information Forensics and Security
+  - Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
+  - Editorial Board Member of Journal of Networking and Network Applications
+- Award Committee:
+  - IEEE ICC 2026 [**CCF-C**]
+- Area Chair:
+  - ACM BCB 2026
+- Technical Program Committee:
+  - USENIX Security 2025-2027 [**Top four, CCF-A**]
+  - IEEE INFOCOM 2022-2027, AAAI 2026-2027, CVPR 2026, ACM MM 2026 [**CCF-A**]
+  - IEEE/ACM IWQoS 2021/2023-2026, IEEE ICDCS 2022-2023 [**CCF-B**]
+  - USENIX VehicleSec 2025-2026
+  - IEEE TrustCom 2024-2025, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
+  - IEEE AIoTSys 2025, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
+- Reviewer:
+  - IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Transactions on Multimedia, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACL [**CCF-A**]
+  - ACM Computing Surveys, Computer Science Review, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Network, IEEE Internet of Things Journal, Expert Systems with Applications, Automotive Innovation, Computer Methods and Programs in Biomedicine, ACM Transactions on Computing for Healthcare, Pattern Recognition, Neural Networks, Knowledge-based Systems, Computer Networks, ACM Transactions on Sensor Networks, IEEE Transactions on Sustainable Computing, Neurocomputing [**JCR-Q1**]
+  - ACM Transactions on Embedded Computing Systems, IEEE Transactions on Audio, Speech and Language Processing, ACM Transactions on Privacy and Security, IEEE ICASSP, ISCA Interspeech [**CCF-B**]
+  - Journal of Information Security and Applications, Pervasive and Mobile Computing, IEEE SLT, IEEE IJCNN, IEEE ICC [**CCF-C**]
+  - IEEE Access, Smart Health, Journal of Cloud Computing, IET Communications
+- Membership:
+  - Senior Member of Association of Computing Machinery ([ACM](https://www.acm.org/))
+  - Senior Member of Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org))
+  - Senior Member of China Computer Federation ([CCF](https://www.ccf.org.cn/))
+
+# Talks
+
+  <ul>{% for post in site.talks reversed %}  
+    {% include archive-single-talk-cv.html %}  
   {% endfor %}</ul>
-  
