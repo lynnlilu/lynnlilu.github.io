@@ -179,7 +179,7 @@ Featured Publications
 ======
 [**C1, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 310-328. 2026.
 
-[**C2, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](https://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026.
+[**C2, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](https://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. pp. 10163-10172. 2026.
 
 [**C3, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 4663-4681. 2025.
 
