@@ -183,9 +183,9 @@ Featured Publications
 
 [**C3, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. San Francisco, CA, USA. pp. 4663-4681. 2025.
 
-[**C4, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
+[**C4, USENIX SEC, CCF-A**] Meng Chen, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [Devil in the Room: Triggering Audio Backdoors in the Physical World](https://lynnlilu.github.io/publication/2024-08-conference-TrojanRoom-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. pp. 7285-7302. 2024. 
 
-[**C5, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. 2024. 
+[**C5, USENIX SEC, CCF-A**] Kun Wang, Xiangyu Xu, **Li Lu**\*, Zhongjie Ba, Feng Lin, Kui Ren. [FraudWhistler: A Resilient, Robust and Plug-and-play Adversarial Example Detection Method for Speaker Recognition](https://lynnlilu.github.io/publication/2024-08-conference-FraudWhistler-usenixsec). *Proceedings of USENIX Security Symposium*. Philadelphia, PA, USA. pp. 7303-7320. 2024. 
 
 [**C6, UbiComp, CCF-A**] Meng Chen, **Li Lu**\*, Junhao Wang, Jiadi Yu, Yingying Chen, Zhibo Wang, Zhongjie Ba, Feng Lin, Kui Ren. [VoiceCloak: Adversarial Example Enabled Voice De-Identification with Balanced Privacy and Utility](https://lynnlilu.github.io/publication/2023-06-conference-VoiceCloak-ubicomp). *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol./ACM UbiComp*. 7(2):48:1-48:21. Cancun, Mexico. 2023.
 
@@ -201,7 +201,7 @@ Featured Publications
 
 [**C12, INFOCOM, CCF-A**] **Li Lu**, Jiadi Yu, Yingying Chen, Hongbo Liu, Yanmin Zhu, Yunfei Liu, Minglu Li. [LipPass: Lip Reading-based User Authentication Leveraging Acoustic Signals on Smartphones](https://lynnlilu.github.io/publication/2018-04-conference-LipPass-infocom). *Proceedings of IEEE INFOCOM*. Honolulu, HI, USA. pp. 1466-1474. 2018.
 
-[**J1, TMC, CCF-A**]	Qianniu Chen, **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*. 2026. 
+[**J1, TMC, CCF-A**]	Qianniu Chen, **Li Lu**\*, Meng Chen, Jiadi Yu, Zhongjie Ba, Feng Lin, Peng Cheng, Kui Ren. [Rethinking Practical Adversarial Example Attack on Speaker Recognition in Physical Domain](https://lynnlilu.github.io/publication/2026-07-journal-phytalker-tmc). *IEEE Transactions on Mobile Computing*. 25(11):19859–19873. 2026. 
 
 [**J2, TIFS, CCF-A**] Junhao Wang, **Li Lu**\*, Hao Kong, Feng Lin, Zhongjie Ba, Kui Ren. [Liquid Crystal Mimics Your Heart: A Physical Spoofing Attack against PPG-based Systems](https://lynnlilu.github.io/publication/2025-08-journal-FakePPG-tifs). *IEEE Transactions on Information Forensics and Security*. 20:8628-8642. 2025.
 
