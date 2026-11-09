@@ -106,7 +106,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 ## Conference Papers
 [**C51, S&P, CCF-A**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://lynnlilu.github.io/publication/2026-05-conference-AudioHijack-sp). *Proceedings of IEEE S&P*. pp. 310-328. San Francisco, CA, USA. 2026. doi: [10.1109/SP63933.2026.00214](https://doi.org/10.1109/SP63933.2026.00214).
 
-[**C50, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
+[**C50, MM, CCF-A**] Junhao Wang, Kun Wang, **Li Lu**\*, Chong Zhang, Peng Cheng, Zhongjie Ba, Kui Ren. [PDetective: Beyond Shallow Artifacts in Partial Deepfake Speech Detection](ttps://lynnlilu.github.io/publication/2026-07-conference-PDetective-mm). *Proceedings of ACM MM*. pp. 10163-10172. Rio de Janeiro, Brazil. 2026. doi: [10.1145/3767308.3835715](https://www.doi.org/10.1145/3767308.3835715).
 
 [**C49, IWQoS, CCF-B**]	Jiacheng Jin, Yihe Zhang, Chong Zhang, Feng Lin, Xiaohang Wang, **Li Lu**\*. [CANListener: A Lightweight and Adaptive Intrusion Detection System for In-vehicle CAN Bus](https://lynnlilu.github.io/publication/2026-06-conference-CANListener-iwqos). *Proceedings of IEEE/ACM IWQoS*. Istanbul, Turkey. 2026. doi: [10.1109/IWQoS70441.2026.11661132](https://www.doi.org/10.1109/IWQoS70441.2026.11661132).
 
@@ -380,6 +380,7 @@ Professional Services
   * Associate Editor of IEEE Transactions on Information Forensics and Security
   * Associate Editor of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
   * Editorial Board Member of Journal of Networking and Network Applications
+  * Young Editorial Board Member of Chinese Journal of Network and Information Security
 * Award Committee:
   * IEEE ICC 2026 [**CCF-C**]
 * Area Chair: 
