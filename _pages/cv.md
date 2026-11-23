@@ -214,7 +214,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 ## arXiv Papers
 [**I12**] Junhao Wang, Yidou Chen, **Li Lu**\*, Hongwei Yao, Xiaodan Li, Mengjie Wu, Yuefeng Chen, Zhan Qin, Kui Ren. Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability. 2026. [arXiv:2610.31713](https://arxiv.org/pdf/2610.31713).
 
-[**I11**] Kun Wang, Meng Chen, Junhao Wang, Yuli Wu, **Li Lu**\*, Chong Zhang, Peng Cheng, Jiaheng Zhang, Kui Ren. STEP: Detecting Audio Backdoor Attacks via Stability-based Trigger Exposure Profiling. 2026. [arXiv:2603.18103](https://arxiv.org/pdf/2603.18103)
+[**I11**] Kun Wang, Meng Chen, Junhao Wang, Yuli Wu, **Li Lu**\*, Chong Zhang, Peng Cheng, Jiaheng Zhang, Kui Ren. STEP: Detecting Audio Backdoor Attacks via Stability-based Trigger Exposure Profiling. 2026. [arXiv:2603.18103](https://arxiv.org/pdf/2603.18103).
 
 [**I10**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection. 2026. [arXiv:2604.14604](https://arxiv.org/pdf/2604.14604).
 
