@@ -211,6 +211,31 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**CP1, MobiCom**] Yang Bai, Jian Liu, Yingying Chen, **Li Lu**, Jiadi Yu. Poster: Inaudible High-throughput Communication Through Acoustic Signals. *Proceedings of ACM MobiCom*. Los Cabos, Mexico. pp. 79:1-79:3. 2019. doi: [10.1145/3300061.3343405](https://www.doi.org/10.1145/3300061.3343405). 
 
+## arXiv Papers
+[**I12**] Junhao Wang, Yidou Chen, **Li Lu**\*, Hongwei Yao, Xiaodan Li, Mengjie Wu, Yuefeng Chen, Zhan Qin, Kui Ren. Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability. 2026. [arXiv:2610.31713](https://arxiv.org/pdf/2610.31713).
+
+[**I11**] Kun Wang, Meng Chen, Junhao Wang, Yuli Wu, **Li Lu**\*, Chong Zhang, Peng Cheng, Jiaheng Zhang, Kui Ren. STEP: Detecting Audio Backdoor Attacks via Stability-based Trigger Exposure Profiling. 2026. [arXiv:2603.18103](https://arxiv.org/pdf/2603.18103)
+
+[**I10**] Meng Chen, Kun Wang, **Li Lu**\*, Jiaheng Zhang, Tianwei Zhang. Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection. 2026. [arXiv:2604.14604](https://arxiv.org/pdf/2604.14604).
+
+[**I9**] Qing Wen, Haohao Li, Zhongjie Ba, Peng Cheng, Miao He, **Li Lu**, Kui Ren. HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection. 2026. [arXiv:2602.05670](https://arxiv.org/pdf/2602.05670).
+
+[**I8**] Zhongjie Ba, Liang Yi, Peng Cheng, Qingcao Li, Qinglong Wang, **Li Lu**. Beyond Content: A Comprehensive Speech Toxicity Dataset and Detection Framework Incorporating Paralinguistic Cues. 2026. [arXiv:2605.15984](https://arxiv.org/pdf/2605.15984).
+
+[**I7**] Qingcao Li, Miao He, Liang Yi, Qing Wen, Yitao Zhang, Hongshuo Jin, Peng Cheng, Zhongjie Ba, **Li Lu**, Kui Ren. Divide and Conquer: Multimodal Video Deepfake Detection via Cross-Modal Fusion and Localization. 2026. [arXiv:2602.00209](https://arxiv.org/pdf/2602.00209).
+
+[**I6**] Kui Ren, Ziqi Yang, **Li Lu**, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, Shuo Shao. SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI. 2024. [arXiv:2411.11478](https://arxiv.org/pdf/2411.11478).
+
+[**I5**] Peng Cheng, Yuwei Wang, Peng Huang, Zhongjie Ba, Xiaodong Lin, Feng Lin, **Li Lu**, Kui Ren. ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features. 2024. [arXiv:2408.01808](https://arxiv.org/pdf/2408.01808).
+
+[**I4**] Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, **Li Lu**, Kui Ren. Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection. 2024. [arXiv:2403.01786](https://arxiv.org/pdf/2403.01786).
+
+[**I3**] Peng Huang, Yao Wei, Peng Cheng, Zhongjie Ba, **Li Lu**, Feng Lin, Yang Wang, Kui Ren. Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege. 2024. [arXiv:2401.15704](https://arxiv.org/pdf/2401.15704).
+
+[**I2**] Xinyu Zhang, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, **Li Lu**, Kui Ren. FLTracer: Accurate Poisoning Attack Provenance in Federated Learning. 2023. [arXiv:2310.13424](https://arxiv.org/pdf/2310.13424).
+
+[**I1**] Meng Chen, **Li Lu**, Jiadi Yu, Yingying Chen, Zhongjie Ba, Feng Lin, Kui Ren. Privacy-Utility Balanced Voice De-Identification Using Adversarial Examples. 2022. [arXiv:2211.05446](https://arxiv.org/pdf/2211.05446).
+
 Patents
 ======
 [**P34**] **Li Lu**, Qianniu Chen, Zhehan Gu, Zhongjie Ba, Feng Lin, Kui Ren. [一种虚拟直播环境下的实时语音转换方法和装置](https://lynnlilu.github.io/patents/2026-patent-2). ZL202310608250.2. 2026.
