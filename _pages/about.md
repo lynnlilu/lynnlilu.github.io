@@ -19,7 +19,7 @@ Research Interests
 ======
 His research interests include intelligent voice security, autonomous driving security, IoT security, and ubiquitous computing. The main work is to employ signal processing and deep learning techniques to realize interesting and futuristic systems and applications, as well as explore their security vulnerabilities underlying these techniques and applications and provide cutting-edge protection mechanism for these systems. 
 
-Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. Some of our works' code and data are in the repo [zju-muslab](https://github.com/zju-muslab). 
+Currently, I lead the Mobile and Ubiquitous Security Lab (MUSLab), whose name not only embeds the research area, but also indicates the Muses goddess that gives us the sixth sense in researches. Some of our works' code and data are in the repo [zju-muslab](https://github.com/zju-muslab), and our preprints are in [arXiv](https://arxiv.org/a/lu_l_2.html).
 
 [//]: # ((Also could be the anime LoveLive! ^_^))
 
