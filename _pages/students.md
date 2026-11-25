@@ -67,14 +67,14 @@ Research Assistants
 
 Undergraduate Students
 ======
-* Peiqi Hou (侯沛奇)
-  * Duration: The class of 2027
-  * Major: Computer Science and Technology
-  * Qizhen Wenxue Innovation Program
 * Haocheng Yu (余昊铖)
   * Duration: The class of 2027, Prospetive Master Student
   * Major: Turing Honor Class
   * Research Interest: Kernel Fuzzing
+* Peiqi Hou (侯沛奇)
+  * Duration: The class of 2027
+  * Major: Computer Science and Technology
+  * Qizhen Wenxue Innovation Program
 * Chang Qin (秦畅)
   * Duration: The class of 2028
   * Major: Computer Science and Technology
@@ -83,6 +83,18 @@ Undergraduate Students
   * Duration: The class of 2028
   * Major: Energy and Environmental System Engineering
   * SRTP: Watermarking for Music Copyright Protection, collaborated with Chang
+* Liujun Yang (杨留俊)
+  * Duration: The class of 2029
+  * Major: Artificial Intelligence
+  * Qizhen Wenxue Innovation Program
+* Leyan Yu (余乐妍)
+  * Duration: The class of 2029
+  * Major: Artificial Intelligence
+  * Qizhen Wenxue Innovation Program
+* Qin Weng (翁秦)
+  * Duration: The class of 2029
+  * Major: Hybrid Honor Class
+  * Qizhen Wenxue Innovation Program
 
 Alumni
 ======
