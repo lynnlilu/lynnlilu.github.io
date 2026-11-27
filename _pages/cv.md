@@ -118,7 +118,7 @@ I have published over 80 papers on peer-reviewed conferences and journals.
 
 [**C45, Interspeech, CCF-B**] Miao He, Peng Cheng, Zhongjie Ba, Qing Wen, **Li Lu**, Xin Yang, Kui Ren. Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection. *Proceedings of ISCA Interspeech*. Sydney, Australia. 2026. doi: to appear.
 
-[**C44, CBD, EI**] Zheng Yan, Hao Kong, **Li Lu**\*. From Natural Language to Driving Scenarios: Agentic Generation for Scenario-Based Testing. *Proceedings CBD*. Kunming, China. 2026. doi: to appear.
+[**C44, CBD, EI**] Zheng Yan, Hao Kong, **Li Lu**\*. From Natural Language to Driving Scenarios: Agentic Generation for Scenario-Based Testing. *Proceedings of CBD*. Kunming, China. 2026. doi: to appear.
 
 [**C43, S&P, CCF-A**] Kun Wang, Meng Chen, **Li Lu**\*, Jingwen Feng, Qianniu Chen, Zhongjie Ba, Kui Ren, Chun Chen. [From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era](https://lynnlilu.github.io/publication/2025-05-conference-FOSU-sp). *Proceedings of IEEE S&P*. pp. 4663-4681. San Francisco, CA, USA. 2025. doi: [10.1109/SP61157.2025.00238](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00238).
 
