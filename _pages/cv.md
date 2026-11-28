@@ -415,7 +415,7 @@ Professional Services
   * IEEE INFOCOM 2022-2027, AAAI 2026-2027, CVPR 2026, ACM MM 2026 [**CCF-A**]
   * IEEE/ACM IWQoS 2021/2023-2026, IEEE ICDCS 2022-2023 [**CCF-B**]
   * USENIX VehicleSec 2025-2026
-  * IEEE TrustCom 2024-2025, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
+  * IEEE EuroS&P 2027, IEEE TrustCom 2024-2025, IEEE MSN 2024, IEEE ICPADS 2019/2022-2023 [**CCF-C**]
   * IEEE AIoTSys 2025, IEEE Metaverse 2023, IEEE GreenCom 2023-2024, CCF DPCS 2023
 * Reviewer: 
   * IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Services Computing, IEEE Transactions on Computers, IEEE Transactions on Multimedia, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACL [**CCF-A**]
